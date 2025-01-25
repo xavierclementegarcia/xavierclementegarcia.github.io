@@ -6,7 +6,9 @@
     "about.html": "e6760121"
   },
   "cv.qmd": {
-    "cv.html": "e9a8921b"
+    "cv.html": "e9a8921b",
+    "cv.pdf": "bf27dd79",
+    "cv.tex": "6cec39c1"
   },
   "Divulgation.qmd": {
     "Divulgation.html": "c800f34c"
