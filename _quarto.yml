@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Xavier Clemente García Cevallos"
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: cv.qmd
+        text: CV
+      - text: More
+        menu:
+          - Courses.qmd
+          - Divulgation.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
