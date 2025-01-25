@@ -5,7 +5,7 @@ project:
 website:
   title: "Xavier Clemente García Cevallos"
   navbar:
-    background: primary
+    background: dark
     search: true
     left:
       - href: index.qmd
