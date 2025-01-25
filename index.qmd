@@ -1,5 +1,19 @@
+```{r}
+
+```
+
+::::: {layout-ncol="2"}
+::: left
+![](images/xavier.jpg){width="260"}
+:::
+
+::: right
 ---
-title: "Xavier Clemente García Cevallos"
+subtitle: "Xavier Clemente García Cevallos"
 ---
 
-Hola!, soy estudiante de Biología
+<br> <br>
+
+Hi! I'm currently studying a B.S Biology at the University of Cauca. I'm the Development Biology and Neural Plasticity Research Seedbed Coordinator. I served as a Monitor at the Herbarium of the Natural History Museum of the University of Cauca. I have a deep interest in neurobiology and bioinformatics.
+:::
+:::::
