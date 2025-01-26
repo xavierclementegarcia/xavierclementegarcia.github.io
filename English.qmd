@@ -14,7 +14,7 @@ format-links: [pdf]
 xgarcia\@unicauca.edu.co
 :::
 
-## EDUCATION
+## Education
 
 **B.S Biology Student** <br> *Cauca University* <br> *Expected submission date: Nov 2026* [Aug 2020 --- Present]{.cvdate}
 
