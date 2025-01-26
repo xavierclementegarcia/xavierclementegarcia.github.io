@@ -121,7 +121,7 @@ I'm studying a B. S Biology at the Cauca University. I've a deep interest about 
 
 ::: right
 <br> <br> <br> You can consult my CV in the menu or cickling in the follow hipervincule: <br> 
-- [English CV version](https://xavierclementegarcia.github.io/English.html) 
-- [Spanish CV version](https://xavierclementegarcia.github.io/Spanish.html)
+-   [English CV version](https://xavierclementegarcia.github.io/English.html) 
+-   [Spanish CV version](https://xavierclementegarcia.github.io/Spanish.html)
 :::
 :::::
