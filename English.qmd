@@ -6,7 +6,7 @@ format:
     toc: true
   pdf:
     author: Xavier Clemente García Cevallos
-css: cv.css
+css: English.css
 format-links: [pdf]
 ---
 
@@ -20,9 +20,7 @@ xgarcia\@unicauca.edu.co
 
 ## Courses & Certifications
 
-**Reproducible Research with Quarto**
-<br>
-*Cauca University - Antioquia University, XII Botanic Colombian Congress*[November 2024 --- November 2024]{.cvdate}
+**Reproducible Research with Quarto** <br> *Cauca University - Antioquia University, XII Botanic Colombian Congress*[November 2024 --- November 2024]{.cvdate}
 
 **Introduction to formative research: How to do research without dying in the attempt** <br> *Cauca University. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education* [April 2024 --- April 2024]{.cvdate}
 
@@ -56,7 +54,7 @@ xgarcia\@unicauca.edu.co
 
 **I Symposium Mother cell and genetic terapy** <br> *Bogota, D.C. Military University of New Granada. (Assistant)*[Apri 2023 --- April 2023]{.cvdate}
 
-**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** <br> *Cauca University.Sciences Faculty. Education, Naturals and Exact Sciences Faculty. Colombia. (Assistant) *[April 2023 --- April 2023]{.cvdate}
+**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** <br> *Cauca University.Sciences Faculty. Education, Naturals and Exact Sciences Faculty. Colombia. (Assistant)* [April 2023 --- April 2023]{.cvdate}
 
 **International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)*[November 2021 --- November 2021]{.cvdate}
 
@@ -75,17 +73,17 @@ xgarcia\@unicauca.edu.co
 **Interurban Biological Corridor Proposal in the Tulcan Sector in Popayan Municipality with Strategy for the conservation of the biodiversity and the territorial planification. (ID: 6114)** <br> *Cauca University.Education, Naturals and Exact Sciences Faculty. Biology Department. Nonvascular plants (Bryophytes) Taxonomy field. Project Chief: Professor Gisella Mabel Paz Perafán, Ph.D.* <br> *Description:* <br> *Sampling in the areas surrounding the Faculty of Natural, Exact and Educational Sciences of the University of Cauca. Quantification of the number of families, genera and species of Bryophytes. In this way, it is hoped to contribute to the knowledge of non-vascular plants for conservation and territorial planning purposes that may benefit the proposed interurban biological corridor in the Tulcán Sector of the Municipality of Popayán.* [January 2024 -- February 2025]{.cvdate}
 
 ::: no-print
-## Presentations 
+## Presentations
 
--  **Poster presentation:** <br> *Evaluation of viability and germination capacity in seeds of Pterocaulon alopecuroides - Poster* <br> *XII Botanic Colombian Congress* [05 November 2024]{.cvdate}
+-   **Poster presentation:** <br> *Evaluation of viability and germination capacity in seeds of Pterocaulon alopecuroides - Poster* <br> *XII Botanic Colombian Congress* [05 November 2024]{.cvdate}
 
 -   **Oral presentation:** <br> *Biodiversity of bryophytes at the University of Cauca, Popayán - Oral* <br> *XII Botanic Colombian Congress*[05 November 2024]{.cvdate}
 
 -   **Oral presentation:** *MHN-Unicauca Staff, at the Cauca Stand and the popular economies stand, in the Pacific District in the Green Zone COP-16* <br> *COP-16 - Cali, Colombia* [26 October 2024]{.cvdate}
 
 ## Awards & Honors
--   **Award:** <br> *First Place for outstanding performance in the construction of the DNA Molecule* <br> *Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule* [25 April 2023]{.cvdate}
 
+-   **Award:** <br> *First Place for outstanding performance in the construction of the DNA Molecule* <br> *Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule* [25 April 2023]{.cvdate}
 :::
 
 ::: print-only
