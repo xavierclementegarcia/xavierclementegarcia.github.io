@@ -1,3 +1,5 @@
 ---
 title: "Courses"
 ---
+
+-   [Basic Fundamentals of R](https://xavierclementegarcia.github.io/Basic_Fundamentals_of_R/)
