@@ -30,7 +30,7 @@ I'm studying a B. S Biology at the Cauca University. I've a deep interest about 
 
 ::::: {layout-ncol="2"}
 ::: left
-<br> <br> <br> After, my team and I won the firts place for the approach best build of DNA. This builded only with "STICKS". That's incredible. <br> Thank for my team: Daine Tatiana, Yomira Pérez and Luigi Stiven. We're the best. ::: left
+<br> <br> <br> After, my team and I won the firts place for the approach best build of DNA. This builded only with "STICKS". That's incredible. <br> Thank for my team: Daine Tatiana, Yomira Pérez and Luigi Stiven. We're the best. 
 :::
 
 ::: right
