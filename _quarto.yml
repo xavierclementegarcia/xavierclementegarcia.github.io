@@ -11,12 +11,18 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: cv.qmd
-        text: CV
+      - text: CV
+        menu:
+          - href: English.qmd
+            text: English
+          - href: Spanish.qmd
+            text: Spanish
       - text: More
         menu:
-          - Courses.qmd
-          - Divulgation.qmd
+          - href: Courses.qmd
+            text: Courses
+          - href: Divulgation.qmd
+            text: Divulgation
     right: 
       - icon: twitter
         href: https://x.com/clementegarcC

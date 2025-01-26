@@ -15,5 +15,12 @@
   },
   "Courses.qmd": {
     "Courses.html": "4930f552"
+  },
+  "English.qmd": {
+    "English.html": "12e8d810",
+    "English.tex": "9172bfa1"
+  },
+  "Spanish.qmd": {
+    "Spanish.html": "5f5f3024"
   }
 }
