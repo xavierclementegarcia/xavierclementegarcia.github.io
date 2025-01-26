@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I’m studying a B. S Biology at the Cauca University. I’ve a deep interest about of the Neurobiology, Bioinformatic , Botanic and Physiology fields. In my carrer I had discovered several things and I think that enough for comunicate a little thing to others. I pretend make divulgation of Science and I ’m convence that it should free."
   },
   {
     "objectID": "cv.html",
@@ -250,5 +250,12 @@
     "title": "Courses",
     "section": "",
     "text": "In this section you find my free-courses:\n\nBasic Fundamentals of R"
+  },
+  {
+    "objectID": "about.html#thats-me",
+    "href": "about.html#thats-me",
+    "title": "About",
+    "section": "That’s me",
+    "text": "That’s me"
   }
 ]
