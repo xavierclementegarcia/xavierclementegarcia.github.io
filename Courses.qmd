@@ -1,6 +1,10 @@
 ---
 title: "Courses"
+theme:
+  light: flatly
+  dark: darkly
 ---
+
 
 In this section you find my free-courses:
  

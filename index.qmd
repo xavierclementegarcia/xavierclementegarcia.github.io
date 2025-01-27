@@ -1,8 +1,12 @@
 ---
+theme:
+  light: flatly
+  dark: darkly
 format:
   html:
     header-includes:
       - '<meta name="google-site-verification" content="h2lnvvhWpvnoK2cNWm9_9bdMCOZDnfvi_dNeRIm9GGM" />'
+
 
 ---
 
@@ -20,7 +24,7 @@ subtitle: "Xavier Clemente García Cevallos"
 
 Hi!
 
-I'm currently studying a B.S Biology at the [University of Cauca](https://www.unicauca.edu.co/). I'm the Development Biology and Neural Plasticity Research Seedbed Coordinator. I served as a Monitor at the Herbarium of the Natural History Museum of the University of Cauca. I have a deep interest in neurobiology and bioinformatics.
+My name is Xavier Clemente García Cevallos. I am currently studying a B.S Biology at the [University of Cauca](https://www.unicauca.edu.co/). I serving as the Development Biology and Neural Plasticity Research Seedbed Coordinator. I served as a Monitor at the Herbarium of the Natural History Museum of the University of Cauca. I have a deep interest in neurobiology and bioinformatics.
 
 -   [Webpage Development Biology and Neural Plasticity Research Seebed](https://sites.google.com/unicauca.edu.co/bioden/inicio)
 :::
