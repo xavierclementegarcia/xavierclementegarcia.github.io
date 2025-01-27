@@ -5,8 +5,7 @@ format:
   html:
     toc: true
   pdf:
-    author: Xavier Clemente García Cevallos
-css: Spanish.css
+    css: Spanish.css
 format-links: [pdf]
 ---
 
