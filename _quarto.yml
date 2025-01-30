@@ -24,6 +24,8 @@ website:
             text: Courses
           - href: Divulgation.qmd
             text: Divulgation
+      - href: Research.qmd
+        text: Research
     right: 
       - icon: twitter
         href: https://x.com/clementegarcC
