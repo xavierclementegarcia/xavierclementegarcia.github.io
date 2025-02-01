@@ -37,6 +37,26 @@ website:
         href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002018236
       - text: '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" alt="ORCID" style="width: 20px; height: 20px;">'
         href: https://orcid.org/0000-0002-3284-2363
+  
+  page-footer:
+    left: |
+      Xavier Clemente García Cevallos.  
+
+    center: 
+      - icon: twitter
+        href: https://x.com/clementegarcC
+      - icon: linkedin
+        href: https://www.linkedin.com/in/xavier-clemente-garc%C3%ADa-cevallos-b4727a206/
+      - icon: github
+        href: https://github.com/xavierclementegarcia
+      - text: '<img src="https://investigacion.udca.edu.co/wp-content/uploads/2018/04/cvlac.svg" alt="CLVAC" style="width: 20px; height: 20px;">'
+        href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002018236
+      - text: '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" alt="ORCID" style="width: 20px; height: 20px;">'
+        href: https://orcid.org/0000-0002-3284-2363
+    right: |
+      Made with <a href="https://www.r-project.org/"><img src="https://www.r-project.org/Rlogo.png" alt="R" width="25px"></a> 
+      and <a href="https://quarto.org/"><img src="https://quarto.org/quarto.png" alt="Quarto" width="65px"></a>.
+
 format:
   html:
     theme: cosmo
