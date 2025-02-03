@@ -105,15 +105,11 @@ I'm studying a B. S Biology at the Cauca University. I've a deep interest about 
 :::
 :::::
 
-::::: {layout-ncol="2"}
-::: left
-![](images/IMG-20240526-WA0020.jpg){width="253"}
-:::
-
+:::: {layout-ncol="2"}
 ::: right
 <br> <br> <br> I like Swim. But this photo is very funny.
 :::
-:::::
+::::
 
 ## For more information...
 
