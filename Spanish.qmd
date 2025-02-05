@@ -22,7 +22,8 @@ format:
     css: Spanish.css
 format-links: [pdf]
 ---
-## información de contacto. 
+
+## información de contacto.
 
 ::: {.print-only .contact-block}
 xgarcia\@unicauca.edu.co
@@ -30,11 +31,7 @@ xgarcia\@unicauca.edu.co
 
 ## Educación
 
-**Estudiante de Biología** 
-<br> 
-*Universidad del Cauca* 
-<br> 
-*Año esperado de graduación: Noviembre 2026* 
+**Estudiante de Biología** <br> *Universidad del Cauca* <br> *Año esperado de graduación: Noviembre 2026*
 
 ## Cursos y certificaciones
 
@@ -82,7 +79,7 @@ xgarcia\@unicauca.edu.co
 
 ## Experiencia laboral
 
-**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión y organización del material botánico depositado en esta institución. Orientación a través de la colección pública del Museo de Historia Natural (MHN) de la Universidad del Cauca* [Septiembre 2024 --- Presente]{.cvdate}
+**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión y organización del material botánico depositado en esta institución. Orientación a través de la colección pública del Museo de Historia Natural (MHN) de la Universidad del Cauca* [Octubre 2024 --- Diciembre 2024]{.cvdate}
 
 **Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *spacio extracurricular, conformado por estudiantes y docentes, con la orientación del mentor Dr. Willian Orlando Castillo Ordóñez. El propósito es promover la cultura investigativa a través de la formación para la investigación enfocada principalmente a estudiantes de pregrado, en una o diferentes áreas disciplinares, promoviendo la creatividad, innovación, compromiso, interacción social, trabajo en equipo y apropiación social del conocimiento sobre neurobiología. Mentor: Willian Orlando Castillo Ordoñez, PhD* [Septiembre 2024 --- Septiembre 2024]{.cvdate}
 
@@ -94,7 +91,7 @@ xgarcia\@unicauca.edu.co
 
 -   **Poster presentation:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* [Noviembre 05 2024]{.cvdate}
 
--   **Presentación oral:** >br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* [Noviembre 05 2024]{.cvdate}
+-   **Presentación oral:** \>br\> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* [Noviembre 05 2024]{.cvdate}
 
 -   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *COP-16 - Cali, Colombia* [Octubre 26 2024]{.cvdate}
 
