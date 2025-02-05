@@ -22,6 +22,7 @@ format:
     css: English.css
 format-links: [pdf]
 ---
+
 ## Contact information
 
 ::: {.print-only .contact-block}
@@ -78,7 +79,7 @@ xgarcia\@unicauca.edu.co
 
 ## Work Experience
 
-**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** <br> *Description:* <br> *Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca* [September 2024 -- Present]{.cvdate}
+**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** <br> *Description:* <br> *Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca* [October 2024 -- December 2024]{.cvdate}
 
 **Coordinator of the Research Seedbed in Developmental Biology and Neural Plasticity of Cauca University** <br> *Description:* <br> *Extracurricular space, made up of students and teachers, with the guidance of the mentor Dr. Willian Orlando Castillo Ordóñez. The purpose is to promote research culture through training for research focused mainly on undergraduate students, in one or different disciplinary areas, promoting creativity, innovation, commitment, social interaction, teamwork and social appropriation of knowledge about neurobiology. Mentor: Willian Orlando Castillo Ordoñez, PhD* [September 2024 -- Present]{.cvdate}
 
