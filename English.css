@@ -4,7 +4,8 @@
 /* all formats */
 
 .cvdate {
-  float: right;
+  display: inline-block;
+  margin-left: auto;
   font-style: italic
 }
 

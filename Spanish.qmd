@@ -31,70 +31,78 @@ xgarcia\@unicauca.edu.co
 
 ## Educación
 
-**Estudiante de Biología** <br> *Universidad del Cauca* <br> *Año esperado de graduación: Noviembre 2026*
+**Estudiante de Biología** <br> *Universidad del Cauca* <br> *Año esperado de graduación: 2026*<br>
+[Aug 2020 --- Present]{.cvdate}
 
 ## Cursos y certificaciones
 
-**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* [Noviembre 2024 - Noviembre 2024]{.cvdate}
+**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* <br>[Noviembre 2024 --- Noviembre 2024]{.cvdate}
 
-**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* [Abril 2024 --- Abril 2024]{.cvdate}
+**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* <br> [Abril 2024 --- Abril 2024]{.cvdate}
 
-**Curso Pre Simposio. R con R para Ciencias Biológicas** <br> *Universidad del Cauca. XVII Simposio de Investigación en Ciencias Biológicas* [Noviembre 2023 --- Noviembre 2023]{.cvdate}
+**Curso Pre Simposio. R con R para Ciencias Biológicas** <br> *Universidad del Cauca. XVII Simposio de Investigación en Ciencias Biológicas*<br> [Noviembre 2023 --- Noviembre 2023]{.cvdate}
 
-**Etnofarmacología y Etnobotánica: Transiciones Bioculturales** <br> *Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales* [Junio 2023 --- Junio 2023]{.cvdate}
+**Etnofarmacología y Etnobotánica: Transiciones Bioculturales** <br> *Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> [Junio 2023 --- Junio 2023]{.cvdate}
 
-**Bioinformática de Modelos Moleculares** <br> *Universidad de São Paulo - USP* [Noviembre 2022 --- Noviembre 2022]{.cvdate}
+**Bioinformática de Modelos Moleculares** <br> *Universidad de São Paulo - USP* <br>[Noviembre 2022 --- Noviembre 2022]{.cvdate}
 
-**Dibujo Científico Botánico con Abordaje Etnobiológico** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales* [Diciembre 2022 --- Diciembre 2022]{.cvdate}
+**Dibujo Científico Botánico con Abordaje Etnobiológico** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> [Diciembre 2022 --- Diciembre 2022]{.cvdate}
 
-**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia* [Septiembre 2021 --- Septiembre 2021]{.cvdate}
+**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*<br> [Septiembre 2021 --- Septiembre 2021]{.cvdate}
 
 **Estructuras de Control y Variables en Python** <br> *Servicio Nacional de Aprendizaje SENA - Colombia* [Junio 2022 --- Julio 2022]{.cvdate}
 
-**La química de la vida** <br> *Universidad de Kyoto - KyotoUx* [Marzo 2020 --- Marzo 2021]{.cvdate}
+**La química de la vida** <br> *Universidad de Kyoto - KyotoUx* <br>[Marzo 2020 --- Marzo 2021]{.cvdate}
 
-**Preparación de materiales y equipos básicos para laboratorio químico** <br> *Servicio Nacional de Aprendizaje SENA - Huila. Centro de Desarrollo Agroempresarial y pecuario del Huila - Colombia* [Septiembre 2016 --- Diciembre 2016]{.cvdate}
+**Preparación de materiales y equipos básicos para laboratorio químico** <br> *Servicio Nacional de Aprendizaje SENA - Huila. Centro de Desarrollo Agroempresarial y pecuario del Huila - Colombia*<br> [Septiembre 2016 --- Diciembre 2016]{.cvdate}
 
 ## Conferencias
 
-**XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)* [Noviembre 2024 --- Noviembre 2024]{.cvdate}
+**XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)* <br>[Noviembre 2024 --- Noviembre 2024]{.cvdate}
 
-**Convergencia Regional del Pacífico para la COP-16** <br> *Zona Verde del Distrito Pacífico COP-16. Vicepresidencia de la República. Cali - Colombia (Ponente)* [Octubre 2024 --- Octubre 2024]{.cvdate}
+**Convergencia Regional del Pacífico para la COP-16** <br> *Zona Verde del Distrito Pacífico COP-16. Vicepresidencia de la República. Cali - Colombia (Ponente)*<br> [Octubre 2024 --- Octubre 2024]{.cvdate}
 
-**XVII Simposio de Investigación en Ciencias Biológicas** <br> *Universidad del Cauca (Organizador)* [Noviembre 2023 --- Noviembre 2023]{.cvdate}
+**XVII Simposio de Investigación en Ciencias Biológicas** <br> *Universidad del Cauca (Organizador)*<br> [Noviembre 2023 --- Noviembre 2023]{.cvdate}
 
-**XI Congreso Latinoamericano de Plantas Medicinales** <br> *SOLAPLAMED. Asociación Colombiana de Ciencias Biológicas. Corporación Universitaria Santa Rosa de Cabal (Asistente)* [Septiembre 2023 --- Septiembre 2023]{.cvdate}
+**XI Congreso Latinoamericano de Plantas Medicinales** <br> *SOLAPLAMED. Asociación Colombiana de Ciencias Biológicas. Corporación Universitaria Santa Rosa de Cabal (Asistente)* <br>[Septiembre 2023 --- Septiembre 2023]{.cvdate}
 
-**II Simposio de Actualización en Cáncer: De la Genética a la Clínica** <br> *Bogotá D.C. Universidad Militar Nueva Granada. (Asistente)* [Junio 2023 --- Junio 2023]{.cvdate}
+**II Simposio de Actualización en Cáncer: De la Genética a la Clínica** <br> *Bogotá D.C. Universidad Militar Nueva Granada. (Asistente)* <br>[Junio 2023 --- Junio 2023]{.cvdate}
 
-**I Simposio de Células madre y terapia genética** <br> *Bogotá D.C. Universidad Militar Nueva Granada (Asistente)* [Abril 2023 --- Abril 2023]{.cvdate}
+**I Simposio de Células madre y terapia genética** <br> *Bogotá D.C. Universidad Militar Nueva Granada (Asistente)* <br>[Abril 2023 --- Abril 2023]{.cvdate}
 
-**Simposio en conmemoración del descubrimiento del ADN y el Proyecto Genoma Humano. Concurso por la molécula de ADN más precisa molecularmente** <br> *Universidad del Cauca. Facultad de Ciencias. Facultad de Educación, Ciencias Naturales y Exactas. Colombia. (Asistente)* [Abril 2023 --- Abril 2023]{.cvdate}
+**Simposio en conmemoración del descubrimiento del ADN y el Proyecto Genoma Humano. Concurso por la molécula de ADN más precisa molecularmente** <br> *Universidad del Cauca. Facultad de Ciencias. Facultad de Educación, Ciencias Naturales y Exactas. Colombia. (Asistente)*<br> [Abril 2023 --- Abril 2023]{.cvdate}
 
-**Coloquio Internacional: Ciencias Ómicas, avances, big data e impacto en medicina personalizada y de precisión** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)* [Noviembre 2021 --- Noviembre 2021]{.cvdate}
+**Coloquio Internacional: Ciencias Ómicas, avances, big data e impacto en medicina personalizada y de precisión** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)* <br>[Noviembre 2021 --- Noviembre 2021]{.cvdate}
 
-**XVI Simposio de Investigación en Ciencias Biológicas** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)* [Noviembre 2021 --- Noviembre 2021]{.cvdate}
+**XVI Simposio de Investigación en Ciencias Biológicas** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)* <br>[Noviembre 2021 --- Noviembre 2021]{.cvdate}
 
-**COVID 19: Una aproximación desde la Biología** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)* [Diciembre 2020 --- Diciembre 2020]{.cvdate}
+**COVID 19: Una aproximación desde la Biología** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)*<br> [Diciembre 2020 --- Diciembre 2020]{.cvdate}
 
 ## Experiencia laboral
 
-**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión y organización del material botánico depositado en esta institución. Orientación a través de la colección pública del Museo de Historia Natural (MHN) de la Universidad del Cauca* [Octubre 2024 --- Diciembre 2024]{.cvdate}
+**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión y organización del material botánico depositado en esta institución. Orientación a través de la colección pública del Museo de Historia Natural (MHN) de la Universidad del Cauca* <br>[Octubre 2024 --- Diciembre 2024]{.cvdate}
 
-**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *spacio extracurricular, conformado por estudiantes y docentes, con la orientación del mentor Dr. Willian Orlando Castillo Ordóñez. El propósito es promover la cultura investigativa a través de la formación para la investigación enfocada principalmente a estudiantes de pregrado, en una o diferentes áreas disciplinares, promoviendo la creatividad, innovación, compromiso, interacción social, trabajo en equipo y apropiación social del conocimiento sobre neurobiología. Mentor: Willian Orlando Castillo Ordoñez, PhD* [Septiembre 2024 --- Septiembre 2024]{.cvdate}
+**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *spacio extracurricular, conformado por estudiantes y docentes, con la orientación del mentor Dr. Willian Orlando Castillo Ordóñez. El propósito es promover la cultura investigativa a través de la formación para la investigación enfocada principalmente a estudiantes de pregrado, en una o diferentes áreas disciplinares, promoviendo la creatividad, innovación, compromiso, interacción social, trabajo en equipo y apropiación social del conocimiento sobre neurobiología. Mentor: Willian Orlando Castillo Ordoñez, PhD* <br>[Septiembre 2024 --- Septiembre 2024]{.cvdate}
 
 ## Experiencia en Investigación y Proyectos
 
-**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.* [Enero 2024 --- Febrero 2025]{.cvdate}
+**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.* <br>[Enero 2024 --- Febrero 2025]{.cvdate}
 
 ## Presentaciones
 
--   **Poster presentation:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* [Noviembre 05 2024]{.cvdate}
+-   **Poster presentation:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* <br>[Noviembre 05 2024]{.cvdate}
 
--   **Presentación oral:** \>br\> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* [Noviembre 05 2024]{.cvdate}
+-   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* <br>[Noviembre 05 2024]{.cvdate}
 
--   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *COP-16 - Cali, Colombia* [Octubre 26 2024]{.cvdate}
+-   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *COP-16 - Cali, Colombia* <br>[Octubre 26 2024]{.cvdate}
 
 ## Premios y distinciones
 
--   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente* [Abril 25 2023]{.cvdate}
+-   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente*<br>[Abril 25 2023]{.cvdate}
+:::
+
+::: print-only
+## References
+
+Disponible a solicitud
+:::
