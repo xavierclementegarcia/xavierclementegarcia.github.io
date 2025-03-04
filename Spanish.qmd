@@ -53,7 +53,8 @@ format:
 
 **Dibujo Científico Botánico con Abordaje Etnobiológico** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> \hfill[Diciembre 2022 -Diciembre 2022]{.cvfloat}\
 
-**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*<br> \hfill[Septiembre 2021 - Septiembre 2021]{.cvfloat}\
+**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*<br>
+\hfill[Septiembre 2021 - Septiembre 2021]{.cvfloat}\
 
 **Estructuras de Control y Variables en Python** <br> *Servicio Nacional de Aprendizaje SENA - Colombia* \hfill[Junio 2022 - Julio 2022]{.cvfloat}\
 
