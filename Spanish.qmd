@@ -27,12 +27,6 @@ format:
     default: true
     css: Spanish.css
 ---
-## información de contacto.
-
-::: {.print-only .contact-block}
-xgarcia\@unicauca.edu.co
-:::
-
 ## Educación
 
 **Estudiante de Biología** <br> *Universidad del Cauca* 
