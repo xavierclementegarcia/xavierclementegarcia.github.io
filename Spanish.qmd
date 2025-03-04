@@ -31,7 +31,8 @@ xgarcia\@unicauca.edu.co
 
 ## Educación
 
-**Estudiante de Biología** <br> *Universidad del Cauca* <br> *Año esperado de graduación: 2026*<br>
+**Estudiante de Biología** <br> *Universidad del Cauca* 
+<br>
 [Aug 2020 --- Present]{.cvdate}
 
 ## Cursos y certificaciones
@@ -94,15 +95,15 @@ xgarcia\@unicauca.edu.co
 
 -   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* <br>[Noviembre 05 2024]{.cvdate}
 
--   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *COP-16 - Cali, Colombia* <br>[Octubre 26 2024]{.cvdate}
+-   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *Cali, Colombia* <br>[Octubre 26 2024]{.cvdate}
 
 ## Premios y distinciones
 
--   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente*<br>[Abril 25 2023]{.cvdate}
-:::
+-   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente*<br> [Abril 25 2023]{.cvdate}
+
 
 ::: print-only
-## References
+## Referencias
 
 Disponible a solicitud
 :::
