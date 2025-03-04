@@ -2,25 +2,30 @@
 title: "Curriculum Vitae"
 date: last-modified
 date-format: iso
+
 author: 
   - name: Xavier Clemente García Cevallos
     email: xgarcia@unicauca.edu.co
     orcid: xxxxxxxx
+
 address: "Popayán, Cauca"
 email: xgarcia@unicauca.edu.co
 github: xavierclementegarcia 
-orcid: xxxxxx
+orcid: https://orcid.org/0000-0002-3284-2363 
+
 theme:
   light: flatly
   dark: darkly
+
 fontsize: 12pt
 fontawesome: yes
+
 format:
-  html:
-    toc: true
-  pdf: 
+  html: 
+    toc: true 
+  quarto-cv-pdf: 
+    default: true
     css: English.css
-format-links: [pdf]
 ---
 
 ## Contact information
@@ -31,8 +36,10 @@ xgarcia\@unicauca.edu.co
 
 ## Education
 
-**B.S Biology Student** <br> *Cauca University* <br> *Expected submission date: 2026* <br>
-[Aug 2020 --- Present]{.cvdate}
+**B.S Biology Student** 
+br> *Cauca University* <br> 
+*Expected submission date: 2026* <br>
+\hfill[Aug 2020 --- Present]{.cvdate}
 
 
 ## Courses & Certifications

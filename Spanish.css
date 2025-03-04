@@ -3,10 +3,10 @@
 
 /* all formats */
 
-.cvdate {
+.cvfloat {
   float: right;
-  font-style: italic
 }
+
 
 .print-only {
   display: none;
