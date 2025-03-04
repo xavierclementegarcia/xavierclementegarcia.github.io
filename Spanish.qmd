@@ -48,7 +48,7 @@ format:
 <br> *Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> 
 \hfill[Junio 2023 - Junio 2023]{.cvfloat}\
 
-**Bioinformática de Modelos Moleculares**    <br> *Universidad de São Paulo - USP* <br>
+**GBI Hands On: Modelagem Molecular**    <br> *Universidad de São Paulo - USP - Grupo de Bioingformática. Dpto. Genética - FMRP/USP* <br> 
 \hfill[Noviembre 2022 - Noviembre 2022]{.cvfloat}\ 
 
 **Dibujo Científico Botánico con Abordaje Etnobiológico** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> \hfill[Diciembre 2022 -Diciembre 2022]{.cvfloat}\
