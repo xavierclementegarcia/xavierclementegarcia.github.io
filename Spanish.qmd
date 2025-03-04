@@ -71,7 +71,7 @@ xgarcia\@unicauca.edu.co
 
 **XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)* <br> \hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
 
-**Convergencia Regional del Pacífico para la COP-16** <br> *Zona Verde del Distrito Pacífico COP-16. Vicepresidencia de la República. Cali - Colombia (Ponente)*<br> [Octubre 2024 --- Octubre 2024]{.cvdate}
+**Convergencia Regional del Pacífico para la COP-16** <br> *Zona Verde del Distrito Pacífico COP-16. Vicepresidencia de la República. Cali - Colombia (Ponente)*<br> \hfill[Octubre 2024 --- Octubre 2024]{.cvfloat}\
 
 **XVII Simposio de Investigación en Ciencias Biológicas** <br> *Universidad del Cauca (Organizador)*<br> \hfill[Noviembre 2023 - Noviembre 2023]{.cvfloat}\
 
