@@ -36,34 +36,23 @@ xgarcia\@unicauca.edu.co
 
 ## Education
 
-**B.S Biology Student** 
-br> *Cauca University* <br> 
-*Expected submission date: 2026* <br>
-\hfill[Aug 2020 --- Present]{.cvdate}
-
+**B.S Biology Student** br\> *Cauca University* <br> *Expected submission date: 2026* <br> \hfill[Aug 2020 --- Present]{.cvdate}
 
 ## Courses & Certifications
 
-**Reproducible Research with Quarto** <br> *Cauca University - Antioquia University, XII Botanic Colombian Congress* <br>
-[November 2024 --- November 2024]{.cvdate}
+**Reproducible Research with Quarto** <br> *Cauca University - Antioquia University, XII Botanic Colombian Congress* <br> [November 2024 --- November 2024]{.cvdate}
 
-**Introduction to formative research: How to do research without dying in the attempt** <br> *Cauca University. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education* <br>
-[April 2024 --- April 2024]{.cvdate}
+**Introduction to formative research: How to do research without dying in the attempt** <br> *Cauca University. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education* <br> [April 2024 --- April 2024]{.cvdate}
 
-**Pre-Symposium Course. R with R for Biological Sciences** <br> *Cauca University. XVII Symposium Biological Sciences Research* <br>
-[November 2023 --- November 2023]{.cvdate}
+**Pre-Symposium Course. R with R for Biological Sciences** <br> *Cauca University. XVII Symposium Biological Sciences Research* <br> [November 2023 --- November 2023]{.cvdate}
 
-**Ethnopharmacology and Ethnobotany: Biocultural transitions** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department* <br>
-[June 2023 --- June 2023]{.cvdate}
+**Ethnopharmacology and Ethnobotany: Biocultural transitions** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department* <br> [June 2023 --- June 2023]{.cvdate}
 
-**Molecular Models Bioinformatics** <br> *São Paulo University - USP* <br>
-[November 2022 --- November 2022]{.cvdate}
+**Molecular Models Bioinformatics** <br> *São Paulo University - USP* <br> [November 2022 --- November 2022]{.cvdate}
 
-**Botanical Scientific Drawing with an Ethnobiological Approach** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department* <br>
-[December 2022 --- December 2022]{.cvdate}
+**Botanical Scientific Drawing with an Ethnobiological Approach** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department* <br> [December 2022 --- December 2022]{.cvdate}
 
-**Handling tools in Microsoft Office Excel 2016** <br> *National Learning Service SENA – Colombia* <br>
-[September 2021 --- September 2021]{.cvdate}
+**Handling tools in Microsoft Office Excel 2016** <br> *National Learning Service SENA – Colombia* <br> [September 2021 --- September 2021]{.cvdate}
 
 **Control structures and Variables in Python** <br> *National Learning Service SENA – Colombia* <br>[June 2022 --- July 2022]{.cvdate}
 
@@ -105,6 +94,8 @@ br> *Cauca University* <br>
 
 ::: no-print
 ## Presentations
+
+-   **Poster presentation:** <br> *In-silico evaluation of the therapeutic potential of Pterocaulon alopecuroides in Alzheimer's disease* <br> *National Congress of Neurosciences and XV International Seminar on Neurosciences* <br> [April 24 - April 26]{.cvdate}
 
 -   **Poster presentation:** <br> *Evaluation of viability and germination capacity in seeds of Pterocaulon alopecuroides - Poster* <br> *XII Botanic Colombian Congress* <br>[05 November 2024]{.cvdate}
 

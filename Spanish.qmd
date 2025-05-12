@@ -27,34 +27,26 @@ format:
     default: true
     css: Spanish.css
 ---
+
 ## Educación
 
-**Estudiante de Biología** <br> *Universidad del Cauca* 
-<br>
-\hfill[Aug 2020 - Presente]{.cvfloat}\
+**Estudiante de Biología** <br> *Universidad del Cauca* <br> \hfill[Aug 2020 - Presente]{.cvfloat}\
 
 ## Cursos y certificaciones
 
-**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* <br>
-\hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
+**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
 
-**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* <br> 
-\hfill[Abril 2024 - Abril 2024]{.cvfloat}\
+**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* <br> \hfill[Abril 2024 - Abril 2024]{.cvfloat}\
 
-**Curso Pre Simposio. R con R para Ciencias Biológicas** <br> *Universidad del Cauca. XVII Simposio de Investigación en Ciencias Biológicas*<br> 
-\hfill[Noviembre 2023 - Noviembre 2023]{.cvfloat}\
+**Curso Pre Simposio. R con R para Ciencias Biológicas** <br> *Universidad del Cauca. XVII Simposio de Investigación en Ciencias Biológicas*<br> \hfill[Noviembre 2023 - Noviembre 2023]{.cvfloat}\
 
-**Etnofarmacología y Etnobotánica: Transiciones Bioculturales** 
-<br> *Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> 
-\hfill[Junio 2023 - Junio 2023]{.cvfloat}\
+**Etnofarmacología y Etnobotánica: Transiciones Bioculturales** <br> *Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> \hfill[Junio 2023 - Junio 2023]{.cvfloat}\
 
-**GBI Hands On: Modelagem Molecular**    <br> *Universidad de São Paulo - USP - Grupo de Bioingformática. Dpto. Genética - FMRP/USP* <br> 
-\hfill[Noviembre 2022 - Noviembre 2022]{.cvfloat}\ 
+**GBI Hands On: Modelagem Molecular** <br> *Universidad de São Paulo - USP - Grupo de Bioingformática. Dpto. Genética - FMRP/USP* <br> \hfill[Noviembre 2022 - Noviembre 2022]{.cvfloat} 
 
 **Dibujo Científico Botánico con Abordaje Etnobiológico** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Estudios Etnobiológicos y Bioculturales*<br> \hfill[Diciembre 2022 -Diciembre 2022]{.cvfloat}\
 
-**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*<br>
-\hfill[Septiembre 2021 - Septiembre 2021]{.cvfloat}\
+**Manejo de herramientas en Microsoft Offices Excel 2016** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*<br> \hfill[Septiembre 2021 - Septiembre 2021]{.cvfloat}\
 
 **Estructuras de Control y Variables en Python** <br> *Servicio Nacional de Aprendizaje SENA - Colombia* \hfill[Junio 2022 - Julio 2022]{.cvfloat}\
 
@@ -86,23 +78,11 @@ format:
 
 ## Experiencia laboral
 
-**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> 
-*Apoyo en la gestión, conservación y organización del material botánico depositado en el Herbario del Museo de Historia Natural (MHN) de la Universidad del Cauca.  *
-<br>
-*Algunas de las funciones incluyen el manejo y actualización de la base de datos del Herbario, incluyendo verificación de sinonimias homotípicas, heterotípicas y la distribución de especies.* <br>
-*Apoyo en la curaduría, asesorías y orientación a visitantes en las colecciones del Museo* <br>
-*Apoyo en actividades académicas y divulgativas*
+**Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión, conservación y organización del material botánico depositado en el Herbario del Museo de Historia Natural (MHN) de la Universidad del Cauca.* <br> *Algunas de las funciones incluyen el manejo y actualización de la base de datos del Herbario, incluyendo verificación de sinonimias homotípicas, heterotípicas y la distribución de especies.* <br> *Apoyo en la curaduría, asesorías y orientación a visitantes en las colecciones del Museo* <br> *Apoyo en actividades académicas y divulgativas*
 
-\hfill[Octubre 2024 - Diciembre 2024]{.cvfloat}\
+\hfill[Octubre 2024 - Junio 202]{.cvfloat}5\
 
-**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** 
-<br> 
-*Descripción:* 
-<br> 
-*Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* 
-<br>
-*Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.*
-\hfill[Septiembre 2024 - Presente]{.cvfloat}\
+**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.* \hfill[Septiembre 2024 - Presente]{.cvfloat}\
 
 ## Experiencia en Investigación y Proyectos
 
@@ -110,7 +90,9 @@ format:
 
 ## Presentaciones
 
--   **Póster:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 05 2024]{.cvfloat}\
+-   **Póster:** <br> *Evaluación in-silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad del Alzheimer - Póster* <br> *: XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias* <br> \hfill [Abril 24 - Abril 26]{.cvfloat}
+
+-   **Póster:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 05 2024]{.cvfloat}
 
 -   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 05 2024]{.cvfloat}\
 
@@ -119,7 +101,6 @@ format:
 ## Premios y distinciones
 
 -   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente*<br> \hfill[Abril 25 2023]{.cvfloat}\
-
 
 ::: print-only
 ## Referencias
