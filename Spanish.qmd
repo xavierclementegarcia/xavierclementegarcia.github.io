@@ -85,7 +85,7 @@ format:
 
 **XIV Congreso Nacional XV Seminario Internacional de Neurociencias** <br> *Colegio Colombiano de Neurociencias*, *International Brain Research Organization*, *Pontificia Universidad Javeriana - Sede Bogotá. (Ponente y Asistente)*
 
-\hfill [Abril 2024 - Abril 2024]{.cvfloat}\
+\hfill[Abril 2024 - Abril 2024]{.cvfloat}\
 
 **XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)*
 
@@ -181,11 +181,11 @@ format:
 
 ## Premios y distinciones
 
--   **Premio**: <br> \*Primer puesto en modalidad póster al trabajo "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster*". <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación.
+**Distinción**: <br> \*Primer puesto en modalidad póster al trabajo "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster*". <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación.
 
 \hfill [Junio 2 2025]{.cvfloat}\
 
--   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente.
+**Distinción:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente.
 
 \hfill[Abril 25 2023]{.cvfloat}\
 
