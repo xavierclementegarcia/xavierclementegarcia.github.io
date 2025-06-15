@@ -34,6 +34,8 @@ format:
 
 ## Cursos y certificaciones
 
+**Redacción científica en LaTex e integración con R** <br> *Majuipal Solveris* <br> \hfill [Febrero 2025 - Febrero 2025]{.cvfloat} 
+
 **Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
 
 **Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* <br> \hfill[Abril 2024 - Abril 2024]{.cvfloat}\
@@ -56,6 +58,8 @@ format:
 
 ## Conferencias
 
+**XIV Congreso Nacional XV Seminario Internacional de Neurociencias** <br> *Colegio Colombiano de Neurociencias*, *International Brain Research Organization*, *Pontificia Universidad Javeriana - Sede Bogotá. (Ponente y Asistente)* <br> \hfill \[Abril 2024 - Abril 2024\] {.cvfloat} 
+
 **XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)* <br> \hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
 
 **Convergencia Regional del Pacífico para la COP-16** <br> *Zona Verde del Distrito Pacífico COP-16. Vicepresidencia de la República. Cali - Colombia (Asistente y organizador)*<br> \hfill[Octubre 2024 --- Octubre 2024]{.cvfloat}\
@@ -76,31 +80,49 @@ format:
 
 **COVID 19: Una aproximación desde la Biología** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Colombia (Asistente)*<br> \hfill[Diciembre 2020 - Diciembre 2020]{.cvfloat}\
 
+## Talleres dictados 
+
+**Taller:** *Introducción a R y manejo de pruebas estadísticas* - Laboratorio de Entomología, Museo de Historia Natural. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero Diversidad Funcional y Servicios Ecosistémicos (DIVERFUN). <br> **Duración :** 2 horas - Marzo 5 2025.
+
+**Taller:** *Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible*. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero de Investigación en Geología, Ecología y Conservación - ASIO. <br> **Duración :** 4 horas - Mayo 16 y Junio 2 2025.
+
 ## Experiencia laboral
 
 **Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión, conservación y organización del material botánico depositado en el Herbario del Museo de Historia Natural (MHN) de la Universidad del Cauca.* <br> *Algunas de las funciones incluyen el manejo y actualización de la base de datos del Herbario, incluyendo verificación de sinonimias homotípicas, heterotípicas y la distribución de especies.* <br> *Apoyo en la curaduría, asesorías y orientación a visitantes en las colecciones del Museo* <br> *Apoyo en actividades académicas y divulgativas*
 
-\hfill[Octubre 2024 - Junio 202]{.cvfloat}5\
+\hfill[Octubre 2024 - Junio 2025]{.cvfloat}5\
 
-**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.* \hfill[Septiembre 2024 - Presente]{.cvfloat}\
+**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.* \hfill[Septiembre 2024 - Presente]{.cvfloat}
 
 ## Experiencia en Investigación y Proyectos
 
-**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.* <br> \hfill[Enero 2024 - Presente]{.cvfloat}\
+**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.* <br> \hfill[Enero 2024 - Diciembre 2024]{.cvfloat}\
 
 ## Presentaciones
 
--   **Póster:** <br> *Evaluación in-silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad del Alzheimer - Póster* <br> *: XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias* <br> \hfill [Abril 24 - Abril 26]{.cvfloat}
+-   **Póster**: <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br> \hfill Mayo 26 2025.
 
--   **Póster:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides - Póster* <br> *XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 05 2024]{.cvfloat}
+-   **Presentación oral:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Encontro Científico Brasil - Colombia. <br> \hfill Mayo 23 2025.
 
--   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán - Oral* <br> *XII Congreso Colombiano de Botánica* <br> \hfill[Noviembre 05 2024]{.cvfloat}\
+-   **Póster:** <br> *Evaluación in-silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad del Alzheimer.* <br>XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias - Bogotá. <br> \hfill [Abril 24 2025]{.cvfloat}.
 
--   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares, en el Distrito Pacífico en la Zona Verde COP-16* <br> *Cali, Colombia* <br> \hfill[Octubre 26 2024]{.cvfloat}\
+-   **Póster:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides.* <br> XII Congreso Colombiano de Botánica - Popayán. <br> \hfill[Noviembre 05 2024]{.cvfloat}.
+
+-   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán.* <br> XII Congreso Colombiano de Botánica - Popayán. <br> \hfill[Noviembre 05 2024]{.cvfloat}\
+
+-   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares* <br>Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia <br> \hfill[Octubre 26 2024]{.cvfloat}.\
 
 ## Premios y distinciones
 
--   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> *Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente*<br> \hfill[Abril 25 2023]{.cvfloat}\
+-   **Premio**: <br> \*Primer puesto en modalidad póster al trabajo "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster*". <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación <br> \hfill Junio 2 2025.
+
+-   **Premio:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente<br> \hfill[Abril 25 2023]{.cvfloat}
+
+## Artículos sometidos
+
+García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(sometido)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
+
+Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., *(En revisión)*, Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal
 
 ::: print-only
 ## Referencias
