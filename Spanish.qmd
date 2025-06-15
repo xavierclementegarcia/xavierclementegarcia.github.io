@@ -82,6 +82,8 @@ format:
 
 ## Conferencias
 
+**I Encontro Científico Brasil - Colombia** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. Departamento de Genética. Grupo de Bioinformática - Facultad de Ciencias Naturales Exactas y de la Educación, Universidad del Cauca - Grupo de Investigación en Microscopía e Imanología, Grupo de Investigación en Toxicología y Citogenética. (Ponente y ASistente)*
+
 **XIV Congreso Nacional XV Seminario Internacional de Neurociencias** <br> *Colegio Colombiano de Neurociencias*, *International Brain Research Organization*, *Pontificia Universidad Javeriana - Sede Bogotá. (Ponente y Asistente)*
 
 \hfill[Abril 2024 - Abril 2024]{.cvfloat}\
@@ -130,7 +132,7 @@ format:
 
 **Taller:** *Introducción a R y manejo de pruebas estadísticas* - Laboratorio de Entomología, Museo de Historia Natural. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero Diversidad Funcional y Servicios Ecosistémicos (DIVERFUN). <br> **Duración :** 2 horas.
 
-\hfill [Marzo 5 2025]{.cvfloat} 
+\hfill [Marzo 5 2025]{.cvfloat}\
 
 **Taller:** *Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible*. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero de Investigación en Geología, Ecología y Conservación - ASIO. <br> **Duración :** 4 horas.
 
@@ -154,43 +156,44 @@ format:
 
 ## Presentaciones
 
--   **Póster**: <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br>
+**Póster**: <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br>
 
 \hfill [Mayo 26 2025]{.cvfloat}\
 
--   **Presentación oral:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Encontro Científico Brasil - Colombia.
+**Presentación oral:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Encontro Científico Brasil - Colombia.
 
 \hfill [Mayo 23 2025]{.cvfloat}\
 
--   **Póster:** <br> *Evaluación in-silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad del Alzheimer.* <br>XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias - Bogotá.
+**Póster:** <br> Evaluación in-silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad del Alzheimer. <br> XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias - Bogotá.
 
 \hfill [Abril 24 2025]{.cvfloat}\
 
--   **Póster:** <br> *Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides.* <br> XII Congreso Colombiano de Botánica - Popayán.
+**Póster:** <br> Evaluación de la viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides. <br> XII Congreso Colombiano de Botánica - Popayán.
 
 \hfill [Noviembre 05 2024]{.cvfloat}\
 
--   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán.* <br> XII Congreso Colombiano de Botánica - Popayán.
+**Presentación oral:** <br> Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán. <br> XII Congreso Colombiano de Botánica - Popayán.
 
 \hfill [Noviembre 05 2024]{.cvfloat}\
 
--   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares* <br>Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia
+**Presentación oral:**<br> Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares <br> Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia
 
 \hfill[Octubre 26 2024]{.cvfloat}\
 
 ## Premios y distinciones
 
-**Distinción**: <br> \*Primer puesto en modalidad póster al trabajo "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster*". <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación.
+
+**Distinción**: <br> Primer puesto en modalidad póster al trabajo "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster*". <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación.
 
 \hfill [Junio 2 2025]{.cvfloat}\
 
-**Distinción:** <br> *Primer puesto por desempeño destacado en la construcción de la Molécula de ADN* <br> Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente.
+**Distinción:** <br> Primer puesto por desempeño destacado en la construcción de la Molécula de ADN <br> Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente.
 
 \hfill[Abril 25 2023]{.cvfloat}\
 
 ## Artículos sometidos
 
-**Artículo:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(sometido)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
+**Artículo:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(Sometido)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
 
 **Artículo:** Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., *(En revisión)*, Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal
 
