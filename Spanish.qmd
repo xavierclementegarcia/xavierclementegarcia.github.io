@@ -30,22 +30,21 @@ format:
 
 ## Educación
 
-**Estudiante de Biología** <br> *Universidad del Cauca* 
+**Estudiante de Biología** <br> *Universidad del Cauca*
 
 \hfill[Aug 2020 - Presente]{.cvfloat}\
 
 ## Cursos y certificaciones
 
-**Redacción científica en LaTex e integración con R** 
-<br> *Majuipal Solveris* 
+**Redacción científica en LaTex e integración con R** <br> *Majuipal Solveris*
 
 \hfill [Febrero 2025 - Febrero 2025]{.cvfloat}\
 
-**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica* 
+**Investigación reproducible con Quarto** <br> *Universidad del Cauca - Universidad de Antioquia, XII Congreso Colombiano de Botánica*
 
 \hfill[Noviembre 2024 - Noviembre 2024]{.cvfloat}\
 
-**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual* 
+**Introducción a la investigación formativa: ¿Cómo investigar sin morir en el intento?**<br> *Universidad del Cauca. Vicerrectoría de Investigación Académica. Proyecto ECoS-CTel - Centro de Educación Continua, Abierta y Virtual*
 
 \hfill[Abril 2024 - Abril 2024]{.cvfloat}\
 
@@ -69,11 +68,11 @@ format:
 
 \hfill[Septiembre 2021 - Septiembre 2021]{.cvfloat}\
 
-**Estructuras de Control y Variables en Python** <br> *Servicio Nacional de Aprendizaje SENA - Colombia* 
+**Estructuras de Control y Variables en Python** <br> *Servicio Nacional de Aprendizaje SENA - Colombia*
 
 \hfill[Junio 2022 - Julio 2022]{.cvfloat}\
 
-**La química de la vida** <br> *Universidad de Kyoto - KyotoUx* 
+**La química de la vida** <br> *Universidad de Kyoto - KyotoUx*
 
 \hfill[Marzo 2020 - Marzo 2021]{.cvfloat}\
 
@@ -127,13 +126,13 @@ format:
 
 \hfill[Diciembre 2020 - Diciembre 2020]{.cvfloat}\
 
-## Talleres dictados 
+## Talleres dictados
 
 **Taller:** *Introducción a R y manejo de pruebas estadísticas* - Laboratorio de Entomología, Museo de Historia Natural. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero Diversidad Funcional y Servicios Ecosistémicos (DIVERFUN). <br> **Duración :** 2 horas.
 
-\hfill [Marzo 5 2025]{.cvfloat}\ 
+\hfill [Marzo 5 2025]{.cvfloat} 
 
-**Taller:** *Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible*. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero de Investigación en Geología, Ecología y Conservación - ASIO. <br> **Duración :** 4 horas. 
+**Taller:** *Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible*. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero de Investigación en Geología, Ecología y Conservación - ASIO. <br> **Duración :** 4 horas.
 
 \hfill [Mayo 16 - Junio 2 2025]{.cvfloat}\
 
@@ -143,23 +142,23 @@ format:
 
 \hfill[Octubre 2024 - Junio 2025]{.cvfloat}\
 
-**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.* 
+**Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.*
 
 \hfill[Septiembre 2024 - Presente]{.cvfloat}\
 
 ## Experiencia en Investigación y Proyectos
 
-**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.* 
+**Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114)** <br> *Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas). Jefa de Proyecto: Profesora Gisella Mabel Paz Perafán, Ph.D.* <br> *Descripción:* <br> *Muestreo en las áreas aledañas a la Facultad de Ciencias Naturales, Exactas y de la Educación de la Universidad del Cauca. Cuantificación del número de familias, géneros y especies de Briófitas. De esta manera se espera contribuir al conocimiento de plantas no vasculares para fines de conservación y ordenamiento territorial que puedan beneficiar al corredor biológico interurbano propuesto en el Sector Tulcán del Municipio de Popayán.*
 
 \hfill [Enero 2024 - Diciembre 2024]{.cvfloat}\
 
 ## Presentaciones
 
--   **Póster**: <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br> 
+-   **Póster**: <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br>
 
 \hfill [Mayo 26 2025]{.cvfloat}\
 
--   **Presentación oral:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Encontro Científico Brasil - Colombia. 
+-   **Presentación oral:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Encontro Científico Brasil - Colombia.
 
 \hfill [Mayo 23 2025]{.cvfloat}\
 
@@ -171,11 +170,11 @@ format:
 
 \hfill [Noviembre 05 2024]{.cvfloat}\
 
--   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán.* <br> XII Congreso Colombiano de Botánica - Popayán. 
+-   **Presentación oral:** <br> *Biodiversidad de briofitas en la Universidad del Cauca, sede Popayán.* <br> XII Congreso Colombiano de Botánica - Popayán.
 
 \hfill [Noviembre 05 2024]{.cvfloat}\
 
--   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares* <br>Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia 
+-   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares* <br>Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia
 
 \hfill[Octubre 26 2024]{.cvfloat}\
 
