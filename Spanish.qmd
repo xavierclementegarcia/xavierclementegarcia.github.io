@@ -36,7 +36,8 @@ format:
 
 ## Cursos y certificaciones
 
-**Redacción científica en LaTex e integración con R** <br> *Majuipal Solveris* 
+**Redacción científica en LaTex e integración con R** 
+<br> *Majuipal Solveris* 
 
 \hfill [Febrero 2025 - Febrero 2025]{.cvfloat}\
 
@@ -84,7 +85,7 @@ format:
 
 **XIV Congreso Nacional XV Seminario Internacional de Neurociencias** <br> *Colegio Colombiano de Neurociencias*, *International Brain Research Organization*, *Pontificia Universidad Javeriana - Sede Bogotá. (Ponente y Asistente)*
 
-\hfill \[Abril 2024 - Abril 2024]{.cvfloat}\
+\hfill [Abril 2024 - Abril 2024]{.cvfloat}\
 
 **XII Congreso Colombiano de Botánica** <br> *Universidad del Cauca. (Organizador y Ponente)*
 
@@ -140,11 +141,11 @@ format:
 
 **Monitor de Colección de Herbario en el Museo de Historia Natural, Universidad del Cauca** <br> *Descripción:* <br> *Apoyo en la gestión, conservación y organización del material botánico depositado en el Herbario del Museo de Historia Natural (MHN) de la Universidad del Cauca.* <br> *Algunas de las funciones incluyen el manejo y actualización de la base de datos del Herbario, incluyendo verificación de sinonimias homotípicas, heterotípicas y la distribución de especies.* <br> *Apoyo en la curaduría, asesorías y orientación a visitantes en las colecciones del Museo* <br> *Apoyo en actividades académicas y divulgativas*
 
-\hfill[Octubre 2024 - Junio 2025]{.cvfloat}5\
+\hfill[Octubre 2024 - Junio 2025]{.cvfloat}\
 
 **Coordinador del Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** <br> *Descripción:* <br> *Espacio académico extracurricular conformado por estudiantes y docentes, orientado por el Dr. Willian Orlando Castillo Ordóñez, PhD. Su propósito es fortalecer la cultura investigativa en el campo de la neurobiología, integrando enfoques de análisis in silico, modelamiento de proteínas, farmacología y extractos fitoquímicos.* <br> *Las funciones en coordinación incluyen organización y planificación de actividades académicas e investigación, acompañamiento a estudiantes interesados en integrarse al semillero, proposición de reuniones, cursos, talleres y proyectos.* 
 
-\hfill[Septiembre 2024 - Presente]{.cvfloat}
+\hfill[Septiembre 2024 - Presente]{.cvfloat}\
 
 ## Experiencia en Investigación y Proyectos
 
@@ -176,7 +177,7 @@ format:
 
 -   **Presentación oral:**<br> *Staff MHN-Unicauca, en el Stand Cauca y en el stand de economías populares* <br>Distrito Pacífico en la Zona Verde COP-16 - Cali, Colombia 
 
-\hfill[Octubre 26 2024]{.cvfloat}.\
+\hfill[Octubre 26 2024]{.cvfloat}\
 
 ## Premios y distinciones
 
