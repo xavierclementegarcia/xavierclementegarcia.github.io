@@ -21,7 +21,7 @@ subtitle: "Xavier Clemente García Cevallos"
 <br> <br>
 
 <<<<<<< HEAD
-Hello.
+¡Hello!
 =======
 Hi!
 >>>>>>> 4a3bab1b3068c74fd2bc7c00298dcccf60e2074f
