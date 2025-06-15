@@ -43,127 +43,198 @@ xgarcia\@unicauca.edu.co
 
 ## Courses & Certifications
 
-**Reproducible Research with Quarto** <br> *Cauca University - Antioquia University, XII Botanic Colombian Congress*
+**Scientific redaction with LaTex and integration with R** 
+<br>
+Majuipal Solveris
+
+\hfill[Febrary 2025 - Febrary 2025]{.cvfloat}\
+
+**Reproducible Research with Quarto** 
+<br> 
+*Cauca University - Antioquia University, XII Botanic Colombian Congress*
 
 \hfill[November 2024 - November 2024]{.cvfloat}\
 
-**Introduction to formative research: How to do research without dying in the attempt** <br> *Cauca University. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education*
+**Introduction to formative research: How to do research without dying in the attempt** 
+<br> 
+*Cauca University. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education*
 
 \hfill[April 2024 - April 2024]{.cvfloat}\
 
-**Pre-Symposium Course. R with R for Biological Sciences** <br> *Cauca University. XVII Symposium Biological Sciences Research*
+**Pre-Symposium Course. R with R for Biological Sciences** 
+<br> 
+*Cauca University. XVII Symposium Biological Sciences Research*
 
 \hfill[November 2023 - November 2023]{.cvfloat}\
 
-**Ethnopharmacology and Ethnobotany: Biocultural transitions** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
+**Ethnopharmacology and Ethnobotany: Biocultural transitions** 
+<br> 
+*Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
 
 \hfill[June 2023 - June 2023]{.cvfloat}\
 
-**Molecular Models Bioinformatics** <br> *São Paulo University - USP*
+**Molecular Models Bioinformatics** 
+<br> 
+*São Paulo University - USP*
 
 \hfill[November 2022 - November 2022]{.cvfloat}\
 
-**Botanical Scientific Drawing with an Ethnobiological Approach** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
+**Botanical Scientific Drawing with an Ethnobiological Approach** 
+<br> 
+*Cauca University. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
 
 \hfill[December 2022 - December 2022]{.cvfloat}\
 
-**Handling tools in Microsoft Office Excel 2016** <br> *National Learning Service SENA – Colombia*
+**Handling tools in Microsoft Office Excel 2016** 
+<br> 
+*National Learning Service SENA – Colombia*
 
 \hfill[September 2021 - September 2021]{.cvfloat}\
 
-**Control structures and Variables in Python** <br> *National Learning Service SENA – Colombia*
+**Control structures and Variables in Python** 
+<br> 
+*National Learning Service SENA – Colombia*
 
 \hfill[June 2022 - July 2022]{.cvfloat}\
 
-**The Chemestry of the Life** <br> *Kyoto University - KyotoUx*
+**The Chemestry of the Life** 
+<br> 
+*Kyoto University - KyotoUx*
 
 \hfill[March 2020 - March 2021]{.cvfloat}\
 
-**Preparation of basic materials and equipment for chemical laboratory** <br> *Sena Huila - Agro-Bussiness and livestock development center of Huila*
+**Preparation of basic materials and equipment for chemical laboratory** 
+<br> 
+*Sena Huila - Agro-Bussiness and livestock development center of Huila*
 
 \hfill[September 2016 - December 2016]{.cvfloat}\
 
 ## Conferences
 
-**XII Botanic Colombian Congress** <br> *Cauca University. (Collaborator & Speaker)*
+**XII Botanic Colombian Congress** 
+<br> 
+*Cauca University. (Collaborator & Speaker)*
 
 \hfill[November 2024 - November 2024]{.cvfloat}\
 
-**Pacific Regional Convergence for COP-16** <br> *Pacific District Green Zone COP-16. Republic Vicepredency. Cali - Colombia (Speaker)*
+**Pacific Regional Convergence for COP-16** 
+<br> 
+*Pacific District Green Zone COP-16. Republic Vicepredency. Cali - Colombia (Speaker)*
 
 \hfill[October 2024 - October 2024]{.cvfloat}\
 
-**XVII Symposium in Sciences Biological Research** <br> *Cauca University (Collaborator)*
+**XVII Symposium in Sciences Biological Research** 
+<br> 
+*Cauca University (Collaborator)*
 
 \hfill[November 2023 - November 2023]{.cvfloat}\
 
-**XI Latin American Congress of Medicinal Plants** <br> *COLAPLAMED. Quindío University (Assistant)*
+**XI Latin American Congress of Medicinal Plants** 
+<br> 
+*COLAPLAMED. Quindío University (Assistant)*
 
 \hfill[September 2023 - September 2023]{.cvfloat}\
 
-**II Symposium on Cancer Update: from genetics to the clinic** <br> *Bogota, D.C. Military University of New Granada. (Assistant)*
+**II Symposium on Cancer Update: from genetics to the clinic** 
+<br> 
+*Bogota, D.C. Military University of New Granada. (Assistant)*
 
 \hfill[June 2023 - June 2023\]{.cvfloat}\
 
-**I Symposium Mother cell and genetic terapy** <br> *Bogota, D.C. Military University of New Granada. (Assistant)* 
+**I Symposium Mother cell and genetic terapy** 
+<br> 
+*Bogota, D.C. Military University of New Granada. (Assistant)* 
 
 \hfill[April 2023 - April 2023]{.cvfloat}\
 
-**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** <br> *Cauca University.Sciences Faculty. Education, Naturals and Exact Sciences Faculty. Colombia. (Assistant)* 
+**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** 
+<br> 
+*Cauca University.Sciences Faculty. Education, Naturals and Exact Sciences Faculty. Colombia. (Assistant)* 
 
 \hfill[April 2023 - April 2023]{.cvfloat}\
 
-**International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** <br> *Cauca University. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** 
+<br> 
+*Cauca University. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
 
 \hfill[November 2021 - November 2021]{.cvfloat}\
 
-**XVI Research Symposium in Biological Sciences** <br> *Cauca University.Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**XVI Research Symposium in Biological Sciences** 
+<br> 
+*Cauca University.Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
 
 \hfill[November 2021 - November 2021]{.cvfloat}\
 
-**COVID 19: An approach form Biology** <br> *University of Cauca. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**COVID 19: An approach form Biology** 
+<br> 
+*University of Cauca. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
 
 \hfill[December 2020 - December 2020]{.cvfloat}\
 
 ## Work Experience
 
-**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** <br> *Description:* <br> *Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca* 
+**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** 
+<br> 
+*Description:* 
+<br> 
+Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca 
 
-\hfill[October 2024 - December 2024]{.cvfloat}\
+\hfill[October 2024 - June 2025]{.cvfloat}\
 
-**Coordinator of the Research Seedbed in Developmental Biology and Neural Plasticity of Cauca University** <br> *Description:* <br> *Extracurricular space, made up of students and teachers, with the guidance of the mentor Dr. Willian Orlando Castillo Ordóñez. The purpose is to promote research culture through training for research focused mainly on undergraduate students, in one or different disciplinary areas, promoting creativity, innovation, commitment, social interaction, teamwork and social appropriation of knowledge about neurobiology. Mentor: Willian Orlando Castillo Ordoñez, PhD* 
+**Coordinator of the Research Seedbed in Developmental Biology and Neural Plasticity of Cauca University** 
+<br> 
+*Description:* 
+<br> 
+Extracurricular space, made up of students and teachers, with the guidance of the mentor Dr. Willian Orlando Castillo Ordóñez. The purpose is to promote research culture through training for research focused mainly on undergraduate students, in one or different disciplinary areas, promoting creativity, innovation, commitment, social interaction, teamwork and social appropriation of knowledge about neurobiology. Mentor: Willian Orlando Castillo Ordoñez, PhD 
 
 \hfill[September 2024 - Present]{.cvfloat}\
 
 ## Research Experience & Projects
 
-**Interurban Biological Corridor Proposal in the Tulcan Sector in Popayan Municipality with Strategy for the conservation of the biodiversity and the territorial planification. (ID: 6114)** <br> *Cauca University.Education, Naturals and Exact Sciences Faculty. Biology Department. Nonvascular plants (Bryophytes) Taxonomy field. Project Chief: Professor Gisella Mabel Paz Perafán, Ph.D.* <br> *Description:* <br> *Sampling in the areas surrounding the Faculty of Natural, Exact and Educational Sciences of the University of Cauca. Quantification of the number of families, genera and species of Bryophytes. In this way, it is hoped to contribute to the knowledge of non-vascular plants for conservation and territorial planning purposes that may benefit the proposed interurban biological corridor in the Tulcán Sector of the Municipality of Popayán.* 
+**Interurban Biological Corridor Proposal in the Tulcan Sector in Popayan Municipality with Strategy for the conservation of the biodiversity and the territorial planification. (ID: 6114)** <br> *Cauca University.Education, Naturals and Exact Sciences Faculty. Biology Department. Nonvascular plants (Bryophytes) Taxonomy field. Project Chief: Professor Gisella Mabel Paz Perafán, Ph.D.* 
+<br> 
+*Description:* 
+<br> 
+Sampling in the areas surrounding the Faculty of Natural, Exact and Educational Sciences of the University of Cauca. Quantification of the number of families, genera and species of Bryophytes. In this way, it is hoped to contribute to the knowledge of non-vascular plants for conservation and territorial planning purposes that may benefit the proposed interurban biological corridor in the Tulcán Sector of the Municipality of Popayán. 
 
 
-\hfill[January 2024 - Present]{.cvfloat}\
+\hfill[January 2024 - December 2024]{.cvfloat}\
 
 ::: no-print
 ## Presentations
 
--   **Poster presentation:** <br> *In-silico evaluation of the therapeutic potential of Pterocaulon alopecuroides in Alzheimer's disease* <br> *National Congress of Neurosciences and XV International Seminar on Neurosciences* 
+-   **Poster presentation:** 
+<br> 
+In-silico evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease <br> 
+*National Congress of Neurosciences and XV International Seminar on Neurosciences* 
 
-\hfill[April 24 - April 26]{.cvfloat}\
+\hfill[April 24th - 2025]{.cvfloat}\
 
--   **Poster presentation:** <br> *Evaluation of viability and germination capacity in seeds of Pterocaulon alopecuroides - Poster* <br> *XII Botanic Colombian Congress* 
+-   **Poster presentation:** 
+<br> 
+Evaluation of viability and germination capacity in seeds of *Pterocaulon alopecuroides* 
+<br> 
+*XII Botanic Colombian Congress* 
 
-\hfill[05 November 2024]{.cvfloat}\
+\hfill[November 5th - 2024]{.cvfloat}\
 
--   **Oral presentation:** <br> *Biodiversity of bryophytes at the University of Cauca, Popayán - Oral* <br> *XII Botanic Colombian Congress* <br>[05 November 2024]{.cvdate}
+-   **Oral presentation:** 
+<br> 
+Biodiversity of bryophytes at the University of Cauca, Popayán - Oral 
+<br> 
+*XII Botanic Colombian Congress* 
+
+\hfill[November 5th - 2024]{.cvfloat}\
 
 -   **Oral presentation:** *MHN-Unicauca Staff, at the Cauca Stand and the popular economies stand, in the Pacific District in the Green Zone COP-16* <br> *COP-16 - Cali, Colombia* 
 
-\hfill[26 October 2024]{.cvfloat}\
+\hfill[October 26th - 2024]{.cvfloat}\
 
 ## Awards & Honors
 
 -   **Awards:** <br> *First Place for outstanding performance in the construction of the DNA Molecule* <br> *Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule* 
 
-\hfill[25 April 2023]{.cvfloat}\
+\hfill[April 25th - 2023]{.cvfloat}\
 :::
 
 ::: print-only
