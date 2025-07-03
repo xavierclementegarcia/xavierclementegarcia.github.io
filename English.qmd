@@ -226,7 +226,8 @@ Sampling in the areas surrounding the Faculty of Natural, Exact and Educational 
 **Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition.
 <br>
 52 Socolen Congress of Colombian Entomology Association - Santa Marta, Magdalena, Colombia <br>
-\hfill [June 25, 2025] {.cvfloat}\
+
+\hfill [June 25, 2025]{.cvfloat}\
 
 **Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* 
 <br> 
