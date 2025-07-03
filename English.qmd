@@ -223,18 +223,23 @@ Sampling in the areas surrounding the Faculty of Natural, Exact and Educational 
 
 ## Presentations
 
+**Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition.
+<br>
+52 Socolen Congress of Colombian Entomology Association - Santa Marta, Magdalena, Colombia <br>
+\hfill [June 25, 2025] {.cvfloat}\
+
 **Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* 
 <br> 
 13th Research Meeting in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico <br>
 
 \hfill [May 26, 2025]{.cvfloat}\
 
-**Oral presentation:** <br> In vivo and in silico evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Scientific Meeting Brazil - Colombia.
+**Oral presentation:** <br> *In vivo* and *in silico* evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Scientific Meeting Brazil - Colombia.
 
 \hfill [May 23, 2025]{.cvfloat}\
 
 
-**Poster presentation:** In-silico evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease 
+**Poster presentation:** *In silico* evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease 
 <br> 
 National Congress of Neurosciences and XV International Seminar on Neurosciences* 
 
