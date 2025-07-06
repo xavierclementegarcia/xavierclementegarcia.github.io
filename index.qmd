@@ -20,6 +20,6 @@ subtitle: "Xavier Clemente García Cevallos"
 
 ¡Hello!
 
-My name is Xavier Clemente García Cevallos. I am currently studying a B.S Biology at the [University of Cauca](https://www.unicauca.edu.co/). I serving as the Development Biology and Neural Plasticity Research Seedbed Coordinator and as a Monitor at the Herbarium of the Natural History Museum of the University of Cauca. I have a deep interest in neurobiology, inmunology, oncology and bioinformatics.
+My name is Xavier Clemente García Cevallos. I'm currently studying a B.S Biology at the [University of Cauca](https://www.unicauca.edu.co/). I serving as the Development Biology and Neural Plasticity Research Seedbed Coordinator and as a Monitor at the Herbarium of the Natural History Museum of the University of Cauca. I have a deep interest in neurobiology, inmunology, oncology and bioinformatics.
 :::
 :::::
