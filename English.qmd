@@ -34,243 +34,193 @@ format:
 xgarcia\@unicauca.edu.co
 :::
 
+## Research interest
+
+My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell and molecular field (natural origin drugs discovery, ADMET tools prediction, genomic & transcriptomic tools for deep-understand to neurodegenerative disease, insects behavior for exposition to toxic).
+
 ## Education
 
-**B.S Biology Student** 
-<br> *University of Cauca* <br> *Expected submission date: 2026*
+**B.S Biology Student** <br> *University of Cauca* <br> *Expected submission date: 2026*
 
 \hfill[Aug 2020 - Present]{.cvfloat}\
 
 ## Courses & Certifications
 
-**Scientific redaction with LaTex and integration with R** 
-<br>
-Majuipal Solveris
+**Scientific redaction with LaTex and integration with R** <br> Majuipal Solveris
 
-\hfill[Febrary 2025 - Febrary 2025]{.cvfloat}\
+\hfill 4[-25 February 2025]{.cvfloat}\
 
-**Reproducible Research with Quarto** 
-<br> 
-*University of Cauca - Antioquia University, XII Botanic Colombian Congress*
+**Reproducible Research with Quarto** <br> XII Botanic Colombian Congress - University of Cauca & Antioquia University.
 
-\hfill[November 2024 - November 2024]{.cvfloat}\
+\hfill 3 [November 2024]{.cvfloat}\
 
-**Introduction to formative research: How to do research without dying in the attempt** 
-<br> 
-*University of Cauca. Academic research vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education*
+**Introduction to formative research: How to do research without dying in the attempt** <br> Academic Research Vicerrectorate. ECoS-CTeI Project - Center for Continuing, Open and Virtual Education (CECAV) - University of Cauca
 
-\hfill[April 2024 - April 2024]{.cvfloat}\
+\hfill[31 May 2024 - 12 April 2024]{.cvfloat}\
 
-**Pre-Symposium Course. R with R for Biological Sciences** 
-<br> 
-*University of Cauca. XVII Symposium Biological Sciences Research*
+**Pre-Symposium Course. R with R for Biological Sciences** <br> XVII Symposium Biological Sciences Research -University of Cauca
 
-\hfill[November 2023 - November 2023]{.cvfloat}\
+\hfill[6-7 November 2023]{.cvfloat}\
 
-**Ethnopharmacology and Ethnobotany: Biocultural transitions** 
-<br> 
-*University of Cauca. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
+**Ethnopharmacology and Ethnobotany: Biocultural transitions** <br> Education, Naturals and Exact Sciences Faculty. Ethnobiological and Bio-cultural Studies Doctorate -University of Cauca
 
-\hfill[June 2023 - June 2023]{.cvfloat}\
+\hfill1-15 [June 2023]{.cvfloat}\
 
-**Molecular Models Bioinformatics** 
-<br> 
-*São Paulo University - USP*
+**Molecular Models Bioinformatics** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo.* <br> Ribeirão Preto School of Medicine, University of São Paulo. Department of Genetics. Bioinformatics - University of São Paulo (USP)
 
-\hfill[November 2022 - November 2022]{.cvfloat}\
+\hfill[24-25 November 2022]{.cvfloat}\
 
-**Botanical Scientific Drawing with an Ethnobiological Approach** 
-<br> 
-*University of Cauca. Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Department*
+**Botanical Scientific Drawing with an Ethnobiological Approach** <br> Education, Naturals and Exact Sciences Faculty. Ethnobiological and Biocultural Studies Doctorate - University of Cauca
 
-\hfill[December 2022 - December 2022]{.cvfloat}\
+\hfill[6-11 December 2022]{.cvfloat}\
 
-**Handling tools in Microsoft Office Excel 2016** 
-<br> 
-*National Learning Service SENA – Colombia*
+**Handling tools in Microsoft Office Excel 2016** <br> National Learning Service SENA – Colombia
 
-\hfill[September 2021 - September 2021]{.cvfloat}\
+\hfill 7[ august- 7 September 2021]{.cvfloat}\
 
-**Control structures and Variables in Python** 
-<br> 
-*National Learning Service SENA – Colombia*
+**Control structures and Variables in Python** <br> National Learning Service SENA – Colombia
 
-\hfill[June 2022 - July 2022]{.cvfloat}\
+\hfill 19 [June - 19 July 2022]{.cvfloat}\
 
-**The Chemestry of the Life** 
-<br> 
-*Kyoto University - KyotoUx*
+**The Chemestry of the Life** <br> Kyoto University - KyotoUx
 
-\hfill[March 2020 - March 2021]{.cvfloat}\
+\hfill 1 [March 2020 - 1 March 2021]{.cvfloat}\
 
-**Preparation of basic materials and equipment for chemical laboratory** 
-<br> 
-*Sena Huila - Agro-Bussiness and livestock development center of Huila*
+**Preparation of basic materials and equipment for chemical laboratory** <br> Sena Huila - Agro-Bussiness and livestock development center of Huila
 
-\hfill[September 2016 - December 2016]{.cvfloat}\
+\hfill 13 [September 2016 - 13 December 2016]{.cvfloat}\
 
 ## Conferences
 
-**I Encontro Científico Brasil - Colombia** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo.
-378 / 5.000
-**1st Brazil-Colombia Scientific Meeting** <br> *Ribeirão Preto School of Medicine, University of São Paulo. Department of Genetics. Bioinformatics Group - School of Exact and Educational Natural Sciences, University of Cauca - Microscopy and Imaging Research Group, Toxicology and Cytogenetics Research Group. (Speaker and Assistant)*
+**52 Socolen Congress of Colombian Entomology** <br> Colombian Entomology Association - University of Magdalena - Santa Marta, Magdalena, Colombia. (Speaker & Assistant)
 
+\hfill 25-27 June 2025
 
-**XIV National Congress XV International Seminar on Neurosciences** <br> *Colombian College of Neurosciences*, *International Brain Research Organization*, *Pontifical Javeriana University - Bogotá Campus. (Speaker and Attendee)*
+**I Encontro Científico Brasil - Colombia** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. **1st Brazil-Colombia Scientific Meeting*** <br> Ribeirão Preto School of Medicine, University of São Paulo. Department of Genetics. Bioinformatics Group - School of Exact and Educational Natural Sciences, University of Cauca - Microscopy and Imaging Research Group, Toxicology and Cytogenetics Research Group. (Speaker, Assistant & Organizer) <br> University of Cauca - Popayán, Cauca, Colomba.
 
-\hfill[April 2024 - April 2024]{.cvfloat}\
+\hfill 23 May 2025
 
-**XII Botanic Colombian Congress** 
-<br> 
-*University of Cauca. (Collaborator & Speaker)*
+**XIV National Congress XV International Seminar on Neurosciences** <br> Colombian College of Neurosciences, International Brain Research Organization, Pontifical Javeriana University - Bogotá, Cundinamarca, Colombia. (Speaker & Assistant)
 
-\hfill[November 2024 - November 2024]{.cvfloat}\
+\hfill[ 24-26 April 202]{.cvfloat}5\
 
-**Pacific Regional Convergence for COP-16** 
-<br> 
-*Pacific District Green Zone COP-16. Republic Vicepredency. Cali - Colombia (Speaker)*
+**XII Botanic Colombian Congress** <br> Colombian Botanical Association (ACB), University of Cauca Herbarium (CAUP) - University of Cauca, Popayán, Cauca, Colombia. ( Speaker & organizer)
 
-\hfill[October 2024 - October 2024]{.cvfloat}\
+\hfill[ 4-8 November 2024]{.cvfloat}\
 
-**XVII Symposium in Sciences Biological Research** 
-<br> 
-*University of Cauca (Collaborator)*
+**Pacific Regional Convergence for COP-16** <br> Pacific District Green Zone COP-16. Republic Vicepredency. Cali - Colombia (Speaker)
 
-\hfill[November 2023 - November 2023]{.cvfloat}\
+\hfill[25-26 October 2024]{.cvfloat}\
 
-**XI Latin American Congress of Medicinal Plants** 
-<br> 
-*COLAPLAMED. Quindío University (Assistant)*
+**XVII Symposium in Sciences Biological Research** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Organizer)
 
-\hfill[September 2023 - September 2023]{.cvfloat}\
+\hfill[8-10 November 2023]{.cvfloat}\
 
-**II Symposium on Cancer Update: from genetics to the clinic** 
-<br> 
-*Bogota, D.C. Military University of New Granada. (Assistant)*
+**XI Latin American Congress of Medicinal Plants** <br> Colombian Biological Sciences Association, Medicinal Plants Latinoamerican Society (SOLAPLAMED), University Corporation Santa Rosa de Cabal - Quindío University - Armenia, Quindío, Colombia. (Assistant)
 
-\hfill[June 2023 - June 2023\]{.cvfloat}\
+\hfill[ 13-16 September 2023]{.cvfloat}\
 
-**I Symposium Mother cell and genetic terapy** 
-<br> 
-*Bogota, D.C. Military University of New Granada. (Assistant)* 
+**II Symposium on Cancer Update: from genetics to the clinic** <br> Military University of New Granada - Bogotá, Cundinarmarca, Colombia. (Assistant)
 
-\hfill[April 2023 - April 2023]{.cvfloat}\
+\hfill 3 June 2023 \
 
-**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** 
-<br> 
-*University of Cauca.Sciences Faculty. Education, Naturals and Exact Sciences Faculty. Colombia. (Assistant)* 
+**I Symposium Mother cell and genetic terapy** <br> Military University of New Granada - Bogotá, Cundinamarca, Colombia. (Assistant)
 
-\hfill[April 2023 - April 2023]{.cvfloat}\
+\hfill[ 15 April 2023]{.cvfloat}\
 
-**International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** 
-<br> 
-*University of Cauca. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** <br> Ibero-American Artificial Intelligence Network for Big BioData (RIABIO), Group in Cancer, Ambiental and Molecular (BIMAC) - . Education, Exact and Natural Sciences Faculty - Popayán, Cauca, Colombia. (Assistant)
 
-\hfill[November 2021 - November 2021]{.cvfloat}\
+\hfill[25 April 2023]{.cvfloat}\
 
-**XVI Research Symposium in Biological Sciences** 
-<br> 
-*University of Cauca.Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Assistant)
 
-\hfill[November 2021 - November 2021]{.cvfloat}\
+\hfill 2[ November 2021]{.cvfloat}\
 
-**COVID 19: An approach form Biology** 
-<br> 
-*University of Cauca. Education, Naturals and Exact Sciences Faculty. Colombia (Assistant)* 
+**XVI Research Symposium in Biological Sciences** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Assistant)
 
-\hfill[December 2020 - December 2020]{.cvfloat}\
+\hfill 3-5 [November 2021]{.cvfloat}\
 
+**COVID 19: An approach form Biology** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Assistant)
+
+\hfill 4 [December 2020]{.cvfloat}\
 
 ## Workshops Taught
 
-**Workshop:** *Introduction to R and Statistical Testing* - Entomology Laboratory, Museum of Natural History. <br> University of Cauca, Popayán, Cauca, Colombia. <br> Functional Diversity and Ecosystem Services Seedbed (DIVERFUN). <br> **Duration:** 2 hours.
+**Workshop:** Introduction to R and Statistical Testing - Entomology Laboratory, Museum of Natural History. <br> Functional Diversity and Ecosystem Services Seedbed (DIVERFUN) - University of Cauca, Popayán, Cauca, Colombia. <br> **Duration:** 2 hours
+
+<br>
+
+**Fundaments:** This course boarding preliminary criteria for understand the programming logic, afterward deep-understanding to the knowledge in fundamentals libraries and packages for the biologist he can develop biological analyses and representation plots
 
 \hfill [March 5, 2025]{.cvfloat}\
 
-**Workshop:** *Artificial Intelligence Tools for R Management and Reproducible Science*. <br> University of Cauca, Popayán, Cauca, Colombia. <br> Research Seedbed in Geology, Ecology, and Conservation - ASIO. <br> **Duration:** 4 hours.
+**Workshop:** Artificial Intelligence Tools for R Management and Reproducible Science. <br> Research Seedbed in Geology, Ecology, and Conservation (ASIO) - University of Cauca, Popayán, Cauca, Colombia <br> **Duration:** 4 hours
+
+<br>
+
+**Fundaments:** This course introduce to the boarding to programming in R Software and how you can resolves difficult problems to programming when you start learn about programming logic
 
 \hfill [May 16 - June 2, 2025]{.cvfloat}\
 
-
 ## Work Experience
 
-**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** 
-<br> 
-*Description:* 
-<br> 
-Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca 
+**Herbarium Collection Monitor at the Natural History Museum, University of Cauca** <br> **Description:** <br> Support in the management and organization of the botanical material deposited in this institution. Guidance through the public collection of the Museum of Natural History (MHN) of the University of Cauca
 
-\hfill[October 2024 - June 2025]{.cvfloat}\
+\hfill 2 [October 2024 - 20 June 2025]{.cvfloat}\
 
-**Coordinator of the Research Seedbed in Developmental Biology and Neural Plasticity of University of Cauca** 
-<br> 
-*Description:* 
-<br> 
-Extracurricular space, made up of students and teachers, with the guidance of the mentor Dr. Willian Orlando Castillo Ordóñez. The purpose is to promote research culture through training for research focused mainly on undergraduate students, in one or different disciplinary areas, promoting creativity, innovation, commitment, social interaction, teamwork and social appropriation of knowledge about neurobiology. Mentor: Willian Orlando Castillo Ordoñez, PhD 
+**Coordinator of the Research Seedbed in Developmental Biology and Neural Plasticity of University of Cauca** <br> **Description:** <br> Extracurricular space, made up of students and teachers, with the guidance of the mentor Dr. Willian Orlando Castillo Ordóñez. The purpose is to promote research culture through training for research focused mainly on undergraduate students, in one or different disciplinary areas, promoting creativity, innovation, commitment, social interaction, teamwork and social appropriation of knowledge about neurobiology. **Mentor:** Willian Orlando Castillo Ordoñez, PhD
 
-\hfill[September 2024 - Present]{.cvfloat}\
+\hfill 10 [September 2024 - Present]{.cvfloat}\
 
 ## Research Experience & Projects
 
-**Interurban Biological Corridor Proposal in the Tulcan Sector in Popayan Municipality with Strategy for the conservation of the biodiversity and the territorial planification. (ID: 6114)** <br> *University of Cauca.Education, Naturals and Exact Sciences Faculty. Biology Department. Nonvascular plants (Bryophytes) Taxonomy field. Project Chief: Professor Gisella Mabel Paz Perafán, Ph.D.* 
-<br> 
-*Description:* 
-<br> 
-Sampling in the areas surrounding the Faculty of Natural, Exact and Educational Sciences of the University of Cauca. Quantification of the number of families, genera and species of Bryophytes. In this way, it is hoped to contribute to the knowledge of non-vascular plants for conservation and territorial planning purposes that may benefit the proposed interurban biological corridor in the Tulcán Sector of the Municipality of Popayán. 
+**Interurban Biological Corridor Proposal in the Tulcan Sector in Popayan Municipality with Strategy for the conservation of the biodiversity and the territorial planification. (ID: 6114)** <br> *University of Cauca.Education, Naturals and Exact Sciences Faculty. Biology Department. Nonvascular plants (Bryophytes) Taxonomy field. Project Chief: Professor Gisella Mabel Paz Perafán, Ph.D.* <br> *Description:* <br> Sampling in the areas surrounding the Faculty of Natural, Exact and Educational Sciences of the University of Cauca. Quantification of the number of families, genera and species of Bryophytes. In this way, it is hoped to contribute to the knowledge of non-vascular plants for conservation and territorial planning purposes that may benefit the proposed interurban biological corridor in the Tulcán Sector of the Municipality of Popayán
 
-
-\hfill[January 2024 - December 2024]{.cvfloat}\
+\hfill 1 [January 2024 - 30 December 2024]{.cvfloat}\
 
 ## Presentations
 
-**Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition.
-<br>
-52 Socolen Congress of Colombian Entomology Association - Santa Marta, Magdalena, Colombia <br>
+**Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition. <br> 52 Socolen Congress of Entomology - Santa Marta, Magdalena, Colombia <br>
 
-\hfill [June 25, 2025]{.cvfloat}\
+\hfill 25 [June 2025]{.cvfloat}\
 
-**Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* 
-<br> 
-13th Research Meeting in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico <br>
+**Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* <br> 13th Research Meeting in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico <br>
 
-\hfill [May 26, 2025]{.cvfloat}\
+\hfill 26 [May 2025]{.cvfloat}\
 
-**Oral presentation:** <br> *In vivo* and *in silico* evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> Scientific Meeting Brazil - Colombia.
+**Oral presentation:** <br> *In vivo* and *in silico* evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster.* <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. **1st Brazil-Colombia Scientific Meeting*** <br> Ribeirão Preto School of Medicine, University of São Paulo. Department of Genetics. Bioinformatics Group - School of Exact and Educational Natural Sciences, University of Cauca - Microscopy and Imaging Research Group, Toxicology and Cytogenetics Research Group. (Speaker, Assistant & Organizer) <br> University of Cauca - Popayán, Cauca, Colomba.
 
-\hfill [May 23, 2025]{.cvfloat}\
+\hfill 23 [May 2025]{.cvfloat}\
 
+**Poster presentation:** *In silico* evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease <br> Colombian College of Neurosciences, International Brain Research Organization, Pontifical Javeriana University - Bogotá, Cundinamarca, Colombia.
 
-**Poster presentation:** *In silico* evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease 
-<br> 
-National Congress of Neurosciences and XV International Seminar on Neurosciences* 
+\hfill 24 [April 2025]{.cvfloat}\
 
-\hfill[April 24th - 2025]{.cvfloat}\
+**Poster presentation:**Evaluation of viability and germination capacity in seeds of *Pterocaulon alopecuroides* <br> XII Botanic Colombian Congress - Popayan, Cauca, Colombia
 
-**Poster presentation:**Evaluation of viability and germination capacity in seeds of *Pterocaulon alopecuroides* 
-<br> 
-XII Botanic Colombian Congress - Popayan, Cauca, Colombia 
+\hfill 5 [November 2024]{.cvfloat}\
 
-\hfill[November 5th - 2024]{.cvfloat}\
+**Oral presentation:** Biodiversity of bryophytes at the University of Cauca, Popayán <br> XII Botanic Colombian Congress - Popayan, Cauca, Colombia
 
-**Oral presentation:** Biodiversity of bryophytes at the University of Cauca, Popayán 
-<br> 
-XII Botanic Colombian Congress - Popayan, Cauca, Colombia
+\hfill 5 [November 2024]{.cvfloat}\
 
-\hfill[November 5th - 2024]{.cvfloat}\
+**Oral presentation:** MHN-Unicauca Staff, at the Cauca Stand and the popular economies stand. <br> Pacific District in the Green Zone COP-16. Cali, Colombia
 
-**Oral presentation:** MHN-Unicauca Staff, at the Cauca Stand and the popular economies stand.
-<br>
-Pacific District in the Green Zone COP-16. Cali, Colombia 
-
-\hfill[October 26th - 2024]{.cvfloat}\
+\hfill 26 [October 2024]{.cvfloat}\
 
 ## Awards & Honors
 
-**Distinction**: <br> First place in poster category for the work "Evaluation of the neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*". <br> 13th Meeting on Research in Biomedical Sciences, Morphological Skills, and Education.
+**Distinction**: <br> First place in poster category for the work "Evaluation of the neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*". <br> 13th Meeting on Research in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico
 
-\hfill [June 2, 2025]{.cvfloat}\
+\hfill 2 [June 2025]{.cvfloat}
 
-**Honor:** <br> First Place for outstanding performance in the construction of the DNA Molecule <br> Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule. 
+Honor: **IBRO Registration Fee Waiver – COLNE 2024** <br>\
+
+Granted by the International Brain Research Organization (IBRO) to support poster presentation at the Colombian Congress of Neurosciences.` <br>`{=html}
+
+National Congress of Neurosciences and XV International Seminar on Neurosciences - Bogotá, Cundinamarca, Colombia \
+
+**Distinction:** <br> First Place for outstanding performance in the construction of the DNA Molecule <br> Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule. <br> Ibero-American Artificial Intelligence Network for Big BioData (RIABIO), Group in Cancer, Ambiental and Molecular (BIMAC) - Education, Exact and Natural Sciences Faculty
 
 \hfill[April 25th - 2023]{.cvfloat}\
 
@@ -279,7 +229,6 @@ Pacific District in the Green Zone COP-16. Cali, Colombia
 **Article:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(Submitted)*, Reproductive, neurotoxic, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*
 
 **Article:** Polindara Moncayo, Y. W., Garcia Cevallos, X. C., Guevara Trujillo, D. T., *(Under review)*, Viability and germination capacity of *Pterocaulon alopecuroides* (Lam) DC seeds, a medicinal plant
-
 
 ::: print-only
 ## References
