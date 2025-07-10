@@ -28,12 +28,6 @@ format:
     css: English.css
 ---
 
-## Contact information
-
-::: {.print-only .contact-block}
-xgarcia\@unicauca.edu.co
-:::
-
 ## Research interest
 
 My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell and molecular field (natural origin drugs discovery, ADMET tools prediction, genomic & transcriptomic tools for deep-understand to neurodegenerative disease, insects behavior for exposition to toxic).
@@ -152,7 +146,7 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **Fundaments:** This course boarding preliminary criteria for understand the programming logic, afterward deep-understanding to the knowledge in fundamentals libraries and packages for the biologist he can develop biological analyses and representation plots
 
-\hfill [March 5, 2025]{.cvfloat}\
+\hfill 5 [March 2025]{.cvfloat}\
 
 **Workshop:** Artificial Intelligence Tools for R Management and Reproducible Science. <br> Research Seedbed in Geology, Ecology, and Conservation (ASIO) - University of Cauca, Popayán, Cauca, Colombia <br> **Duration:** 4 hours
 
@@ -160,7 +154,7 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **Fundaments:** This course introduce to the boarding to programming in R Software and how you can resolves difficult problems to programming when you start learn about programming logic
 
-\hfill [May 16 - June 2, 2025]{.cvfloat}\
+\hfill 16 [May - 2 June 2025]{.cvfloat}\
 
 ## Work Experience
 
@@ -180,11 +174,11 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 ## Presentations
 
-**Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition. <br> 52 Socolen Congress of Entomology - Santa Marta, Magdalena, Colombia <br>
+**Poster presentation:** <br> *In silico* evaluation of diferential expression of conductual pathways in *Atta cephalotes* (Formicidae) for pesticides exposition. <br> 52 Socolen Congress of Entomology - Santa Marta, Magdalena, Colombia
 
 \hfill 25 [June 2025]{.cvfloat}\
 
-**Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* <br> 13th Research Meeting in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico <br>
+**Poster presentation:** <br> Evaluation of neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster.* <br> 13th Research Meeting in Biomedical Sciences, Morphological Skills, and Education - University of Durango, Zacatecas Campus, Mexico
 
 \hfill 26 [May 2025]{.cvfloat}\
 
@@ -214,15 +208,17 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 \hfill 2 [June 2025]{.cvfloat}
 
-Honor: **IBRO Registration Fee Waiver – COLNE 2024** <br>\
+**Honor:** IBRO Registration Fee Waiver – COLNE 2024<br>\
 
 Granted by the International Brain Research Organization (IBRO) to support poster presentation at the Colombian Congress of Neurosciences.` <br>`{=html}
 
-National Congress of Neurosciences and XV International Seminar on Neurosciences - Bogotá, Cundinamarca, Colombia \
+National Congress of Neurosciences and XV International Seminar on Neurosciences - Bogotá, Cundinamarca, Colombia
+
+\hfill 23 April [2025]{.cvfloat}\
 
 **Distinction:** <br> First Place for outstanding performance in the construction of the DNA Molecule <br> Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule. <br> Ibero-American Artificial Intelligence Network for Big BioData (RIABIO), Group in Cancer, Ambiental and Molecular (BIMAC) - Education, Exact and Natural Sciences Faculty
 
-\hfill[April 25th - 2023]{.cvfloat}\
+\hfill 25 [April 2023]{.cvfloat}\
 
 ## Submitted Articles
 
