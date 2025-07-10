@@ -11,7 +11,8 @@ author:
 address: "Popayán, Cauca"
 email: xgarcia@unicauca.edu.co
 github: xavierclementegarcia 
-orcid: https://orcid.org/0000-0002-3284-2363 
+orcid: https://orcid.org/0000-0002-3284-2363
+linkedin: https://www.linkedin.com/in/xavier-clemente-garc%C3%ADa-cevallos-b4727a206/ 
 
 theme:
   light: flatly
