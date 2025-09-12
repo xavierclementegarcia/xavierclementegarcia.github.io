@@ -71,7 +71,7 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **Handling tools in Microsoft Office Excel 2016** <br> National Learning Service SENA – Colombia
 
-\hfill 7[ august- 7 September 2021]{.cvfloat}\
+\hfill 7[august- 7 September 2021]{.cvfloat}\
 
 **Control structures and Variables in Python** <br> National Learning Service SENA – Colombia
 
@@ -97,11 +97,11 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **XIV National Congress XV International Seminar on Neurosciences** <br> Colombian College of Neurosciences, International Brain Research Organization, Pontifical Javeriana University - Bogotá, Cundinamarca, Colombia. (Speaker & Assistant)
 
-\hfill[ 24-26 April 202]{.cvfloat}5\
+\hfill[24-26 April 202]{.cvfloat}5\
 
 **XII Botanic Colombian Congress** <br> Colombian Botanical Association (ACB), University of Cauca Herbarium (CAUP) - University of Cauca, Popayán, Cauca, Colombia. ( Speaker & organizer)
 
-\hfill[ 4-8 November 2024]{.cvfloat}\
+\hfill[4-8 November 2024]{.cvfloat}\
 
 **Pacific Regional Convergence for COP-16** <br> Pacific District Green Zone COP-16. Republic Vicepredency. Cali - Colombia (Speaker)
 
@@ -113,15 +113,15 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **XI Latin American Congress of Medicinal Plants** <br> Colombian Biological Sciences Association, Medicinal Plants Latinoamerican Society (SOLAPLAMED), University Corporation Santa Rosa de Cabal - Quindío University - Armenia, Quindío, Colombia. (Assistant)
 
-\hfill[ 13-16 September 2023]{.cvfloat}\
+\hfill[13-16 September 2023]{.cvfloat}\
 
 **II Symposium on Cancer Update: from genetics to the clinic** <br> Military University of New Granada - Bogotá, Cundinarmarca, Colombia. (Assistant)
 
-\hfill 3 June 2023 \
+\hfill 3 June 2023\
 
 **I Symposium Mother cell and genetic terapy** <br> Military University of New Granada - Bogotá, Cundinamarca, Colombia. (Assistant)
 
-\hfill[ 15 April 2023]{.cvfloat}\
+\hfill[15 April 2023]{.cvfloat}\
 
 **Symposium to commemorate the discovery of DNA and the Human Genome Project. Competition for the most molecularly accurate DNA molecule** <br> Ibero-American Artificial Intelligence Network for Big BioData (RIABIO), Group in Cancer, Ambiental and Molecular (BIMAC) - . Education, Exact and Natural Sciences Faculty - Popayán, Cauca, Colombia. (Assistant)
 
@@ -129,7 +129,7 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 **International Colloquium: Omics Sciences, advances, big data and impact in personalized medicine and precision** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Assistant)
 
-\hfill 2[ November 2021]{.cvfloat}\
+\hfill 2[November 2021]{.cvfloat}\
 
 **XVI Research Symposium in Biological Sciences** <br> Education, Exacts and Natural Sciences Faculty - University of Cauca - Popayán, Cauca, Colombia. (Assistant)
 
@@ -209,9 +209,9 @@ My deep-interest correspond to the Bioinformatic, botanical, toxicology, cell an
 
 \hfill 2 [June 2025]{.cvfloat}
 
-**Honor:** IBRO Registration Fee Waiver – COLNE 2025 <br>
+**Honor:** IBRO Registration Fee Waiver – COLNE 2024<br>\
 
-Granted by the International Brain Research Organization (IBRO) to support poster presentation at the Colombian Congress of Neurosciences.` <br>`{=html}
+Granted by the International Brain Research Organization (IBRO) to support poster presentation at the Colombian Congress of Neurosciences.<br>
 
 National Congress of Neurosciences and XV International Seminar on Neurosciences - Bogotá, Cundinamarca, Colombia
 
