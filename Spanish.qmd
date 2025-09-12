@@ -30,7 +30,7 @@ format:
 
 ## Resumen
 
-Estudiante de octavo semestre de Biología con sólida formación en áreas como botánica, biología molecular, fisiología, toxicología, neurobiología y ecotoxicología. Manejo de herramientas computacionales aplicadas a la biología (modelos QSAR, bioinformática con R y Python).
+Estudiante de octavo semestre de Biología con sólida formación en áreas como biología molecular, fisiología vegetal, neurobiología y ecotoxicología. Manejo y gestión de colección botánica y herramientas computacionales aplicadas a la biología (modelos QSAR, bioinformática con R y Python).
 
 ## Educación
 
