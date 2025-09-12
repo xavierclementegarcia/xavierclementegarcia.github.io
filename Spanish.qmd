@@ -27,16 +27,14 @@ format:
     default: true
     css: Spanish.css
 ---
+
 ## Resumen
 
-Estudiante de octavo semestre de Biología con sólida formación en áreas como botánica, biología molecular, fisiología, toxicología, neurobiología y ecotoxicología. Manejo de herramientas computacionales aplicadas a la biología (modelos QSAR, transcriptómica, bioinformática con R y Python).
-He tenido experiencia docente con estudiantes de colegio y de nivel universitario (incluyendo estudiantes de medicina), brindando clases personalizadas en biología, química y temas afines. Me interesa aportar al proceso formativo de los estudiantes desde un enfoque práctico, riguroso y cercano, fomentando el pensamiento crítico y el amor por las ciencias.
+Estudiante de octavo semestre de Biología con sólida formación en áreas como botánica, biología molecular, fisiología, toxicología, neurobiología y ecotoxicología. Manejo de herramientas computacionales aplicadas a la biología (modelos QSAR, bioinformática con R y Python).
 
 ## Educación
 
-**Estudiante de Biología** <br> *Universidad del Cauca*
-<br>
-Titulación prevista: 2026
+**Estudiante de Biología** <br> *Universidad del Cauca* <br> Titulación prevista: 2026
 
 \hfill[Aug 2020 - Presente]{.cvfloat}\
 
@@ -62,8 +60,7 @@ Titulación prevista: 2026
 
 \hfill[1-15 Junio 2023 - Junio 2023]{.cvfloat}\
 
-**Modelación molecular - GBI Hands On: Modelagem Molecular** <br> 
-*Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. Departamento de Genética. Bioinformática - Universidad de São Paulo (USP)*
+**Modelación molecular - GBI Hands On: Modelagem Molecular** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. Departamento de Genética. Bioinformática - Universidad de São Paulo (USP)*
 
 \hfill[24-25 Noviembre 2022 - Noviembre 2022]{.cvfloat}\
 
@@ -91,11 +88,11 @@ Titulación prevista: 2026
 
 **52.º Congreso Socolen de Entomología Colombiana. Asociación Colombiana de Entomología** <br> *Universidad del Magdalena - Santa Marta, Magdalena, Colombia. (Ponente y asistente)*
 
-\hfill[25-27 Junio  2025]{.cvfloat}\
+\hfill[25-27 Junio 2025]{.cvfloat}\
 
 **I Encontro Científico Brasil - Colombia** <br> *Facultad de Medicina de Ribeirão Preto, Universidad de São Paulo. Departamento de Genética. Grupo de Bioinformática - Facultad de Ciencias Naturales Exactas y de la Educación, Universidad del Cauca - Grupo de Investigación en Microscopía e Imanología, Grupo de Investigación en Toxicología y Citogenética. (Ponente y asistente)*
 
-\hfill[23 Mayo  2025]{.cvfloat}\
+\hfill[23 Mayo 2025]{.cvfloat}\
 
 **XIV Congreso Nacional XV Seminario Internacional de Neurociencias** <br> *Colegio Colombiano de Neurociencias*, *International Brain Research Organization*, *Pontificia Universidad Javeriana - Sede Bogotá. (Ponente y asistente)*
 
@@ -145,18 +142,13 @@ Titulación prevista: 2026
 
 **Taller:** *Introducción a R y manejo de pruebas estadísticas* - Laboratorio de Entomología, Museo de Historia Natural. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero Diversidad Funcional y Servicios Ecosistémicos (DIVERFUN). <br> **Duración :** 2 horas.
 
-**Fundamentos:** : Este curso aborda criterios preliminares para comprender la lógica de programación, para luego
-profundizar en el conocimiento de librerías y paquetes fundamentales para que el biólogo pueda desarrollar análisis
-biológicos y diagramas de representación.
-
+**Fundamentos:** : Este curso aborda criterios preliminares para comprender la lógica de programación, para luego profundizar en el conocimiento de librerías y paquetes fundamentales para que el biólogo pueda desarrollar análisis biológicos y diagramas de representación.
 
 \hfill [5 Marzo 2025]{.cvfloat}\
 
 **Taller:** *Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible*. <br> Universidad del Cauca, Popayán, Cauca, Colombia. <br> Semillero de Investigación en Geología, Ecología y Conservación - ASIO. <br> **Duración :** 4 horas.
 
-**Fundamentos:**  Este curso introduce el abordaje de la programación en el software R y cómo puedes resolver
-problemas difíciles de programación cuando comienzas a aprender sobre lógica de programación.
-
+**Fundamentos:** Este curso introduce el abordaje de la programación en el software R y cómo puedes resolver problemas difíciles de programación cuando comienzas a aprender sobre lógica de programación.
 
 \hfill [16 Mayo - Junio 2 2025]{.cvfloat}\
 
@@ -178,11 +170,9 @@ problemas difíciles de programación cuando comienzas a aprender sobre lógica 
 
 ## Presentaciones
 
-**Póster:** <br>  Evaluación *in silico* de la expresión diferencial de vías conductuales en *Atta cephalotes*
-(Formicidae) por la exposición a pesticidas <br>  52.º Congreso Socolen de Entomología - Santa Marta, Magdalena, Colombia
- <br>
- 
- \hfill [25 Junio 2025]{.cvfloat}\
+**Póster:** <br> Evaluación *in silico* de la expresión diferencial de vías conductuales en *Atta cephalotes* (Formicidae) por la exposición a pesticidas <br> 52.º Congreso Socolen de Entomología - Santa Marta, Magdalena, Colombia <br>
+
+\hfill [25 Junio 2025]{.cvfloat}\
 
 **Póster:** <br> Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en *Drosophila melanogaster.* <br> XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, sede Zacatecas, México <br>
 
@@ -214,7 +204,7 @@ problemas difíciles de programación cuando comienzas a aprender sobre lógica 
 
 \hfill [2 Junio 2025]{.cvfloat}\
 
-**Honor:** Beca IBRO  - Exención de pago de inscripción al XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias - Bogotá, Cundinamarca, Colombia. 
+**Honor:** Beca IBRO - Exención de pago de inscripción al XIV Congreso Nacional de Neurociencias y XV Seminario Internacional de Neurociencias - Bogotá, Cundinamarca, Colombia.
 
 \hfill [23 Abril 2025]{.cvfloat}\
 
@@ -224,9 +214,9 @@ problemas difíciles de programación cuando comienzas a aprender sobre lógica 
 
 ## Artículos sometidos
 
-**Artículo:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(Sometido)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
+**Artículo:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(En revisión)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
 
-**Artículo:** Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., *(En revisión)*, Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal
+**Artículo:** Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., *(Aceptado con ajustes)*, Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal
 
 ::: print-only
 ## Referencias
