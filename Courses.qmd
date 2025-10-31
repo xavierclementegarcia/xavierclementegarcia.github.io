@@ -5,7 +5,7 @@ theme:
   dark: darkly
 ---
 
-
 In this section you find my free-courses:
- 
+
 -   [Basic Fundamentals of R](https://xavierclementegarcia.github.io/Basic_Fundamentals_of_R/)
+-   Intermediate Fundamentals of R
