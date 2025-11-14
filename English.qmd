@@ -221,14 +221,18 @@ National Congress of Neurosciences and XV International Seminar on Neurosciences
 
 \hfill 25 [April 2023]{.cvfloat}\
 
-## Submitted Articles
+## Accepted Articles
 
-**Article:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(Submitted)*, Reproductive, neurotoxic, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*
+**Article:** Polindara Moncayo, Y. W., Garcia Cevallos, X. C., Guevara Trujillo, D. T., *(Accepted)*, Viability and germination capacity of *Pterocaulon alopecuroides* (Lam) DC seeds, a medicinal plant
 
-**Article:** Polindara Moncayo, Y. W., Garcia Cevallos, X. C., Guevara Trujillo, D. T., *(Under review)*, Viability and germination capacity of *Pterocaulon alopecuroides* (Lam) DC seeds, a medicinal plant
+## Under review Articles
+
+**Article:** García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(Under-review)*, Reproductive, neurotoxic, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*
+
+## Manuscripts in preparation 
+
+**Article:** García Cevallos, X. C., Taimal-Cuaspud., Muñoz Buitrón, D., & Castillo, W. O., (manuscript in preparation) *Pharmacological potential of metabolites from **Hedyosmum cumbalense** H. Karst as therapeutic candidates for Alzheimer’s disease.
 
 ::: print-only
-## References
-
 Available upon request
 :::
