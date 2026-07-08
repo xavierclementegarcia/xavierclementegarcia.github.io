@@ -196,6 +196,10 @@ Experiencia en el manejo, estandarización y validación de datos de biodiversid
 
 Redacción y organización de literatura científica
 
+# Artículos en preparación 
+
+García Cevallos, X. C., Castillo Bravo, C. C., Tovar, Y. Y., Giraldo Aristizábal, C. I. & Castillo Ordóñez, W. O. Evolutionary divergence of 1,3-β-glucan synthase and its impact on the binding affinity of natural compounds with potential antifungal activity: An *in silico* approach.
+
 # Artículos en revisión
 
 García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(En revisión)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
@@ -210,8 +214,7 @@ Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., Viabilid
 Investigador **Semillero de Biología del Desarrollo y Plasticidad Neural** Coordinador **Biosis Talks** Fundador **Instituto Colombiano de Neurociencias**\
 Socio activo **Asociación Latinoamericana de Biología Sintética**\
 Cómite de expansión **Asociación Colombiana de Botánica**\
-Socio activo ::: print-only \
-
+Socio activo ::: print-only\
 
 # Referencias
 

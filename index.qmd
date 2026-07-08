@@ -33,9 +33,6 @@ subtitle: "Xavier Clemente García Cevallos"
 ¡Hello!
 
 My name is Xavier Clemente García Cevallos. I'm currently studying a B.S Biology at the [University of Cauca](https://www.unicauca.edu.co/). I serving as the Development Biology and Neural Plasticity Research Seedbed Coordinator.
-I have focused my work and skills on the field of computational and structural biology, as well as on understanding plant chemistry and drug discovery. I have been a monitor at the CAUP Herbarium of the University of Cauca and in the Department of Biology.
-Currently, I am a member of the Latin American Association of Synthetic Biology (SynBio).
-
 Welcome to my website.Let's have fun and learn together. 
 
 :::
