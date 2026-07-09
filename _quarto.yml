@@ -15,7 +15,7 @@ website:
           - href: pages/cv/English.qmd
             text: English
           - href: pages/cv/Spanish.qmd
-            text: pages/cv/Spanish
+            text: Spanish
       - text: More
         menu:
           - href: pages/courses/Courses.qmd
