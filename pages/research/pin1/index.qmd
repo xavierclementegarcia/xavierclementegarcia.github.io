@@ -12,11 +12,11 @@ image: images.jpg
 citation: false
 
 categories: 
-  - eclosión
-  - desarrollo
-  - glifocafé
-  - neurotoxicidad
-  - reproductivo 
+  - metabolitos
+  - peperomia
+  - Alzheimer
+  - in-silico
+  - Pin1 
 
 
 about:

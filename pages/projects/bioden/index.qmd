@@ -21,10 +21,13 @@ about:
     
 links:
   - icon: github
+    text: Github
     href: https://github.com/bioden/bioden_website
   - icon: globe
+    text: Website
     href: https://bioden.github.io/bioden_website/
   - icon: instagram
+    text: Instagram
     href: https://www.instagram.com/bioden_unicauca/
 ---
 

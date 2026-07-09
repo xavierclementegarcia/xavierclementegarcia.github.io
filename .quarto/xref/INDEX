@@ -85,5 +85,8 @@
   },
   "pages/projects/bioden/index.qmd": {
     "index.html": "597f2f7d"
+  },
+  "pages/projects/bio_admet/index.qmd": {
+    "index.html": "0c05ad67"
   }
 }

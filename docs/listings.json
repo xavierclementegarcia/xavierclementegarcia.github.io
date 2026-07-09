@@ -2,6 +2,7 @@
   {
     "listing": "/pages/projects/Projects.html",
     "items": [
+      "/pages/projects/bio_admet/index.html",
       "/pages/projects/admetshiny/index.html",
       "/pages/projects/bioden/index.html"
     ]
