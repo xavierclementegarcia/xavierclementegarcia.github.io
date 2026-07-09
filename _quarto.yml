@@ -16,12 +16,12 @@ website:
             text: English
           - href: pages/cv/Spanish.qmd
             text: Spanish
-      - text: More
-        menu:
-          - href: pages/courses/Courses.qmd
-            text: Courses
-          - href: pages/divulgation/Divulgation.qmd
-            text: Divulgation
+      #- text: More
+        #menu:
+          #- href: pages/courses/Courses.qmd
+            #text: Courses
+          #- href: pages/divulgation/Divulgation.qmd
+            #text: Divulgation
       - href: pages/research/Research.qmd
         text: Research
       - href: pages/projects/Projects.qmd

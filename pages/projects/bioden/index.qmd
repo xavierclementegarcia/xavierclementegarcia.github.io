@@ -1,12 +1,12 @@
 ---
 # pagetitle: ""
-title: "BIODEN:"
-pagetitle: "Semillero de Biología del Desarrollo y Plasticidad Neural - BIODEN"
+title: "Página Web del Semillero de Biología del Desarrollo y Plasticidad Neural (BIODEN)"
+pagetitle: "Página Web del Semillero de Biología del Desarrollo y Plasticidad Neural - BIODEN"
 # subtitle: ""
-# description: ""
+description: “Sitio oficial del Semillero de Biología del Desarrollo y Plasticidad Neural (BIODEN) de la Universidad del Cauca.”
 author: "Xavier Clemente Garcia-Cevallos"
 
-lang: en
+lang: es
 
 date: 2025-08-07
 

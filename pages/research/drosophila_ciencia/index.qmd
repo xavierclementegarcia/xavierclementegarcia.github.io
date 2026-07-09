@@ -12,12 +12,12 @@ image: images.jpg
 citation: false
 
 categories: 
-  - germinación
-  - viabilidad
-  - Pterocaulon
-  - escarificación
-  - temperatura 
-  - inhibición
+  - Glifocafé
+  - reproductivo
+  - Toxicidad
+  - desova
+  - eclosión 
+  - locomoción
 
 about:
   id: research

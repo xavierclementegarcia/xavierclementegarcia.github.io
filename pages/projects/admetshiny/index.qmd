@@ -1,9 +1,10 @@
 ---
-# pagetitle: ""
-title: "admetshiny: An R package for ADMET analysis"
-# subtitle: ""
-# description: ""
-author: "Xavier Clemente Garcia-Cevallos"
+pagetitle: ""
+title: "ADMETShiny: An R Package for ADMET Analysis"
+
+description: "An R package for the calculation, management, visualization, and filtering of ADMET properties."
+
+author: "Xavier Clemente García-Cevallos"
 
 lang: en
 
@@ -17,7 +18,11 @@ about:
   id: research
   template: jolla
   image-shape: rectangle
-  
+categories: 
+  - ADMET
+  - Analysis
+  - R-package
+
 links:
   - icon: github
     href: https://github.com/xavierclementegarcia/ADMETShiny
@@ -32,5 +37,6 @@ links:
 ::: {style="text-align: justify;"}
 ## ¿Qué es admetshiny?
 
-Proporciona una aplicación interactiva y atractiva, junto con un conjunto de funciones de R, para la gestión, el cálculo, el filtrado, la visualización y el análisis exploratorio de descriptores moleculares y propiedades ADMET (Absorción, Distribución, Metabolismo, Excreción y Toxicidad) de moléculas pequeñas. Integra flujos de trabajo de SwissADME, ADMETlab 3.0 y Deep-PK, calcula descriptores localmente mediante el Chemistry Development Kit (CDK) y ofrece filtros de similitud con fármacos (Lipinski, Veber, Ghose, Egan, Muegge), el modelo BOILED-Egg, PCA, t-SNE, gráficos de radar y agrupamiento Tanimoto/AGNES para apoyar la priorización de compuestos en las primeras etapas del descubrimiento de fármacos.
+Provides an interactive shiny application and a toolbox of R functions for the management, calculation, filtering, visualization and exploratory analysis of molecular descriptors and ADMET (Absorption, Distribution, Metabolism, Excretion and Toxicity) properties of small molecules. It integrates workflows from SwissADME, ADMETlab 3.0 and Deep-PK, computes descriptors locally via the Chemistry Development Kit (CDK), and offers drug-likeness filters (Lipinski, Veber, Ghose, Egan, Muegge), the BOILED-Egg model, PCA, t-SNE, radar plots and Tanimoto/AGNES clustering to support compound prioritization in early-stage drug discovery.
+
 :::
