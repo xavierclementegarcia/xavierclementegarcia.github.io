@@ -3,7 +3,7 @@
 title: "De la botánica a la bioinformática: Estrategias para la identificación de metabolitos con potencial farmacológico"
 pagetitle: "De la botánica a la bioinformática: Estrategias para la identificación de metabolitos con potencial farmacológico - Proximamente"
 # subtitle: ""
-description: “Curso Pre-Congreso que se llevará a cabo en el marco del XIII Congreso Colombiano de Botánica”
+description: Curso Pre-Congreso que se llevará a cabo en el marco del XIII Congreso Colombiano de Botánica
 author: "Xavier Clemente Garcia-Cevallos"
 
 lang: es
@@ -30,7 +30,9 @@ links:
 
 ::: {style="text-align: justify;"}
 
-![](images.jpg){width="391"}
+**Para más información del curso puede revisar la página [XIII-CCB](https://acb.org.co/xiiiccb2026/) o escribir al [E-Mail](mailto:xgarcia@unicauca.edu.co).**
+
+xgarcia\@nicauca.edu.co ![](images.jpg){fig-align="center" width="227"}
 
 ## Resumen del evento
 
