@@ -1,0 +1,49 @@
+---
+title: "Evaluación *in silico* de la expresión diferencial de vías conductuales en *Atta cephalotes* (Formicidae) expuestas a pesticidas"
+pagetitle:  "Evaluación *in silico* de la expresión diferencial de vías conductuales en *Atta cephalotes* (Formicidae) expuestas a pesticidas"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-05-26
+
+image: image.png
+
+citation: false
+
+categories: 
+  - Castas
+  - exocitosis
+  - sináptica
+  - Neurotoxicidad
+  - MAPK 
+  - reproducción
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del No. 52 Congreso de la Sociedad Colombiana de Entomología (Socolen) celebrado en la Ciudad de Santa Marta, Magdalena, Colombia
+
+## Resumen
+
+Atta cephalotes (Hymenoptera, Formicidae) es una especie que se distribuye en el neotrópico desde México hasta el norte de Argentina, se caracteriza por su tamaño y longevidad. En Colombia, se han registrado once especies de hormigas cortadoras de hojas o “arrieras” pertenecientes a la tribu Attini y cuatro de ellas corresponden al género Atta. Son eusociales, dado que poseen un nivel de organización mediante castas con roles diferenciados. El uso de plaguicidas a nivel global ha aumentado en los últimos años, llevando a que organismos con interacciones específicas en cultivos sufran exposición indirecta, generando daños que alteran su desarrollo, comportamiento y reproducción. En el presente trabajo se analizó la expresión diferencial mediante la construcción de redes transcriptómicas en castas de Atta cephalotes, para ello se usaron los transcritos asociados a las castas minim (MNM), minor (MNR), media (MED) y major (MAJ) de 91 SRA tomados del BioProject NCBI (PRJNA1022160); así mismo la evaluación in silico se realizó a partir de los pesticidas glifosato, paraquat, permetrina y triclorometano. Se obtuvieron patrones de expresión para 50 transcritos y se seleccionaron aquellos que tuviesen relación con rutas reproductivas, neurológicas y de estrés oxidativo, siendo las vías de proteínas quinasa mitógeno activada (MAPK), regulación de exocitosis de membrana sináptica y translina las de mayor relación entre castas. Así mismo en ProTox 3.0 y SwissADME se encontró que pesticidas como el paraquat tuvieron actividad neurotóxica, paso de la barrera hematoencefálica y ecotóxico; siendo relevante para posibles cambios de comportamiento.
+
+**Palabras clave:** *Castas, exocitosis sináptica, Neurotoxicidad, MAPK, reproducción*
+
+## Presentación
+
+```{=html}
+<iframe src="poster.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="poster.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::

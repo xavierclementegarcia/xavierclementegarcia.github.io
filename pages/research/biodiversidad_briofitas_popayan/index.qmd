@@ -3,12 +3,13 @@
 title: "Biodiversidad de Briofitas en la Universidad del Cauca, Popayán"
 # subtitle: ""
 # description: ""
+author: "Xavier Clemente Garcia-Cevallos"
 
 lang: es
 
 date: 2024-11-05
 
-image: image.jpeg
+image: image1.jpg
 
 citation: false
 

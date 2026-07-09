@@ -1,0 +1,49 @@
+---
+title: "Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé en *Drosophila melanogaster* (Drosophilidae)"
+pagetitle:  "Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé en *Drosophila melanogaster* (Drosophilidae)"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-09-16
+
+image: images.jpg
+
+citation: false
+
+categories: 
+  - eclosión
+  - desarrollo
+  - glifocafé
+  - neurotoxicidad
+  - reproductivo 
+
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del XVIII Simposio de Investigación en Ciencias Biológicas celebrado en la Universidad del Cauca en Popayán, Cauca.
+
+## Resumen
+
+El glifosato es uno de los herbicidas más empleados a nivel mundial y nacional. En Colombia se comercializa comúnmente como Glifo Café, una formulación basada en N-fosfonometilglicina. Si bien su eficacia como herbicida sistémico de amplio espectro está bien documentada, su uso ha generado preocupación debido a los posibles efectos adversos sobre la salud humana. Diversos estudios han asociado la exposición al glifosato con genotoxicidad, citotoxicidad y neurotoxicidad, incluyendo alteraciones en la fertilidad y en la actividad de la acetilcolinesterasa (AChE), enzima esencial para la neurotransmisión colinérgica. La inhibición de esta enzima puede desencadenar disfunciones neurológicas que afectan el control motor y cognitivo. En este estudio, se utilizó Drosophila melanogaster como modelo biológico para evaluar los efectos neurotóxicos, reproductivos y del desarrollo inducidos por Glifo Café. Se aplicaron enfoques experimentales y simulaciones computacionales y se comparó el perfil del herbicida con paraquat (control positivo) y acetilcolina (control negativo). Los análisis computacionales sugirieron una posible interacción del compuesto con AChE. A nivel experimental, se realizaron ensayos de desove, eclosión. Se observó un aumento significativo (p \< 0.05) en el número de pupas y eclosiones en concentraciones elevadas, lo que sugiere un posible desarrollo acelerado. Asimismo, se identificaron alteraciones morfológicas en el tamaño, indicativas de efectos adversos sobre el desarrollo. Estos resultados refuerzan la evidencia sobre los potenciales riesgos clínicos asociados al glifosato, especialmente en relación con la salud neurológica y reproductiva, y destacan la necesidad urgente de una evaluación más estricta de su impacto en la salud pública.
+
+**Palabras claves:** *desarrollo, glifocafé, neurotoxicidad, reproductivo, eclosión*
+
+## Presentación
+
+```{=html}
+<iframe src="drosophila.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="drosophila.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::

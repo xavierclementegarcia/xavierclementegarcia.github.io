@@ -1,8 +1,21 @@
 [
   {
+    "listing": "/pages/projects/Projects.html",
+    "items": [
+      "/pages/projects/admetshiny/index.html",
+      "/pages/projects/bioden/index.html"
+    ]
+  },
+  {
     "listing": "/pages/research/Research.html",
     "items": [
+      "/pages/research/drosophila_ciencia/index.html",
+      "/pages/research/viabilidad_ciencia/index.html",
+      "/pages/research/pin1/index.html",
+      "/pages/research/drosophila_simposio/index.html",
+      "/pages/research/qsar/index.html",
       "/pages/research/brasil/index.html",
+      "/pages/research/socolen/index.html",
       "/pages/research/mexico/index.html",
       "/pages/research/pterocaulon_2/index.html",
       "/pages/research/viabilidad_semillas/index.html",

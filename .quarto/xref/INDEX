@@ -61,5 +61,29 @@
   },
   "pages/research/brasil/index.qmd": {
     "index.html": "493391d3"
+  },
+  "pages/research/drosophila_simposio/index.qmd": {
+    "index.html": "19b11cd9"
+  },
+  "pages/research/pin1/index.qmd": {
+    "index.html": "0c49670e"
+  },
+  "pages/research/socolen/index.qmd": {
+    "index.html": "1107539f"
+  },
+  "pages/research/drosophila_ciencia/index.qmd": {
+    "index.html": "6cbed23f"
+  },
+  "pages/research/qsar/index.qmd": {
+    "index.html": "547856b5"
+  },
+  "pages/research/viabilidad_ciencia/index.qmd": {
+    "index.html": "8575fbc0"
+  },
+  "pages/projects/admetshiny/index.qmd": {
+    "index.html": "ce6f9fbb"
+  },
+  "pages/projects/bioden/index.qmd": {
+    "index.html": "597f2f7d"
   }
 }

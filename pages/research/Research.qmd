@@ -23,7 +23,7 @@ listing:
 comments: false
 ---
 
-Este portafolio incluye material de libre acceso de charlas y pósters en los que he participado, creado o presentado.
+En este portafolio podrá consultar toda mi trayectoria científica.
 
 ::: {#research}
 :::

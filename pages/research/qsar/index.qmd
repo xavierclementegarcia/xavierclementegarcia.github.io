@@ -1,0 +1,69 @@
+---
+title: "QSAR preliminar de toxicidad mediante un modelo de aprendizaje supervisado en *Drosophila melanogaster* (Drosophilidae)"
+pagetitle:  "QSAR preliminar de toxicidad mediante un modelo de aprendizaje supervisado en *Drosophila melanogaster* (Drosophilidae)"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-09-16
+
+image: images.jpg
+
+citation: false
+
+categories: 
+  - QSAR
+  - toxicidad
+  - insectos
+  - modelo
+  - Drosophila 
+  - in-silico
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del Encontro Científico Brasil–Colômbia por meio da colaboração entre os laboratórios GBi, GIMAI e GTGC
+
+## Resumen
+
+Las aproximaciones in silico se han consolidado como herramientas promisorias para la
+identificación y predicción de riesgos toxicológicos en organismos vivos. Los modelos
+relación cuantitativa estructura-actividad (QSAR) permiten estimar la actividad biológica de
+compuestos a partir de sus características fisicoquímicas, facilitando la evaluación de
+solventes, toxinas, extractos y otros xenobióticos. Sin embargo, la mayoría de estos
+modelos han sido desarrollados con base en datos de mamíferos, lo que ha limitado su
+aplicabilidad precisa en otros taxones, especialmente en artrópodos. Drosophila melanogaster,
+ampliamente utilizada en estudios de biología del desarrollo, genética y toxicología,
+representa un modelo alternativo valioso debido a su similitud genética, bajo costo y corto
+ciclo de vida. Sin embargo, a pesar de su uso extendido, aún no se han desarrollado
+suficientes modelos de toxicología con relación a diferentes pesticidas. En este contexto, se
+propuso construir un modelo de aprendizaje supervisado empleando datos toxicológicos
+derivados de 507 bioensayos reportados para Drosophila melanogaster en CHEMBL. Se
+calcularon 1800 descriptores moleculares con la librería RDkit de Python, incluyendo peso
+molecular, número de átomos pesados, logP, número de enlaces y área polar superficial. El
+entrenamiento se realizó con el algoritmo Random Forest Regressor de Scikit-learn. Se
+consideraron variables como mortality, activity , inhibition, LD50, LC50, LC90, IC50. Los
+modelos más robustos se obtuvieron para LC₅₀ (R²=0.991), IC₅₀ (R²=0.979) y LD₅₀
+(R²=0.949), mientras que mortality (R²=0.431) y activity (R²=0.363) mostraron bajo ajuste
+debido a la escasez de datos. Estos hallazgos sugieren un alto potencial para desarrollar un
+predictor de toxicidad específicos en insectos.
+
+**Palabras clave:** *QSAR, toxicidad, insectos, in silico, modelo*
+
+## Presentación
+
+```{=html}
+<iframe src="qsar.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="qsar.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::

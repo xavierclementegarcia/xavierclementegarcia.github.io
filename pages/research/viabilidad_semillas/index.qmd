@@ -27,7 +27,6 @@ about:
 :::
 
 ::: {style="text-align: justify;"}
-
 Este trabajo fue presentado en el marco del XII Congreso Colombiano de Botánica en la ciudad de Popayán, Cauca
 
 ## Resumen
@@ -38,9 +37,10 @@ La germinación de las semillas es una etapa importante porque marca el inicio e
 
 ## Presentación
 
-\`\`\`{=html} <iframe src="poster_pterocaulon.pdf" width="100%" height="500px" style="border: none;">
-
-<p>Tu navegador no soporta la visualización de PDFs. Puedes <a href="poster_pterocaulon.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
-
+```{=html}
+<iframe src="poster_pterocaulon.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="poster_pterocaulon.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
 </iframe>
+```
 :::

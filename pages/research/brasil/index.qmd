@@ -30,7 +30,7 @@ comments: false
 :::
 
 ::: {style="text-align: justify;"}
-Este trabajo fue presentado en el marco del  Encontro Científico Brasil–Colômbia por meio da colaboração entre os laboratórios GBi, GIMAI e GTGC
+Este trabajo fue presentado en el marco del Encontro Científico Brasil–Colômbia por meio da colaboração entre os laboratórios GBi, GIMAI e GTGC
 
 ## Resumen
 
@@ -45,3 +45,5 @@ O uso histórico e ancestral da Erythroxylum coca na América do Sul contrasta c
     <p>Tu navegador no soporta la visualización de PDFs. 
     Puedes <a href="brasil.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
 </iframe>
+```
+:::

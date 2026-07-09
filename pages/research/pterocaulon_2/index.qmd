@@ -31,7 +31,6 @@ comments: false
 :::
 
 ::: {style="text-align: justify;"}
-
 Este trabajo fue presentado en el marco del XIV Congreso Nacional y XV Seminario Internacional de Neurociencias en Bogotá, Colombia
 
 ## Resumen
@@ -46,9 +45,12 @@ Las demencias son patologías caracterizadas por una deficiencia cognitiva sever
 
 ## Presentación
 
-\`\`\`{=html} <iframe src="colne.pdf" width="100%" height="500px" style="border: none;">
-
-<p>Tu navegador no soporta la visualización de PDFs. Puedes <a href="colne.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
-
+```{=html}
+<iframe src="colne.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="colne.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
 </iframe>
-:::
+
+```
+
+

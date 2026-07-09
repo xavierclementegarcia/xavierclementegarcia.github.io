@@ -8,7 +8,7 @@ lang: es
 
 date-format: iso
 
-comments: 
-  utterances: 
-    repo: alexespinosaco/blog-comments
-    theme: github-light
+#comments: 
+  #utterances: 
+    #repo: alexespinosaco/blog-comments
+    #theme: github-light

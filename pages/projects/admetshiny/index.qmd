@@ -1,0 +1,36 @@
+---
+# pagetitle: ""
+title: "admetshiny: An R package for ADMET analysis"
+# subtitle: ""
+# description: ""
+author: "Xavier Clemente Garcia-Cevallos"
+
+lang: en
+
+date: 2026-08-07
+
+image: hexicon.png
+
+citation: false
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+  
+links:
+  - icon: github
+    href: https://github.com/xavierclementegarcia/ADMETShiny
+
+  - icon: globe
+    href: https://xavierclementegarcia.github.io/ADMETShiny/
+---
+
+::: {#projects}
+:::
+
+::: {style="text-align: justify;"}
+## ¿Qué es admetshiny?
+
+Proporciona una aplicación interactiva y atractiva, junto con un conjunto de funciones de R, para la gestión, el cálculo, el filtrado, la visualización y el análisis exploratorio de descriptores moleculares y propiedades ADMET (Absorción, Distribución, Metabolismo, Excreción y Toxicidad) de moléculas pequeñas. Integra flujos de trabajo de SwissADME, ADMETlab 3.0 y Deep-PK, calcula descriptores localmente mediante el Chemistry Development Kit (CDK) y ofrece filtros de similitud con fármacos (Lipinski, Veber, Ghose, Egan, Muegge), el modelo BOILED-Egg, PCA, t-SNE, gráficos de radar y agrupamiento Tanimoto/AGNES para apoyar la priorización de compuestos en las primeras etapas del descubrimiento de fármacos.
+:::

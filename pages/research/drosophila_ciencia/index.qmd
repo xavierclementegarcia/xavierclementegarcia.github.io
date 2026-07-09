@@ -1,0 +1,53 @@
+---
+title: "Evaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en *Drosophila melanogaster* (Drosophilidae)"
+pagetitle:  "Evaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en *Drosophila melanogaster* (Drosophilidae)"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-09-27
+
+image: images.jpg
+
+citation: false
+
+categories: 
+  - germinación
+  - viabilidad
+  - Pterocaulon
+  - escarificación
+  - temperatura 
+  - inhibición
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el Encuentro Ciencia al Parque 2025 celebrado en la ciudad de Popayán, Cauca.
+
+## Resumen
+
+El glifosato es uno de los herbicidas más utilizados a nivel mundial y constituye el ingrediente activo de diversas formulaciones comerciales, entre ellas Glifo Café®, ampliamente empleada en Colombia. Aunque su eficacia como herbicida sistémico de amplio espectro está ampliamente demostrada, existe una creciente preocupación por sus posibles efectos adversos sobre organismos no objetivo y la salud humana. Diversos estudios han reportado asociaciones entre la exposición al glifosato y efectos genotóxicos, citotóxicos y neurotóxicos, incluyendo alteraciones en la fertilidad y en la actividad de la acetilcolinesterasa (AChE), enzima fundamental para la neurotransmisión colinérgica.
+
+En este estudio se empleó *Drosophila melanogaster* como modelo biológico para evaluar los efectos neurotóxicos, reproductivos y del desarrollo inducidos por Glifo Café®. Se combinaron aproximaciones experimentales e *in silico*, comparando el perfil del herbicida con paraquat como control positivo y acetilcolina como control de referencia. Los análisis computacionales sugirieron una posible interacción entre los componentes de la formulación y la AChE. Experimentalmente se realizaron ensayos de desove, eclosión y desarrollo, evaluando además alteraciones morfológicas durante el ciclo de vida. Se observó un incremento significativo (p \< 0,05) en el número de pupas y adultos emergidos en las concentraciones más altas evaluadas, lo que podría indicar modificaciones en la dinámica del desarrollo. Asimismo, se detectaron cambios morfológicos en el tamaño de los individuos expuestos, sugiriendo efectos sobre el desarrollo normal.
+
+En conjunto, los resultados evidencian que la exposición a Glifo Café® puede inducir alteraciones en parámetros reproductivos, del desarrollo y potencialmente neurotóxicos en *D. melanogaster*, respaldando la necesidad de profundizar en la evaluación de los efectos biológicos de las formulaciones comerciales de glifosato y su posible impacto sobre la salud y el ambiente.
+
+**Palabras clave:** *Drosophila melanogaster*, Glifo Café®, glifosato, neurotoxicidad, desarrollo, reproducción.
+
+## Presentación
+
+```{=html}
+<iframe src="poster.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="poster.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::

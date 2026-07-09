@@ -31,8 +31,7 @@ comments: false
 :::
 
 ::: {style="text-align: justify;"}
-
-Este trabajo fue presentado en el marco del XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, Sede Zacatecas, México 
+Este trabajo fue presentado en el marco del XIII Encuentro de Investigación en Ciencias Biomédicas, Habilidades Morfológicas y Educación - Universidad de Durango, Sede Zacatecas, México
 
 ## Resumen
 
@@ -53,3 +52,5 @@ Este trabajo ganó además un reconocimiento a mejor póster científico.
     <p>Tu navegador no soporta la visualización de PDFs. 
     Puedes <a href="poster.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
 </iframe>
+```
+:::

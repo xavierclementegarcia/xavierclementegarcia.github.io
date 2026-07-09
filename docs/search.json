@@ -11,28 +11,63 @@
     "href": "pages/research/viabilidad_semillas/index.html#presentación",
     "title": "Viabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides (Lam.) DC.",
     "section": "Presentación",
-    "text": "Presentación\n```{=html} &lt;/p&gt;\n&lt;p&gt;\nTu navegador no soporta la visualización de PDFs. Puedes &lt;a href=\"poster_pterocaulon.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;\n&lt;/p&gt;"
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"poster_pterocaulon.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
   },
   {
-    "objectID": "pages/research/pterocaulon_2/index.html#resumen",
-    "href": "pages/research/pterocaulon_2/index.html#resumen",
-    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
+    "objectID": "pages/research/socolen/index.html#resumen",
+    "href": "pages/research/socolen/index.html#resumen",
+    "title": "Evaluación in silico de la expresión diferencial de vías conductuales en Atta cephalotes (Formicidae) expuestas a pesticidas",
     "section": "Resumen",
-    "text": "Resumen\nLas demencias son patologías caracterizadas por una deficiencia cognitiva severa que afecta la vida diaria. La enfermedad de Alzheimer (EA) es el tipo de demencia más común, representando entre el 60% y el 80% de los casos. En Colombia, se ha determinado que la prevalencia de demencia es del 13.1% por cada 1,000 habitantes en personas mayores de 50. De los aproximada- mente 300,000 casos de demencia reportados, el 70% corresponde a la EA. Esta enfermedad está asociada con estrés oxidativo, neuroinflamación, factores genéticos, epigenéticos, ambientales y resistencia a la insulina. Respecto a las estrategias farmacológicas, entre 2002-2012 se aprobaron cerca de 40 fármacos, principalmente inhibidores de colinesterasa (tacrina, donepezil,rivastigmina y galantamina) y memantina, un antagonista del receptor N-metil-D- aspartato (NMDA); sin embargo, ninguno ha logrado cambiar el curso de la enfermedad. En los últimos años las plantas han surgido como una estrategia terapéutica. Pterocaulon alopecuroides (Asteraceae), conocida como ”árnica de loma”, contiene cumarinas y flavonoides, que exhiben propiedades antioxidantes, antiinflamatorias y hepatoprotectoras; no obstante, su potencial neuroprotector es desconocido. Considerando lo anterior, se evaluó el potencial terapéutico de los fitoquímicos asociados mediante análisis in sillico utilizando ProTox 3.0 y SwissADME, analizando su capacidad para atravesar la barrera hematoencefálica (BBB) e interacción con proteínas asociadas a la EA. Se evaluaron siete compuestos de P. alopecuroides, uno de ellos presentó actividad con receptores GABAR y MMP; dos pasaron la BBB y uno mostró interacción con AChE. Finalmente, P. alopecuroides se posiciona como un candidato sólido y prometedor agente terapéutico para investigaciones contra la EA.\nPalabras clave: Alzheimer,colinesterasa,receptor,flavonoides,hematoencefálica,cumarinas"
+    "text": "Resumen\nAtta cephalotes (Hymenoptera, Formicidae) es una especie que se distribuye en el neotrópico desde México hasta el norte de Argentina, se caracteriza por su tamaño y longevidad. En Colombia, se han registrado once especies de hormigas cortadoras de hojas o “arrieras” pertenecientes a la tribu Attini y cuatro de ellas corresponden al género Atta. Son eusociales, dado que poseen un nivel de organización mediante castas con roles diferenciados. El uso de plaguicidas a nivel global ha aumentado en los últimos años, llevando a que organismos con interacciones específicas en cultivos sufran exposición indirecta, generando daños que alteran su desarrollo, comportamiento y reproducción. En el presente trabajo se analizó la expresión diferencial mediante la construcción de redes transcriptómicas en castas de Atta cephalotes, para ello se usaron los transcritos asociados a las castas minim (MNM), minor (MNR), media (MED) y major (MAJ) de 91 SRA tomados del BioProject NCBI (PRJNA1022160); así mismo la evaluación in silico se realizó a partir de los pesticidas glifosato, paraquat, permetrina y triclorometano. Se obtuvieron patrones de expresión para 50 transcritos y se seleccionaron aquellos que tuviesen relación con rutas reproductivas, neurológicas y de estrés oxidativo, siendo las vías de proteínas quinasa mitógeno activada (MAPK), regulación de exocitosis de membrana sináptica y translina las de mayor relación entre castas. Así mismo en ProTox 3.0 y SwissADME se encontró que pesticidas como el paraquat tuvieron actividad neurotóxica, paso de la barrera hematoencefálica y ecotóxico; siendo relevante para posibles cambios de comportamiento.\nPalabras clave: Castas, exocitosis sináptica, Neurotoxicidad, MAPK, reproducción"
   },
   {
-    "objectID": "pages/research/pterocaulon_2/index.html#memorias",
-    "href": "pages/research/pterocaulon_2/index.html#memorias",
-    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
-    "section": "Memorias",
-    "text": "Memorias\nMemorias del XIV Congreso Nacional y XV Seminario Internacional de Neurociencias"
-  },
-  {
-    "objectID": "pages/research/pterocaulon_2/index.html#presentación",
-    "href": "pages/research/pterocaulon_2/index.html#presentación",
-    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
+    "objectID": "pages/research/socolen/index.html#presentación",
+    "href": "pages/research/socolen/index.html#presentación",
+    "title": "Evaluación in silico de la expresión diferencial de vías conductuales en Atta cephalotes (Formicidae) expuestas a pesticidas",
     "section": "Presentación",
-    "text": "Presentación\n```{=html} &lt;/p&gt;\n&lt;p&gt;\nTu navegador no soporta la visualización de PDFs. Puedes &lt;a href=\"colne.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;\n&lt;/p&gt;"
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"poster.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "pages/research/qsar/index.html#resumen",
+    "href": "pages/research/qsar/index.html#resumen",
+    "title": "QSAR preliminar de toxicidad mediante un modelo de aprendizaje supervisado en Drosophila melanogaster (Drosophilidae)",
+    "section": "Resumen",
+    "text": "Resumen\nLas aproximaciones in silico se han consolidado como herramientas promisorias para la identificación y predicción de riesgos toxicológicos en organismos vivos. Los modelos relación cuantitativa estructura-actividad (QSAR) permiten estimar la actividad biológica de compuestos a partir de sus características fisicoquímicas, facilitando la evaluación de solventes, toxinas, extractos y otros xenobióticos. Sin embargo, la mayoría de estos modelos han sido desarrollados con base en datos de mamíferos, lo que ha limitado su aplicabilidad precisa en otros taxones, especialmente en artrópodos. Drosophila melanogaster, ampliamente utilizada en estudios de biología del desarrollo, genética y toxicología, representa un modelo alternativo valioso debido a su similitud genética, bajo costo y corto ciclo de vida. Sin embargo, a pesar de su uso extendido, aún no se han desarrollado suficientes modelos de toxicología con relación a diferentes pesticidas. En este contexto, se propuso construir un modelo de aprendizaje supervisado empleando datos toxicológicos derivados de 507 bioensayos reportados para Drosophila melanogaster en CHEMBL. Se calcularon 1800 descriptores moleculares con la librería RDkit de Python, incluyendo peso molecular, número de átomos pesados, logP, número de enlaces y área polar superficial. El entrenamiento se realizó con el algoritmo Random Forest Regressor de Scikit-learn. Se consideraron variables como mortality, activity , inhibition, LD50, LC50, LC90, IC50. Los modelos más robustos se obtuvieron para LC₅₀ (R²=0.991), IC₅₀ (R²=0.979) y LD₅₀ (R²=0.949), mientras que mortality (R²=0.431) y activity (R²=0.363) mostraron bajo ajuste debido a la escasez de datos. Estos hallazgos sugieren un alto potencial para desarrollar un predictor de toxicidad específicos en insectos.\nPalabras clave: QSAR, toxicidad, insectos, in silico, modelo"
+  },
+  {
+    "objectID": "pages/research/qsar/index.html#presentación",
+    "href": "pages/research/qsar/index.html#presentación",
+    "title": "QSAR preliminar de toxicidad mediante un modelo de aprendizaje supervisado en Drosophila melanogaster (Drosophilidae)",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"qsar.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "pages/research/pin1/index.html#resumen",
+    "href": "pages/research/pin1/index.html#resumen",
+    "title": "Análisis in silico de metabolitos de Peperomia (Piperaceae) como potenciales moduladores de la enzima Pin1 en la enfermedad de Alzheimer: Estudio basado en ejemplares del Herbario CAUP",
+    "section": "Resumen",
+    "text": "Resumen\nLa peptidil-prolil isomerasa (Pin1) ha ganado relevancia por su interacción con proteínas clave como Tau y la proteína precursora del β-amiloide (APP) implicadas en la enfermedad de Alzheimer. Su expresión se asocia con la inhibición de supresores tumorales, resistencia a la apoptosis y con la neurodegeneración. La familia Piperaceae comprende cerca de 3.700 especies herbáceas y leñosas distribuidas globalmente, agrupadas en cinco géneros. En Colombia hay 693 especies, de las cuales 277 pertenecen al género Peperomia, al cual se le atribuyen propiedades antihipertensivas, antialérgicas y antidiabéticas. Sin embargo, persiste una brecha en el conocimiento fitoquímico y farmacológico del género. Recientemente, las herramientas in silico han tomado importancia gracias a su bajo costo y fácil acceso para la identificación de compuestos con potencial terapéutico. En este contexto, se evaluaron 34 metabolitos secundarios reportados en tres especies: P. obtusifolia, P. pellucida y P. acuminata, a partir de los ejemplares depositados en el Herbario CAUP de la Universidad del Cauca. Las moléculas se compararon con el ácido trans-retinoico (ATRA), fármaco utilizado en la inhibición de Pin1. Posteriormente, se filtraron según los criterios de Lipinski, Egan y Veber. Como resultado, se seleccionaron seis compuestos con el mejor perfil farmacocinético: limoneno, loliolide, asarona, n-metilcoridaldina, velutina y 5-metoxi-2- metil-2,3,8,9-tetrahidrofuro[2,3-h]cromen-4-ona. Finalmente, para el docking molecular se corrieron 1000 repeticiones, revelando que la afinidad de unión entre Pin1 y velutina fue de –6.026 kcal/mol, en comparación con –6.632 kcal/mol obtenido para el ATRA, mostrando que la velutina, un compuesto derivado de Peperomia, se posiciona como un posible modulador de la peptidil-prolil isomerasa Pin1. Además, destaca el potencial de Peperomiay de los herbarios como una fuente invaluable de información para la búsqueda de metabolitos con potencial medicinal.\nPalabras claves: Peperomia, pin1, acoplamiento molecular, metabolitos"
+  },
+  {
+    "objectID": "pages/research/pin1/index.html#presentación",
+    "href": "pages/research/pin1/index.html#presentación",
+    "title": "Análisis in silico de metabolitos de Peperomia (Piperaceae) como potenciales moduladores de la enzima Pin1 en la enfermedad de Alzheimer: Estudio basado en ejemplares del Herbario CAUP",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"Peperomia.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "pages/research/drosophila_simposio/index.html#resumen",
+    "href": "pages/research/drosophila_simposio/index.html#resumen",
+    "title": "Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé en Drosophila melanogaster (Drosophilidae)",
+    "section": "Resumen",
+    "text": "Resumen\nEl glifosato es uno de los herbicidas más empleados a nivel mundial y nacional. En Colombia se comercializa comúnmente como Glifo Café, una formulación basada en N-fosfonometilglicina. Si bien su eficacia como herbicida sistémico de amplio espectro está bien documentada, su uso ha generado preocupación debido a los posibles efectos adversos sobre la salud humana. Diversos estudios han asociado la exposición al glifosato con genotoxicidad, citotoxicidad y neurotoxicidad, incluyendo alteraciones en la fertilidad y en la actividad de la acetilcolinesterasa (AChE), enzima esencial para la neurotransmisión colinérgica. La inhibición de esta enzima puede desencadenar disfunciones neurológicas que afectan el control motor y cognitivo. En este estudio, se utilizó Drosophila melanogaster como modelo biológico para evaluar los efectos neurotóxicos, reproductivos y del desarrollo inducidos por Glifo Café. Se aplicaron enfoques experimentales y simulaciones computacionales y se comparó el perfil del herbicida con paraquat (control positivo) y acetilcolina (control negativo). Los análisis computacionales sugirieron una posible interacción del compuesto con AChE. A nivel experimental, se realizaron ensayos de desove, eclosión. Se observó un aumento significativo (p &lt; 0.05) en el número de pupas y eclosiones en concentraciones elevadas, lo que sugiere un posible desarrollo acelerado. Asimismo, se identificaron alteraciones morfológicas en el tamaño, indicativas de efectos adversos sobre el desarrollo. Estos resultados refuerzan la evidencia sobre los potenciales riesgos clínicos asociados al glifosato, especialmente en relación con la salud neurológica y reproductiva, y destacan la necesidad urgente de una evaluación más estricta de su impacto en la salud pública.\nPalabras claves: desarrollo, glifocafé, neurotoxicidad, reproductivo, eclosión"
+  },
+  {
+    "objectID": "pages/research/drosophila_simposio/index.html#presentación",
+    "href": "pages/research/drosophila_simposio/index.html#presentación",
+    "title": "Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé en Drosophila melanogaster (Drosophilidae)",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"drosophila.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
   },
   {
     "objectID": "pages/research/brasil/index.html#resumen",
@@ -46,7 +81,21 @@
     "href": "pages/research/brasil/index.html#presentación",
     "title": "In vivo and in silico evaluation of reproductive and neurotoxicity of Erythroxylum coca in Drosophila melanogaster",
     "section": "Presentación",
-    "text": "Presentación\n\n&lt;p&gt;\nTu navegador no soporta la visualización de PDFs. Puedes &lt;a href=\"brasil.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;\n&lt;/p&gt;"
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"brasil.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "pages/projects/Projects.html",
+    "href": "pages/projects/Projects.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "En este portafolio podrá consultar los proyectos que he desarrollado.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nadmetshiny: An R package for ADMET analysis\n\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIODEN:\n\n\n\nAug 7, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/projects/admetshiny/index.html#qué-es-admetshiny",
+    "href": "pages/projects/admetshiny/index.html#qué-es-admetshiny",
+    "title": "admetshiny: An R package for ADMET analysis",
+    "section": "¿Qué es admetshiny?",
+    "text": "¿Qué es admetshiny?\nProporciona una aplicación interactiva y atractiva, junto con un conjunto de funciones de R, para la gestión, el cálculo, el filtrado, la visualización y el análisis exploratorio de descriptores moleculares y propiedades ADMET (Absorción, Distribución, Metabolismo, Excreción y Toxicidad) de moléculas pequeñas. Integra flujos de trabajo de SwissADME, ADMETlab 3.0 y Deep-PK, calcula descriptores localmente mediante el Chemistry Development Kit (CDK) y ofrece filtros de similitud con fármacos (Lipinski, Veber, Ghose, Egan, Muegge), el modelo BOILED-Egg, PCA, t-SNE, gráficos de radar y agrupamiento Tanimoto/AGNES para apoyar la priorización de compuestos en las primeras etapas del descubrimiento de fármacos."
   },
   {
     "objectID": "pages/cv/Spanish.html",
@@ -161,11 +210,32 @@
     "text": "Associations\nResearch Group in Microscopy and Image Analysis (GIMAI) - Researcher\nDevelopmental Biology and Neural Plasticity Research Group - Research Assistant\nBiosis Talks - Coordinator\nFounder – Colombian Institute of Neurosciences\nLatin American Synthetic Biology Association - Active Member\nColombian Botanical Association - Expansion Committee Member\n\n\nAvailable upon request"
   },
   {
+    "objectID": "pages/projects/bioden/index.html#qué-es-bioden",
+    "href": "pages/projects/bioden/index.html#qué-es-bioden",
+    "title": "BIODEN:",
+    "section": "¿Qué es Bioden?",
+    "text": "¿Qué es Bioden?\nLa creación de la página web del Semillero de Biología del Desarrollo y Plasticidad Neural (BIODEN) surgió de la necesidad de contar con un espacio institucional que reflejara el trabajo científico, académico y formativo que se desarrolla dentro del grupo. En muchas ocasiones, las actividades de un semillero, como proyectos de investigación, publicaciones, eventos, cursos y logros de sus integrantes, permanecen dispersas en diferentes plataformas o se difunden únicamente a través de redes sociales, lo que dificulta su consulta y limita su alcance. Por ello, la página web fue concebida como una plataforma que centraliza esta información, facilita su acceso y fortalece la identidad del semillero tanto dentro como fuera de la universidad. Además de servir como una vitrina para divulgar resultados de investigación y promover la apropiación social del conocimiento, este espacio busca incentivar la participación de nuevos estudiantes interesados en la investigación científica, proporcionando información clara sobre las líneas de trabajo, los integrantes, las oportunidades de formación y las actividades desarrolladas. Asimismo, la plataforma contribuye a consolidar la memoria institucional del semillero, preservando el registro de sus proyectos, seminarios, materiales académicos y colaboraciones a lo largo del tiempo. En un contexto donde la visibilidad digital desempeña un papel cada vez más importante para establecer redes de colaboración y fortalecer la proyección académica, la implementación de esta página web representa una estrategia para mejorar la comunicación científica, incrementar el impacto de las actividades del semillero y facilitar el intercambio de conocimientos con estudiantes, investigadores e instituciones interesadas en las áreas de la biología del desarrollo, la neurociencia y la biología computacional."
+  },
+  {
     "objectID": "pages/research/biodiversidad_briofitas_popayan/index.html#presentación",
     "href": "pages/research/biodiversidad_briofitas_popayan/index.html#presentación",
     "title": "Biodiversidad de Briofitas en la Universidad del Cauca, Popayán",
     "section": "Presentación",
     "text": "Presentación\nEl municipio de Popayán se ubica en el suroccidente colombiano, a una altitud media de 1760 m s.n.m., correspondiente a bosque subandino donde se encuentra la Universidad del Cauca, con coordenadas geográficas 2°26’47.9” N 76° 36’ 03.7” W. Se realizaron 17 muestreos entre noviembre de 2023 y mayo de 2024. En este estudio se identificó la riqueza de briofitas en un área de 66.878 m², reportándose como resultados 53 individuos conformados en 27 familias, 38 géneros y 43 especies, contando con 2 hepáticas foliosas y 41 musgos; de 51 individuos de musgos, 46 son pleurocárpicos y 5 acrocárpicos. Las familias más predominantes de musgos fueron Calymperaceae (8), Leucomiaceae (6), Orthotrichaceae (5), Daltoniaceae (5) y Sematophyllaceae (5). Con respecto a los géneros más numerosos, corresponden a Daltonia (5) y Macromitrium (4), y finalmente las especies sobresalientes son Leucomium strumosum (3) y Macromitrium punctatum (3). La mayor riqueza de musgos domina en un sustrato corticícola, siendo este el 90,6 %, y el rupícola representa el 9,4 %.\nPalabras clave: Briofitas, Popayán y riqueza."
+  },
+  {
+    "objectID": "pages/research/drosophila_ciencia/index.html#resumen",
+    "href": "pages/research/drosophila_ciencia/index.html#resumen",
+    "title": "Evaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en Drosophila melanogaster (Drosophilidae)",
+    "section": "Resumen",
+    "text": "Resumen\nEl glifosato es uno de los herbicidas más utilizados a nivel mundial y constituye el ingrediente activo de diversas formulaciones comerciales, entre ellas Glifo Café®, ampliamente empleada en Colombia. Aunque su eficacia como herbicida sistémico de amplio espectro está ampliamente demostrada, existe una creciente preocupación por sus posibles efectos adversos sobre organismos no objetivo y la salud humana. Diversos estudios han reportado asociaciones entre la exposición al glifosato y efectos genotóxicos, citotóxicos y neurotóxicos, incluyendo alteraciones en la fertilidad y en la actividad de la acetilcolinesterasa (AChE), enzima fundamental para la neurotransmisión colinérgica.\nEn este estudio se empleó Drosophila melanogaster como modelo biológico para evaluar los efectos neurotóxicos, reproductivos y del desarrollo inducidos por Glifo Café®. Se combinaron aproximaciones experimentales e in silico, comparando el perfil del herbicida con paraquat como control positivo y acetilcolina como control de referencia. Los análisis computacionales sugirieron una posible interacción entre los componentes de la formulación y la AChE. Experimentalmente se realizaron ensayos de desove, eclosión y desarrollo, evaluando además alteraciones morfológicas durante el ciclo de vida. Se observó un incremento significativo (p &lt; 0,05) en el número de pupas y adultos emergidos en las concentraciones más altas evaluadas, lo que podría indicar modificaciones en la dinámica del desarrollo. Asimismo, se detectaron cambios morfológicos en el tamaño de los individuos expuestos, sugiriendo efectos sobre el desarrollo normal.\nEn conjunto, los resultados evidencian que la exposición a Glifo Café® puede inducir alteraciones en parámetros reproductivos, del desarrollo y potencialmente neurotóxicos en D. melanogaster, respaldando la necesidad de profundizar en la evaluación de los efectos biológicos de las formulaciones comerciales de glifosato y su posible impacto sobre la salud y el ambiente.\nPalabras clave: Drosophila melanogaster, Glifo Café®, glifosato, neurotoxicidad, desarrollo, reproducción."
+  },
+  {
+    "objectID": "pages/research/drosophila_ciencia/index.html#presentación",
+    "href": "pages/research/drosophila_ciencia/index.html#presentación",
+    "title": "Evaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en Drosophila melanogaster (Drosophilidae)",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"poster.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
   },
   {
     "objectID": "pages/research/mexico/index.html#resumen",
@@ -186,13 +256,48 @@
     "href": "pages/research/mexico/index.html#presentación",
     "title": "Evaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en Drosophila melanogaster",
     "section": "Presentación",
-    "text": "Presentación\n\n&lt;p&gt;\nTu navegador no soporta la visualización de PDFs. Puedes &lt;a href=\"poster.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;\n&lt;/p&gt;"
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"poster.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
+  },
+  {
+    "objectID": "pages/research/pterocaulon_2/index.html#resumen",
+    "href": "pages/research/pterocaulon_2/index.html#resumen",
+    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
+    "section": "Resumen",
+    "text": "Resumen\nLas demencias son patologías caracterizadas por una deficiencia cognitiva severa que afecta la vida diaria. La enfermedad de Alzheimer (EA) es el tipo de demencia más común, representando entre el 60% y el 80% de los casos. En Colombia, se ha determinado que la prevalencia de demencia es del 13.1% por cada 1,000 habitantes en personas mayores de 50. De los aproximada- mente 300,000 casos de demencia reportados, el 70% corresponde a la EA. Esta enfermedad está asociada con estrés oxidativo, neuroinflamación, factores genéticos, epigenéticos, ambientales y resistencia a la insulina. Respecto a las estrategias farmacológicas, entre 2002-2012 se aprobaron cerca de 40 fármacos, principalmente inhibidores de colinesterasa (tacrina, donepezil,rivastigmina y galantamina) y memantina, un antagonista del receptor N-metil-D- aspartato (NMDA); sin embargo, ninguno ha logrado cambiar el curso de la enfermedad. En los últimos años las plantas han surgido como una estrategia terapéutica. Pterocaulon alopecuroides (Asteraceae), conocida como ”árnica de loma”, contiene cumarinas y flavonoides, que exhiben propiedades antioxidantes, antiinflamatorias y hepatoprotectoras; no obstante, su potencial neuroprotector es desconocido. Considerando lo anterior, se evaluó el potencial terapéutico de los fitoquímicos asociados mediante análisis in sillico utilizando ProTox 3.0 y SwissADME, analizando su capacidad para atravesar la barrera hematoencefálica (BBB) e interacción con proteínas asociadas a la EA. Se evaluaron siete compuestos de P. alopecuroides, uno de ellos presentó actividad con receptores GABAR y MMP; dos pasaron la BBB y uno mostró interacción con AChE. Finalmente, P. alopecuroides se posiciona como un candidato sólido y prometedor agente terapéutico para investigaciones contra la EA.\nPalabras clave: Alzheimer,colinesterasa,receptor,flavonoides,hematoencefálica,cumarinas"
+  },
+  {
+    "objectID": "pages/research/pterocaulon_2/index.html#memorias",
+    "href": "pages/research/pterocaulon_2/index.html#memorias",
+    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
+    "section": "Memorias",
+    "text": "Memorias\nMemorias del XIV Congreso Nacional y XV Seminario Internacional de Neurociencias"
+  },
+  {
+    "objectID": "pages/research/pterocaulon_2/index.html#presentación",
+    "href": "pages/research/pterocaulon_2/index.html#presentación",
+    "title": "Evaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"colne.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
   },
   {
     "objectID": "pages/research/Research.html",
     "href": "pages/research/Research.html",
     "title": "Ponencias",
     "section": "",
-    "text": "Este portafolio incluye material de libre acceso de charlas y pósters en los que he participado, creado o presentado.\n\n\n\n\n\n\n\n\n\n\nIn vivo and in silico evaluation of reproductive and neurotoxicity of Erythroxylum coca in Drosophila melanogaster\n\n\n\nIn vivo\n\nNeurotoxicidad\n\nReproducción\n\nextracto\n\nToxicidad\n\nDrosophila\n\n\n\n\n2025-05-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en Drosophila melanogaster\n\n\n\nGlifocafé\n\nNeurotoxicidad\n\nReproducción\n\nsubletal\n\nToxicidad\n\nGlifosato\n\nDrosophila\n\n\n\n\n2025-05-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer\n\n\n\nAlzheimer\n\nhematoencefálica\n\nflavonoides\n\ncumarinas\n\npterocaulon alopecuroides\n\nreceptor\n\nacetilcolinesterasa\n\n\n\n\n2025-04-25\n\n\n\n\n\n\n\n\n\n\n\n\n\nViabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides (Lam.) DC.\n\n\n\nEfecto temperatura A (ET, A)\n\nPterocaulon alopecuroides\n\ngerminación\n\n\n\n\n2024-11-06\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiodiversidad de Briofitas en la Universidad del Cauca, Popayán\n\n\n\nBriología\n\nXIICCB\n\nCharla\n\n\n\n\n2024-11-05\n\n\n\n\n\n\nNo hay resultados"
+    "text": "En este portafolio podrá consultar toda mi trayectoria científica.\n\n\n\n\n\n\n\n\n\n\nEvaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en Drosophila melanogaster (Drosophilidae)\n\n\n\ngerminación\n\nviabilidad\n\nPterocaulon\n\nescarificación\n\ntemperatura\n\ninhibición\n\n\n\n\n2025-09-27\n\n\n\n\n\n\n\n\n\n\n\n\n\nGerminación de semillas de Pterocaulon alopecuroides (Lam.) DC.: aportes al conocimiento de especies nativas\n\n\n\ngerminación\n\nviabilidad\n\nPterocaulon\n\nescarificación\n\ntemperatura\n\ninhibición\n\n\n\n\n2025-09-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis in silico de metabolitos de Peperomia (Piperaceae) como potenciales moduladores de la enzima Pin1 en la enfermedad de Alzheimer: Estudio basado en ejemplares del Herbario CAUP\n\n\n\neclosión\n\ndesarrollo\n\nglifocafé\n\nneurotoxicidad\n\nreproductivo\n\n\n\n\n2025-09-19\n\n\n\n\n\n\n\n\n\n\n\n\n\nEfectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé en Drosophila melanogaster (Drosophilidae)\n\n\n\neclosión\n\ndesarrollo\n\nglifocafé\n\nneurotoxicidad\n\nreproductivo\n\n\n\n\n2025-09-16\n\n\n\n\n\n\n\n\n\n\n\n\n\nQSAR preliminar de toxicidad mediante un modelo de aprendizaje supervisado en Drosophila melanogaster (Drosophilidae)\n\n\n\nQSAR\n\ntoxicidad\n\ninsectos\n\nmodelo\n\nDrosophila\n\nin-silico\n\n\n\n\n2025-09-16\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn vivo and in silico evaluation of reproductive and neurotoxicity of Erythroxylum coca in Drosophila melanogaster\n\n\n\nIn vivo\n\nNeurotoxicidad\n\nReproducción\n\nextracto\n\nToxicidad\n\nDrosophila\n\n\n\n\n2025-05-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluación in silico de la expresión diferencial de vías conductuales en Atta cephalotes (Formicidae) expuestas a pesticidas\n\n\n\nCastas\n\nexocitosis\n\nsináptica\n\nNeurotoxicidad\n\nMAPK\n\nreproducción\n\n\n\n\n2025-05-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluación de los efectos neurotóxicos, reproductivos y morfológicos por exposición al Glifocafé® en Drosophila melanogaster\n\n\n\nGlifocafé\n\nNeurotoxicidad\n\nReproducción\n\nsubletal\n\nToxicidad\n\nGlifosato\n\nDrosophila\n\n\n\n\n2025-05-26\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluación in silico del potencial terapeútico de Pterocaulon alopecuroides en la enfermedad de Alzheimer\n\n\n\nAlzheimer\n\nhematoencefálica\n\nflavonoides\n\ncumarinas\n\npterocaulon alopecuroides\n\nreceptor\n\nacetilcolinesterasa\n\n\n\n\n2025-04-25\n\n\n\n\n\n\n\n\n\n\n\n\n\nViabilidad y capacidad germinativa en semillas de Pterocaulon alopecuroides (Lam.) DC.\n\n\n\nEfecto temperatura A (ET, A)\n\nPterocaulon alopecuroides\n\ngerminación\n\n\n\n\n2024-11-06\n\n\n\n\n\n\n\n\n\n\n\n\n\nBiodiversidad de Briofitas en la Universidad del Cauca, Popayán\n\n\n\nBriología\n\nXIICCB\n\nCharla\n\n\n\n\n2024-11-05\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "pages/research/viabilidad_ciencia/index.html#resumen",
+    "href": "pages/research/viabilidad_ciencia/index.html#resumen",
+    "title": "Germinación de semillas de Pterocaulon alopecuroides (Lam.) DC.: aportes al conocimiento de especies nativas",
+    "section": "Resumen",
+    "text": "Resumen\nLa germinación constituye una etapa fundamental en el ciclo de vida de las plantas, ya que determina el establecimiento de nuevos individuos y está regulada por factores ambientales como la disponibilidad de agua, temperatura, luz, aire y las características del suelo. En numerosas especies, las semillas presentan un periodo de latencia que retrasa la emergencia del embrión tras su maduración. El género Pterocaulon (Asteraceae) comprende 26 especies, de las cuales Pterocaulon alopecuroides y P. virgatum se encuentran registradas en Colombia. A pesar del interés farmacológico de P. alopecuroides, debido a sus actividades insecticida, antiacné, antiartrítica, hepatoprotectora y citotóxica frente al cáncer de pulmón microcítico, no existen estudios sobre su biología germinativa, lo que limita el desarrollo de estrategias para su propagación y conservación.\nEn este estudio se evaluaron 1474 semillas de P. alopecuroides recolectadas en el municipio de El Tambo (Cauca, Colombia). Se analizaron su vigor, capacidad de imbibición y viabilidad, además de diferentes tratamientos pregerminativos, incluyendo escarificación química con ácido sulfúrico, escarificación térmica, exposición a distintas condiciones de luz y germinación en cinco tipos de suelo. Asimismo, se documentó la secuencia posgerminativa mediante microscopía de campo claro y estereomicroscopía.\nLas semillas presentaron una viabilidad del 100%. El mayor porcentaje de germinación (64%) se obtuvo sobre papel absorbente, evidenciando la importancia de la disponibilidad de agua durante la imbibición. La escarificación química con H₂SO₄ durante un minuto y el tratamiento térmico alcanzaron porcentajes de germinación del 50%. En los ensayos con diferentes tipos de suelo, el mejor resultado (30%) se obtuvo en un suelo franco-arenoso con pH 5,6 y bajos contenidos de boro, fósforo y aluminio. Estos resultados constituyen el primer reporte sobre la biología germinativa de P. alopecuroides y proporcionan información relevante para el diseño de protocolos de propagación, conservación y aprovechamiento sostenible de esta especie.\nPalabras claves: germinación, viabilidad, Pterocaulon, escarificación, temperatura e inhibición"
+  },
+  {
+    "objectID": "pages/research/viabilidad_ciencia/index.html#presentación",
+    "href": "pages/research/viabilidad_ciencia/index.html#presentación",
+    "title": "Germinación de semillas de Pterocaulon alopecuroides (Lam.) DC.: aportes al conocimiento de especies nativas",
+    "section": "Presentación",
+    "text": "Presentación\n\n    &lt;p&gt;Tu navegador no soporta la visualización de PDFs. \n    Puedes &lt;a href=\"poster.pdf\"&gt;hacer clic aquí para descargar el archivo PDF.&lt;/a&gt;&lt;/p&gt;"
   }
 ]

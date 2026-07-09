@@ -1,0 +1,49 @@
+---
+title: "Análisis in silico de metabolitos de *Peperomia* (Piperaceae) como potenciales moduladores de la enzima Pin1 en la enfermedad de Alzheimer: Estudio basado en ejemplares del Herbario CAUP"
+pagetitle:  "Análisis in silico de metabolitos de *Peperomia* (Piperaceae) como potenciales moduladores de la enzima Pin1 en la enfermedad de Alzheimer: Estudio basado en ejemplares del Herbario CAUP"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-09-19
+
+image: images.jpg
+
+citation: false
+
+categories: 
+  - eclosión
+  - desarrollo
+  - glifocafé
+  - neurotoxicidad
+  - reproductivo 
+
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del XVIII Simposio de Investigación en Ciencias Biológicas celebrado en la Universidad del Cauca en Popayán, Cauca.
+
+## Resumen
+
+La peptidil-prolil isomerasa (Pin1) ha ganado relevancia por su interacción con proteínas clave como Tau y la proteína precursora del β-amiloide (APP) implicadas en la enfermedad de Alzheimer. Su expresión se asocia con la inhibición de supresores tumorales, resistencia a la apoptosis y con la neurodegeneración. La familia Piperaceae comprende cerca de 3.700 especies herbáceas y leñosas distribuidas globalmente, agrupadas en cinco géneros. En Colombia hay 693 especies, de las cuales 277 pertenecen al género *Peperomia*, al cual se le atribuyen propiedades antihipertensivas, antialérgicas y antidiabéticas. Sin embargo, persiste una brecha en el conocimiento fitoquímico y farmacológico del género. Recientemente, las herramientas *in silico* han tomado importancia gracias a su bajo costo y fácil acceso para la identificación de compuestos con potencial terapéutico. En este contexto, se evaluaron 34 metabolitos secundarios reportados en tres especies: P. obtusifolia, P. pellucida y P. acuminata, a partir de los ejemplares depositados en el Herbario CAUP de la Universidad del Cauca. Las moléculas se compararon con el ácido trans-retinoico (ATRA), fármaco utilizado en la inhibición de Pin1. Posteriormente, se filtraron según los criterios de Lipinski, Egan y Veber. Como resultado, se seleccionaron seis compuestos con el mejor perfil farmacocinético: limoneno, loliolide, asarona, n-metilcoridaldina, velutina y 5-metoxi-2- metil-2,3,8,9-tetrahidrofuro\[2,3-h\]cromen-4-ona. Finalmente, para el docking molecular se corrieron 1000 repeticiones, revelando que la afinidad de unión entre Pin1 y velutina fue de –6.026 kcal/mol, en comparación con –6.632 kcal/mol obtenido para el ATRA, mostrando que la velutina, un compuesto derivado de *Peperomia*, se posiciona como un posible modulador de la peptidil-prolil isomerasa Pin1. Además, destaca el potencial de *Peperomia*y de los herbarios como una fuente invaluable de información para la búsqueda de metabolitos con potencial medicinal.
+
+**Palabras claves:** *Peperomia, pin1, acoplamiento molecular, metabolitos*
+
+## Presentación
+
+```{=html}
+<iframe src="Peperomia.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="Peperomia.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::
