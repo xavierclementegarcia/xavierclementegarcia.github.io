@@ -1,0 +1,46 @@
+---
+# pagetitle: ""
+title: "Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam.) DC."
+# subtitle: ""
+# description: ""
+
+lang: es
+
+date: 2024-11-06
+
+image: image1.jpg
+
+citation: false
+
+categories: 
+  - Efecto temperatura A (ET, A)
+  - Pterocaulon alopecuroides
+  - germinación
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+
+Este trabajo fue presentado en el marco del XII Congreso Colombiano de Botánica en la ciudad de Popayán, Cauca
+
+## Resumen
+
+La germinación de las semillas es una etapa importante porque marca el inicio en el ciclo de vida de una planta, influenciada por factores como el agua, suelo, aire, temperatura y luz. La mayoría de las especies vegetales no emergen inmediatamente tras la maduración del embrión, ya que entran en un estado de latencia. El género Pterocaulon, perteneciente a la familia Asteraceae comprende 26 especies de las cuales P. alopecuroides y P. virgatum se encuentran en Colombia. No se han reportado estudios de germinación de P. alopecuroides, cuya actividad biológica presenta un potencial contra las picaduras de insectos, acné, artritis, enfermedades hepáticas y actividad citotóxica en cáncer de pulmón microcítico, lo cual sugiere diseñar estrategias para propagar y conservar esta especie. En esta investigación se evaluaron 1474 semillas de P. alopecuroides colectadas en el municipio de El Tambo, Cauca. Se consideró su calidad (vigor, imbibición y viabilidad) y capacidad pre-germinativa (escarificación química y térmica, efecto de la luz a diferentes longitudes de onda, y pruebas en cinco tipos de suelos diferentes). Posteriormente se observó su secuencia pos-germinativa mediante microscopía de campo claro y estereoscopía. Los resultados mostraron una viabilidad del 100% en las semillas de P. alopecuroides. El porcentaje de germinación fue óptimo en papel con un 64% (ES, A) indicando que la imbibición de la semilla es crucial para su activación; un 50% en escarificación química con H2SO4 por un minuto (EQ, G) y un 50% en la prueba térmica (ET, A). En el ensayo de diferentes tipos de suelo, se logró un 30% de germinación (ES, E), cuya característica corresponde a franco-arenoso, pH 5.6, bajo contenido de boro, fósforo y aluminio. Finalmente, la combinación de métodos de escarificación y la selección de un suelo adecuado permitirá generar protocolos de germinación, propagación y conservación.
+
+**Palabras clave:** *estudio de suelo A y E (ES, A y E), Escarificación química G (EQ, G), Efecto temperatura A (ET, A), germinación y Pterocaulon alopecuroides*
+
+## Presentación
+
+\`\`\`{=html} <iframe src="poster_pterocaulon.pdf" width="100%" height="500px" style="border: none;">
+
+<p>Tu navegador no soporta la visualización de PDFs. Puedes <a href="poster_pterocaulon.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+
+</iframe>
+:::

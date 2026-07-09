@@ -12,18 +12,20 @@ website:
         text: Home
       - text: CV
         menu:
-          - href: English.qmd
+          - href: pages/cv/English.qmd
             text: English
-          - href: Spanish.qmd
-            text: Spanish
+          - href: pages/cv/Spanish.qmd
+            text: pages/cv/Spanish
       - text: More
         menu:
-          - href: Courses.qmd
+          - href: pages/courses/Courses.qmd
             text: Courses
-          - href: Divulgation.qmd
+          - href: pages/divulgation/Divulgation.qmd
             text: Divulgation
-      - href: Research.qmd
+      - href: pages/research/Research.qmd
         text: Research
+      - href: pages/projects/Projects.qmd
+        text: Projects
     right: 
       - icon: twitter
         href: https://x.com/clementegarcC
@@ -33,7 +35,7 @@ website:
         href: https://github.com/xavierclementegarcia 
       - text: '<img src="https://investigacion.udca.edu.co/wp-content/uploads/2018/04/cvlac.svg" alt="CLVAC" style="width: 20px; height: 20px;">'
         href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002018236
-      - text: '<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" alt="ORCID" style="width: 20px; height: 20px;">'
+      - text: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="width:20px;height:20px;vertical-align:middle;">'
         href: https://orcid.org/0000-0002-3284-2363
   
   page-footer:

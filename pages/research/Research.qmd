@@ -1,0 +1,29 @@
+---
+title: "Ponencias"
+pagetitle: "Ponencias"
+author: ""
+
+listing: 
+  - id: research
+    contents: "*/index.qmd"
+    sort: 
+      - "date desc"
+      - "title"
+    type: grid
+    image-height: 225px
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, categories, date]
+    grid-columns: 3
+    # page-size: 3
+    # max-items: 3
+    feed: false
+
+comments: false
+---
+
+Este portafolio incluye material de libre acceso de charlas y pósters en los que he participado, creado o presentado.
+
+::: {#research}
+:::

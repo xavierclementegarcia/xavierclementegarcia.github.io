@@ -1,0 +1,37 @@
+---
+# pagetitle: ""
+title: "Biodiversidad de Briofitas en la Universidad del Cauca, Popayán"
+# subtitle: ""
+# description: ""
+
+lang: es
+
+date: 2024-11-05
+
+image: image.jpeg
+
+citation: false
+
+categories: 
+  - Briología
+  - XIICCB
+  - Charla
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Charla presentada en el marco del XII Congreso Colombiano de Botánica celebrado en la ciudad de Popayán, Cauca, Colombia.
+
+## Presentación
+
+El municipio de Popayán se ubica en el suroccidente colombiano, a una altitud media de 1760 m s.n.m., correspondiente a bosque subandino donde se encuentra la Universidad del Cauca, con coordenadas geográficas 2°26'47.9" N 76° 36' 03.7" W. Se realizaron 17 muestreos entre noviembre de 2023 y mayo de 2024. En este estudio se identificó la riqueza de briofitas en un área de 66.878 m², reportándose como resultados 53 individuos conformados en 27 familias, 38 géneros y 43 especies, contando con 2 hepáticas foliosas y 41 musgos; de 51 individuos de musgos, 46 son pleurocárpicos y 5 acrocárpicos. Las familias más predominantes de musgos fueron Calymperaceae (8), Leucomiaceae (6), Orthotrichaceae (5), Daltoniaceae (5) y Sematophyllaceae (5). Con respecto a los géneros más numerosos, corresponden a *Daltonia* (5) y *Macromitrium* (4), y finalmente las especies sobresalientes son *Leucomium strumosum* (3) y *Macromitrium punctatum* (3). La mayor riqueza de musgos domina en un sustrato corticícola, siendo este el 90,6 %, y el rupícola representa el 9,4 %.
+
+**Palabras clave:** *Briofitas, Popayán y riqueza.*
+:::

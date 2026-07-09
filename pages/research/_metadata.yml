@@ -1,0 +1,14 @@
+freeze: true
+
+author:
+  - name: "Xavier Clemente García Cevallos"
+    #url: http://alexespinosaco.github.io/talks/
+
+lang: es
+
+date-format: iso
+
+comments: 
+  utterances: 
+    repo: alexespinosaco/blog-comments
+    theme: github-light

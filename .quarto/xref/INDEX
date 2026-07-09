@@ -26,5 +26,40 @@
   },
   "Research.qmd": {
     "Research.html": "d07b3e0b"
+  },
+  "pages/courses/Courses.qmd": {
+    "Courses.html": "e7b91865"
+  },
+  "pages/cv/English.qmd": {
+    "English.html": "118432fb",
+    "English.tex": "dc3d1f9f"
+  },
+  "pages/cv/Spanish.qmd": {
+    "Spanish.html": "166ba58e",
+    "Spanish.tex": "1bfaffe7"
+  },
+  "pages/divulgation/Divulgation.qmd": {
+    "Divulgation.html": "92b23128"
+  },
+  "pages/projects/Projects.qmd": {
+    "Projects.html": "763d0f42"
+  },
+  "pages/research/Research.qmd": {
+    "Research.html": "358e420f"
+  },
+  "pages/research/biodiversidad_briofitas_popayan/index.qmd": {
+    "index.html": "e1f543ed"
+  },
+  "pages/research/viabilidad_semillas/index.qmd": {
+    "index.html": "80ed14c6"
+  },
+  "pages/research/pterocaulon_2/index.qmd": {
+    "index.html": "7414c309"
+  },
+  "pages/research/mexico/index.qmd": {
+    "index.html": "c1a29562"
+  },
+  "pages/research/brasil/index.qmd": {
+    "index.html": "493391d3"
   }
 }

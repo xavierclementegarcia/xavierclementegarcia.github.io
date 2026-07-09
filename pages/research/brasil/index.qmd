@@ -1,0 +1,47 @@
+---
+title: "*In vivo* and *in silico* evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster*"
+pagetitle:  "*In vivo* and *in silico* evaluation of reproductive and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster*"
+author: "Xavier Clemente García-Cevallos"
+
+lang: es
+
+date: 2025-05-26
+
+image: images.png
+
+citation: false
+
+categories: 
+  - In vivo
+  - Neurotoxicidad
+  - Reproducción
+  - extracto
+  - Toxicidad 
+  - Drosophila
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+comments: false
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del  Encontro Científico Brasil–Colômbia por meio da colaboração entre os laboratórios GBi, GIMAI e GTGC
+
+## Resumen
+
+O uso histórico e ancestral da Erythroxylum coca na América do Sul contrasta com a escassez de estudos sobre os efeitos biológicos de seu extrato integral, devido à estigmatização científica focada na cocaína isolada. Este projeto visa avaliar os efeitos neurotóxicos e reprodutivos do extrato etanólico da folha de coca utilizando Drosophila melanogaster como modelo biológico, dada sua alta homologia genética com humanos. Metodologicamente, moscas e larvas serão expostas a diferentes concentrações do extrato para avaliar alterações motoras via ensaio de geotaxia negativa, e impactos reprodutivos por meio de testes de oviposição e eclosão larval. A nível celular e endócrino, serão analisadas a ocorrência de apoptose e necrose em cérebros e ovários dissecados (empregando microscopia de fluorescência) e a quantificação do hormônio 20-hidroxiecdisona por ensaio ELISA. Paralelamente, predições farmacocinéticas e de toxicidade (ADMET) dos fitocompostos serão realizadas in silico para identificar interações moleculares específicas. Espera-se que a exposição induza uma redução dose-dependente na capacidade locomotora e reprodutiva, associada a processos de neurodegeneração e desregulação hormonal. Em suma, o estudo busca consolidar o modelo de D. melanogaster para triagem de fitoterápicos complexos, esclarecendo o impacto do uso crônico da folha de coca no eixo neuroendócrino-gonadal e diferenciando seus efeitos globais dos tradicionalmente reportados para o alcaloide purificado.
+
+**Palabras clave:** *Erythroxylum coca, Drosophila melanogaster, Neurotoxicidade, Toxicidade reprodutiva, 20-hidroxiecdisona, Análise in silico*
+
+## Presentación
+
+```{=html}
+<iframe src="brasil.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="brasil.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>

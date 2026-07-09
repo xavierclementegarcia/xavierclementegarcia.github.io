@@ -1,0 +1,206 @@
+---
+title: "Curriculum Vitae"
+date: last-modified
+date-format: iso
+
+author: 
+  - name: Xavier Clemente García Cevallos
+    email: xgarcia@unicauca.edu.co
+    orcid: xxxxxxxx
+
+address: "Popayán, Cauca"
+email: xgarcia@unicauca.edu.co
+github: xavierclementegarcia 
+orcid: https://orcid.org/0000-0002-3284-2363 
+
+theme:
+  light: sandstone
+  dark: solar
+
+fontsize: 12pt
+fontawesome: yes
+
+format:
+  html: 
+    toc: true 
+  quarto-cv-pdf: 
+    default: true
+    css: pages/cv/English.css
+---
+
+## Resumen
+
+Biology student with a robust background in molecular biology, developmental biology, plant physiology, neurobiology and ecotoxicology. Experienced in the management and curation of botanical collections, as well as the application of computational tools to biological sciences including QSAR modeling and bioinformatics utilizing R and Python.
+
+## Education
+
+**B.S Biology Student - University of Cauca - GPA:4.3/5.0** \hfill[Aug 2020 - Present]{.cvfloat}\
+
+## Courses & Certifications
+
+**Scientific Writing in LaTeX and Integration with R – Majuipal Solveris** \hfill [Feb 4 - 5,2025]{.cvfloat}\
+
+**Reproducible Research with Quarto – XII Colombian Botanical Congress – Universidad del Cauca & Universidad de Antioquia** \hfill[Nov 3- 4,2024]{.cvfloat}\
+
+**Introduction to Formative Research: How to Conduct Research Without Dying in the Attempt? – Vice-Rectorate for Academic Research. ECoS-CTel Project – Center for Continuing, Open, and Virtual Education (CECAV) – Universidad del Cauca** \hfill[May 31 - 12 Apr,2024]{.cvfloat}\
+
+**Pre-Symposium Course. R with R for Biological Sciences – XVII Symposium on Research in Biological Sciences – Universidad del Cauca** \hfill[Nov 6 - 7,2023]{.cvfloat}\
+
+**Ethnopharmacology and Ethnobotany: Biocultural Transitions – Faculty of Education, Natural and Exact Sciences. Doctorate in Ethnobiological and Biocultural Studies – Universidad del Cauca** \hfill[Jun 1 - 15,2023]{.cvfloat}\
+
+**Molecular Modeling – GBI Hands-On: Modelagem Molecular – Ribeirão Preto Medical School, University of São Paulo. Department of Genetics. Bioinformatics – University of São Paulo (USP)** \hfill[Nov 24 - 35,2022]{.cvfloat}\
+
+**Botanical Scientific Drawing with an Ethnobiological Approach – Faculty of Education, Natural and Exact Sciences. Doctorate in Ethnobiological and Biocultural Studies – Universidad del Cauca** \hfill [Dec 6 – 11, 2022]{.cvfloat}\
+
+**Advanced Data Management in Microsoft Office Excel 2016 - National Learning Service (SENA) – Colombia** \hfill [Aug 7 – Sep 7, 2021]{.cvfloat}\
+
+**Control Structures and Variables in Python - National Learning Service (SENA) – Colombia** \hfill [Jun 19 – Jul 19, 2022]{.cvfloat}\
+
+**The Chemistry of Life – Kyoto University – KyotoUx** \hfill [Mar 1, 2021 - Mar 1, 2022]{.cvfloat}\
+
+**Preparation of Basic Materials and Equipment for Chemical Laboratories – National Learning Service (SENA) – Huila. Center for Agro-Business and Livestock Development of Huila – Colombia** \hfill [Sep 13 – Dec 13, 2016]{.cvfloat}\
+
+### Conferences
+
+**Science in the Park – Cauca Research Council**\hfill [Sep 24 – 25, 2025]{.cvfloat}\
+
+- **(Speaker)** Evaluation of neuroreproductive and morphological effects associated with Glifocafé exposure in *Drosophila melanogaster* (Drosophilidae)
+
+- **(Speaker)** Seed germination of *Pterocaulon alopecuroides* (Lam.) DC.: Contributions to the knowledge of native species
+
+**XVIII Symposium on Research in Biological Sciences – Universidad del Cauca – Department of Biology** \hfill [Sep 15 – 19, 2025]{.cvfloat}\
+
+- **(Speaker)** Preliminary QSAR toxicity assessment utilizing a supervised learning model in *Drosophila melanogaster* (Drosophilidae)
+
+- **(Speaker)** *In silico* analysis of *Peperomia* (Piperaceae) metabolites as potential modulators of the Pin1 enzyme in Alzheimer's disease: A study based on specimens from the CAUP Herbarium
+
+- **(Speaker)** Reproductive, neurotoxic, and morphological effects of Glifocafé exposure in *Drosophila melanogaster* (Drosophilidae)
+
+**52nd Socolen Colombian Congress of Entomology – Colombian Association of Entomology – Universidad del Magdalena – Santa Marta, Magdalena, Colombia** \hfill [Jun 25 – 27, 2025]{.cvfloat}\
+**(Poster)** Differential expression and *in silico* evaluation of pesticides in behavioral pathways of *Atta cephalotes*
+
+**I Brazil–Colombia Scientific Meeting** \hfill [May 23, 2025]{.cvfloat}\
+**(Speaker)** *In vivo* and *in silico* evaluation of the reproductive toxicity and neurotoxicity of *Erythroxylum coca* in *Drosophila melanogaster*
+
+**XIII Research Meeting on Biomedical Sciences, Morphological Skills, and Education – Universidad de Durango, Zacatecas Campus, Mexico** \hfill [May 26, 2025]{.cvfloat}\
+**(Poster)** Evaluation of the neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*
+
+**XIV National Congress and XV International Neuroscience Seminar – Colegio Colombiano de Neurociencias – International Brain Research Organization – Pontificia Universidad Javeriana, Bogotá Campus** \hfill[Apr 24 – 26, 2025]{.cvfloat}\
+
+**XII Colombian Botanical Congress – Universidad del Cauca** \hfill [Nov 4 – 8, 2024]{.cvfloat} - **(Poster)** Viability and germinative capacity in seeds of *Pterocaulon alopecuroides* (Lam.) DC. - **(Speaker)** Bryophyte biodiversity at Universidad del Cauca, Popayán
+
+**Pacific Regional Convergence for COP16 – Vice Presidency of the Republic. Cali, Colombia** \hfill [Oct 25 – 26, 2024]{.cvfloat}\
+**(Speaker)** MHN-Unicauca staff, Cauca Pavilion, and the Pacific District Popular Economies Pavilion in the COP16 Green Zone
+
+**XVII Symposium on Research in Biological Sciences – Universidad del Cauca** \hfill [Nov 8 – 10, 2023]{.cvfloat}\
+**(Organizer)**
+
+**XI Latin American Congress of Medicinal Plants – Latin American Society of Medicinal Plants (SOLAPLAMED) – Corporación Universitaria Santa Rosa de Cabal – Universidad del Quindío – Armenia, Quindío, Colombia** \hfill [Sep 13 – 16, 2023]{.cvfloat}\
+**(Attendee)**
+
+**II Cancer Update Symposium: From Genetics to Clinical Practice – Universidad Militar Nueva Granada – Bogotá, Cundinamarca, Colombia** \hfill [Jun 3, 2023]{.cvfloat}\
+**(Attendee)**
+
+**I Stem Cells and Gene Therapy Symposium – Universidad Militar Nueva Granada – Bogotá, Cundinamarca, Colombia** \hfill [Apr 15, 2023]{.cvfloat}\
+**(Attendee)**
+
+**Competition for the Most Molecularly Accurate DNA Molecule – Ibero-American Artificial Intelligence Network for Big BioData (RIABIO) – Cancer, Environmental, and Molecular Group (BIMAC) – Faculty of Education, Exact and Natural Sciences – Popayán, Cauca, Colombia** \hfill [Apr 25, 2023]{.cvfloat}\
+**(Attendee)**
+
+**International Colloquium: Omics Sciences, Advances, Big Data, and Impact on Personalized and Precision Medicine – Faculty of Education, Exact and Natural Sciences – Universidad del Cauca – Popayán, Cauca, Colombia** \hfill [Nov 2, 2021]{.cvfloat}\
+**(Attendee)**
+
+**XVI Symposium on Research in Biological Sciences – Faculty of Exact and Natural Sciences – Universidad del Cauca – Popayán, Cauca, Colombia** \hfill [Nov 3 – 5, 2021]{.cvfloat}\
+**(Attendee)**
+
+**COVID-19: An Approach from Biology – Faculty of Education, Exact and Natural Sciences – Universidad del Cauca – Popayán, Cauca, Colombia** \hfill [Dec 4, 2020]{.cvfloat}\
+
+## Workshops Taught
+
+**Introduction to R and Statistical Testing – Entomology Laboratory, Functional Diversity and Ecosystem Services Research Group (DIVERFUN) – Natural History Museum – Universidad del Cauca, Popayán, Cauca, Colombia (2 hours)** \hfill [Mar 5, 2025]{.cvfloat}\
+This course covers preliminary criteria for understanding programming logic, followed by an in-depth exploration of core libraries and packages essential for biologists to conduct biological analyses and data visualizations.
+
+**Artificial Intelligence Tools for R Programming and Reproducible Science – Geology, Ecology, and Conservation Research Group – ASIO – Universidad del Cauca, Popayán, Cauca, Colombia (4 hours)** \hfill [May 16 – Jun 2, 2025]{.cvfloat}\
+This course introduces programming workflows in R, focusing on how to effectively troubleshoot complex programming issues when beginning to learn programming logic.
+
+## Work Experience
+
+**Accreditation of Accreditable Undergraduate and Postgraduate Programs RG 2022-009 through the Center for Quality Management and Institutional Accreditation** \hfill [Apr 6 – Jul 6, 2026]{.cvfloat}\
+**(Student Assistant)** Assisted in data systematization, presentation design, and the high-quality accreditation process for the Biology undergraduate program.
+
+**Private Biology and Chemistry Tutor at Pre-Universitario Smart – Popayán, Colombia** \hfill [Apr 1 – Jul 1, 2026]{.cvfloat}\
+
+**Private Biology Tutor at Pre-Universitario Next – Popayán, Colombia** \hfill [Apr 1 – May 1, 2026]{.cvfloat}\
+
+**Freelance English Language Instructor at Overcome The Barrier (OCTB)** \hfill [Nov 27, 2025 – Present]{.cvfloat}\
+
+**Herbarium Collection at the Natural History Museum, Universidad del Cauca** \hfill [Oct 2, 2024 – Jun 20, 2025]{.cvfloat}\
+**(Student Assistant)** Assisted in the management, preservation, and organization of botanical specimens deposited in the Herbarium of the Natural History Museum (MHN) at Universidad del Cauca.
+
+**Developmental Biology and Neural Plasticity Research Group at Universidad del Cauca** \hfill [Sep 10, 2023 – Present]{.cvfloat}\
+**(Research Assistant / Coordinator)** Provided support, planning, and management for the organization of courses, workshops, and academic projects.
+
+## Research Experience & Projects
+
+**Proposal for an Interurban Biological Corridor in the Tulcán Sector of the Municipality of Popayán: A Strategy for Biodiversity Conservation and Land Use Planning (ID: 6114) – Universidad del Cauca. Faculty of Education, Exact and Natural Sciences. Department of Biology. Non-Vascular Plant Taxonomy Area (Bryophytes)** \hfill [Jan 1 – Dec 30, 2024]{.cvfloat}\
+Quantified the number of families, genera, and species of bryophytes present in the Tulcán sector of the municipality of Popayán. Designed a management plan for the establishment of an interurban biological corridor in the Tulcán sector of the municipality of Popayán.
+
+**Evaluation of the Biological Functionality of Ethanolic and Aqueous Coca Leaf Extracts (ID: 6458) – Universidad del Cauca. Faculty of Education, Exact and Natural Sciences** \hfill[Aug 29, 2025 – Aug 28, 2026]{.cvfloat}\
+Determined the cytotoxicity & genotoxicity of aqueous and ethanolic extracts, simulated molecular interactions with pathological proteins, and modeled conformational changes through molecular dynamics for the discovery of novel biologically active compounds.
+
+## Awards & Honors
+
+**Institutional Merit Recognition – Rectorate of the Universidad del Cauca** \hfill [Nov 22]{.cvfloat}\
+Awarded by the University Rector for outstanding academic and research contributions during the institution's 198th Anniversary. This represents the highest institutional honor for student excellence.
+
+**XIII Research Meeting in Biomedical Sciences, Morphological Skills, and Education – Universidad de Durango, Zacatecas Campus, Mexico** \hfill [Jun 2, 2025]{.cvfloat}\
+**Award:** First place in the poster category for the work "Evaluation of the neurotoxic, reproductive, and morphological effects of Glyphocafé® exposure in *Drosophila melanogaster*".
+
+**XIV National Neuroscience Congress and XV International Neuroscience Seminar – Bogotá, Cundinamarca, Colombia** \hfill [Apr 23, 2025]{.cvfloat}\
+**Honor:** IBRO Fellowship – Registration fee waiver for the XIV National Neuroscience Congress and XV International Neuroscience Seminar – Bogotá, Cundinamarca, Colombia.
+
+**Symposium Commemorating the Discovery of DNA and the Human Genome Project – Competition for the Most Molecularly Accurate DNA Model** \hfill [Apr 25, 2023]{.cvfloat}\
+**Award:** First Place for Outstanding Performance in the DNA Molecule Construction Challenge.
+
+## Skills
+
+**Languages** \* Spanish (Native), English (Professional Proficiency B2), Portuguese (Elementary Proficiency A1)
+
+**Computational & Bioinformatic Skills** **Operating Systems:** Advanced proficiency in Linux (Bash scripting), macOS, and Windows. **Molecular Modeling:** Structural molecular docking, molecular dynamics (MD) simulations, ADMET profiling, and QSAR modeling. **Omics & Phylogenetics:** Transcriptomic data analysis (RNA-Seq using DESeq2) and phylogenetic reconstruction. **Scientific Programming:** Proficient in Python, R, C, Rust, and Bash. **Scientific Typesetting:** Expert deployment of reproducible documents and technical writing via LaTeX, Markdown, and Quarto.
+
+**Educational & Outreach Skills**
+
+**Subject Matter Expertise:** Cell & molecular biology, genetics, botany, biochemistry, and general chemistry. **Pedagogical Design:** Development of curriculum and educational materials, workshop and academic course instruction, and effective science communication tailored to diverse audiences.
+
+**Scientific Research** **Project Management:** Design and execution of biological research projects, protocol optimization, and synthesis of complex experimental and computational data.
+
+**Technical & Laboratory Skills**
+
+**Phytochemistry:** Extraction and processing of plant metabolites using Soxhlet, ultrasound-assisted extraction (UAE), and semi-quantitative phytochemical screening. **Biodiversity Data Informatics:** Management, standardization, and validation of ecological and taxonomic data using the Darwin Core (DwC) standard. Expert curation and integration of biological databases for species distribution and monitoring.
+
+**Scientific Communication** **Technical Writing:** Comprehensive literature synthesis, manuscript preparation, and editing for peer-reviewed scientific journals.
+
+## Manuscripts in preparation
+
+García Cevallos, X. C., Castillo Bravo, C. C., Tovar, Y. Y., Giraldo Aristizábal, C. I., & Castillo Ordóñez, W. O. Evolutionary divergence of 1,3-β-glucan synthase and its impact on the binding affinity of natural compounds with potential antifungal activity: An in silico approach.
+
+## Manuscripts Under Review
+
+García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(En revisión)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
+
+## Publications
+
+Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal.DOI: https://doi.org/10.14483/2256201X.23642
+
+## Associations
+
+**Research Group in Microscopy and Image Analysis (GIMAI) - Researcher**\
+**Developmental Biology and Neural Plasticity Research Group - Research Assistant**\
+**Biosis Talks - Coordinator**\
+**Founder – Colombian Institute of Neurosciences**\
+**Latin American Synthetic Biology Association - Active Member**\
+**Colombian Botanical Association - Expansion Committee Member**\
+
+::: print-only
+Available upon request
+:::

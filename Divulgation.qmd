@@ -1,6 +1,0 @@
----
-title: "Science"
-theme:
-  light: flatly
-  dark: darkly
----
