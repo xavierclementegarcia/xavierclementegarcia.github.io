@@ -30,7 +30,7 @@ format:
 
 ## Resumen
 
-Biology student with a robust background in molecular biology, developmental biology, plant physiology, neurobiology and ecotoxicology. Experienced in the management and curation of botanical collections, as well as the application of computational tools to biological sciences including QSAR modeling and bioinformatics utilizing R and Python.
+Biology student interested in computational biology, drug discovery, and molecular biology. Experience in structural bioinformatics, molecular docking, ADMET analysis, and scientific programming (R and Python), complemented by research on natural products and neurodegenerative diseases. Author of scientific publications and speaker at national and international conferences.
 
 ## Education
 
@@ -87,7 +87,9 @@ Determined the cytotoxicity & genotoxicity of aqueous and ethanolic extracts, si
 **Developmental Biology and Neural Plasticity Research Group at Universidad del Cauca** \hfill [Sep 10, 2023 – Present]{.cvfloat}\
 **(Research Assistant / Coordinator)** Provided support, planning, and management for the organization of courses, workshops, and academic projects.
 
-### Conferences
+## Conferences
+
+### Presentation at scientific events (Speaker and Poster)
 
 **Science in the Park – Cauca Research Council**\hfill [Sep 24 – 25, 2025]{.cvfloat}\
 
@@ -113,11 +115,18 @@ Determined the cytotoxicity & genotoxicity of aqueous and ethanolic extracts, si
 **(Poster)** Evaluation of the neurotoxic, reproductive, and morphological effects of exposure to Glifocafé® in *Drosophila melanogaster*
 
 **XIV National Congress and XV International Neuroscience Seminar – Colegio Colombiano de Neurociencias – International Brain Research Organization – Pontificia Universidad Javeriana, Bogotá Campus** \hfill[Apr 24 – 26, 2025]{.cvfloat}\
+**(Speaker)** *In silico* evaluation of the therapeutic potential of *Pterocaulon alopecuroides* in Alzheimer's disease
 
-**XII Colombian Botanical Congress – Universidad del Cauca** \hfill [Nov 4 – 8, 2024]{.cvfloat} - **(Poster)** Viability and germinative capacity in seeds of *Pterocaulon alopecuroides* (Lam.) DC. - **(Speaker)** Bryophyte biodiversity at Universidad del Cauca, Popayán
+**XII Colombian Botanical Congress – Universidad del Cauca** \hfill [Nov 4 – 8, 2024]{.cvfloat}
+
+- **(Poster)** Viability and germinative capacity in seeds of *Pterocaulon alopecuroides* (Lam.) DC
+
+- **(Speaker)** Bryophyte biodiversity at Universidad del Cauca, Popayán
 
 **Pacific Regional Convergence for COP16 – Vice Presidency of the Republic. Cali, Colombia** \hfill [Oct 25 – 26, 2024]{.cvfloat}\
 **(Speaker)** MHN-Unicauca staff, Cauca Pavilion, and the Pacific District Popular Economies Pavilion in the COP16 Green Zone
+
+### Assistance and organization of scientific events
 
 **XVII Symposium on Research in Biological Sciences – Universidad del Cauca** \hfill [Nov 8 – 10, 2023]{.cvfloat}\
 **(Organizer)**
@@ -154,20 +163,15 @@ This course introduces programming workflows in R, focusing on how to effectivel
 
 **Languages:** Spanish (Native), English (Professional Proficiency B2), Portuguese (Elementary Proficiency A1)
 
-**Bioinformatics**
-R, Python, Bash, Rust, C, AutoDock Vina, Boltz-1 & 2, AutoDock4, Pymol, AlphaFold, ADMET analysis, CB-Dock, IQ-Tree, DESeq2, Modeller, QSAR design
+**Bioinformatics** R, Python, Bash, Rust, C, AutoDock Vina, Boltz-1 & 2, AutoDock4, PyMol, AlphaFold, ADMET analysis, CB-Dock, IQ-Tree, DESeq2, Modeller, QSAR design
 
-**Educational Skills**
-Design and delivery of courses and workshops in biology, molecular biology, genetics, biochemistry, botany, chemistry, and scientific programming. Communication and dissemination of scientific content to academic and pre-university audiences.
+**Educational Skills** Design and delivery of courses and workshops in biology, molecular biology, genetics, biochemistry, botany, chemistry, and scientific programming. Communication and dissemination of scientific content to academic and pre-university audiences.
 
-**Scientific Research**
-Design and execution of research projects, development of experimental and computational protocols, analysis and interpretation of results, scientific writing, and manuscript preparation.
+**Scientific Research** Design and execution of research projects, development of experimental and computational protocols, analysis and interpretation of results, scientific writing, and manuscript preparation.
 
-**Techniques**
-Metabolite extraction (Soxhlet and ultrasound), phytochemical screening, biological and taxonomic databases (Darwin Core, DwC).
+**Techniques** Metabolite extraction (Soxhlet and ultrasound), phytochemical screening, biological and taxonomic databases (Darwin Core, DwC).
 
-**Scientific Communication**
-Writing and organizing scientific literature.
+**Scientific Communication** Writing and organizing scientific literature.
 
 ## Courses & Certifications
 

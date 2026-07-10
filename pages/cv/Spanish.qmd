@@ -28,23 +28,27 @@ format:
     css: pages/cv/Spanish.css
 ---
 
-### Resumen
+## Resumen
 
-Estudiante de Biología con sólida formación en áreas como biología molecular, fisiología vegetal, neurobiología y ecotoxicología. Manejo y gestión de colección botánica y herramientas computacionales aplicadas a la biología (modelos QSAR, bioinformática con R y Python).
+Estudiante de Biología interesado en biología computacional, descubrimiento de fármacos y biología molecular. Experiencia en bioinformática estructural, acoplamiento molecular, análisis ADMET y programación científica (R y Python), complementada con investigación en productos naturales y enfermedades neurodegenerativas. Autor de publicaciones científicas y ponente en congresos nacionales e internacionales.
 
-### Educación
+## Educación
+
 **Estudiante de Biología - Universidad del Cauca - (4.3/5.0)** \hfill [Aug 2020 - Presente]{.cvfloat}\
 
-### Artículos publicados
+## Artículos publicados
+
 Polindara Moncayo, Y. W., Garcia Cevallos, X.C, Guevara Trujillo, D.T., Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam) DC planta de uso medicinal.DOI: https://doi.org/10.14483/2256201X.23642
 
-### Artículos en revisión
+## Artículos en revisión
+
 García Cevallos, X. C., Huila Medina, J. F., Muñoz Buitrón, D., & Arcos, L. T., *(En revisión)*, Efectos reproductivos, neurotóxicos y morfológicos de la exposición al Glifocafé® en *Drosophila melanogaster*
 
-### Artículos en preparación
+## Artículos en preparación
+
 García Cevallos, X. C., Castillo Bravo, C. C., Tovar, Y. Y., Giraldo Aristizábal, C. I. & Castillo Ordóñez, W. O. Evolutionary divergence of 1,3-β-glucan synthase and its impact on the binding affinity of natural compounds with potential antifungal activity: An *in silico* approach.
 
-### Premios y distinciones
+## Premios y distinciones
 
 **Reconocimiento al Mérito Institucional – Rectoría de la Universidad del Cauca** \hfill [2 Nov 2025]{.cvfloat}\
 Otorgado por el Rector de la Universidad por contribuciones académicas y de investigación destacadas en el marco del 198.º Aniversario de la institución. Esta distinción representa el máximo honor institucional a la excelencia estudiantil.
@@ -58,7 +62,7 @@ Otorgado por el Rector de la Universidad por contribuciones académicas y de inv
 **Simposio para conmemorar el descubrimiento del ADN y el Proyecto Genoma Humano. Concurso para la molécula de ADN más precisa molecularmente.** \hfill [25 Abril 2023]{.cvfloat}\
 **Distinción:** Primer puesto por desempeño destacado en la construcción de la Molécula de ADN \# Artículos en preparación García Cevallos, X. C., Castillo Bravo, C. C., Tovar, Y. Y., Giraldo Aristizábal, C. I., & Castillo Ordóñez, W. O. Evolutionary divergence of 1,3-β-glucan synthase and its impact on the binding affinity of natural compounds with potential antifungal activity: An in silico approach.
 
-### Experiencia en Investigación y Proyectos
+## Experiencia en Investigación y Proyectos
 
 **Propuesta de Corredor Biológico Interurbano en el Sector Tulcán del Municipio de Popayán con Estrategia para la conservación de la biodiversidad y el ordenamiento territorial. (ID: 6114) - Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas. Departamento de Biología. Área de Taxonomía de Plantas no vasculares (Briófitas).** \hfill [1 Ene - 30 Dic 2024]{.cvfloat}\
 Cuantificar el número de familias, géneros y especies de Briófitos presentes en el secto Tulcán del Municipio de Popayán. Diseñar un plan de manejo para la consolidación de un corredor biológico interurbano en el sector Tulcán del Municipio de Popayán.
@@ -66,7 +70,8 @@ Cuantificar el número de familias, géneros y especies de Briófitos presentes 
 **Evaluación de la funcionalidad biológica de los extractos etanólico y acuoso de la hoja de coca. (ID: 6458) - Universidad del Cauca. Facultad de Educación, Ciencias Naturales y Exactas** \hfill [29 agost 2025 - 28 agost 2026]{.cvfloat}\
 Determinación de la citotoxicidad/genotoxicidad de extractos acuosos y etanólicos, simular interacciones moleculares con proteínas patológicas y modelar cambios conformacionales mediante dinámica molecular para el descubrimiento de nuevos compuestos biológicamente activos.
 
-### Experiencia laboral
+## Experiencia laboral
+
 **Acreditación de programas de pregrado y posgrado acreditables RG 2022-009 a través del Centro de Gestión de la Calidad y la Acreditación institucional** \hfill [6 Abr - 6 Jul 2026]{.cvfloat}\
 **(Monitor)** Apoyo en la sistematización de la información, organización de presentaciones y en el proceso de acreditación de alta calidad del programa de Biología
 
@@ -82,7 +87,10 @@ Determinación de la citotoxicidad/genotoxicidad de extractos acuosos y etanóli
 **Semillero de Investigación en Biología del Desarrollo y Plasticidad Neural de la Universidad del Cauca** \hfill [10 Sept 2023 - Presente]{.cvfloat}\
 **(Coordinador)** Apoyo, planificación y gestión dela organización de cursos, talleres y proyectos académicos.
 
-### Conferencias
+## Conferencias
+
+### Presentación en eventos científicos (Ponencia y Póster)
+
 **Ciencia al parque - Mesa de Investigaciones Cauca** \hfill [24 - 25 Sept 2025]{.cvfloat}\
 
 - **(Ponente)**Evaluación de efectos neuroreproductivos y morfológicos asociados a la exposición por Glifocafé en *Drosophila melanogaster* (Drosophilidae)
@@ -114,11 +122,12 @@ Determinación de la citotoxicidad/genotoxicidad de extractos acuosos y etanóli
 **(Organizador y Ponente)**
 
 - **(Póster)** Viabilidad y capacidad germinativa en semillas de *Pterocaulon alopecuroides* (Lam.) DC.
-
 - **(Ponente)** Biodiversidad de briofitas en la Universidad del Cauca, Popayán.
 
 **Convergencia Regional del Pacífico para la COP-16 - Vicepresidencia de la República. Cali, Colombia** \hfill [25 - 26 Oct 2024]{.cvfloat}\
 **(Ponente)** Staff MHN-Unicauca, Stand Cauca y Stand Economías Populares del distrito Pacífico en la zona verde de la COP16.
+
+### Asistencia y organización de eventos científicos
 
 **XVII Simposio de Investigación en Ciencias Biológicas - Universidad del Cauca** \hfill [8 - 10 Nov 2023]{.cvfloat}\
 **(Organizador)**
@@ -144,34 +153,30 @@ Determinación de la citotoxicidad/genotoxicidad de extractos acuosos y etanóli
 **COVID 19: Una aproximación desde la Biología - Facultad de Educación en Biología, Ciencias Exactas y Naturales de la Universidad del Cauca - Popayán, Cauca, Colombia.** \hfill [4 Dic 2020]{.cvfloat}\
 **(Asistente)**
 
-### Talleres dictados
+## Talleres dictados
+
 **Introducción a R y manejo de pruebas estadísticas - Laboratorio de Entomología, Semillero Diversidad Funcional y Servicios Ecosistémicos (DIVERFUN) - Museo de Historia Natural - Universidad del Cauca, Popayán, Cauca, Colombia. (2 horas)** \hfill [5 Mar 2025]{.cvfloat}\
 Este curso aborda criterios preliminares para comprender la lógica de programación, para luego profundizar en el conocimiento de librerías y paquetes fundamentales para que el biólogo pueda desarrollar análisis biológicos y diagramas de representación.
 
 **Herramientas de inteligencia artificial para el manejo de R y ciencia reproducible - Semillero de Investigación en Geología, Ecología y Conservación - ASIO - Universidad del Cauca, Popayán, Cauca, Colombia (4 horas)** \hfill [16 May - Jun 2 2025]{.cvfloat}\
 Este curso introduce el abordaje de la programación en el software R y cómo puedes resolver problemas difíciles de programación cuando comienzas a aprender sobre lógica de programación.
 
-### Aptitudes
+## Aptitudes
 
-**Idiomas**
-- Español (nativo), Inglés (B2), Portugués (A1)
+**Idiomas** - Español (nativo), Inglés (B2), Portugués (A1)
 
-**Bioinformática**
-R, Python, Bash, Rust, C, AutoDock Vina, Boltz-1 & 2, AutoDock4, Pymol, AlphaFold, análisis ADMET, CB-Dock, IQ-Tree, DESeq2, Modeller, diseño QSAR
+**Bioinformática** R, Python, Bash, Rust, C, AutoDock Vina, Boltz-1 & 2, AutoDock4, PyMol, AlphaFold, análisis ADMET, CB-Dock, IQ-Tree, DESeq2, Modeller, diseño QSAR
 
-**Educativas**
-Diseño e impartación de cursos y talleres en biología, biología molecular, genética, bioquímica, botánica, química y programación científica. Comunicación y divulgación de contenidos ciéntificos para públicos académicos y preuniversitarios. 
+**Educativas** Diseño e impartición de cursos y talleres en biología, biología molecular, genética, bioquímica, botánica, química y programación científica. Comunicación y divulgación de contenidos ciéntificos para públicos académicos y preuniversitarios.
 
-**Investigación científica**
-Diseño y ejecución de proyectos de investigación, desarrollo de protocolos experimentales y computacionales, análisis e interpretación de resultados, redacción científica y preparación de manuscritos.
+**Investigación científica** Diseño y ejecución de proyectos de investigación, desarrollo de protocolos experimentales y computacionales, análisis e interpretación de resultados, redacción científica y preparación de manuscritos.
 
-**Técnicas**
-Extracción de metabolitos (soxhlet y ultrasonido), tamizaje fitoquímico, bases de datos biológicas y taxonómicas (Darwin Core, DwC).
+**Técnicas** Extracción de metabolitos (soxhlet y ultrasonido), tamizaje fitoquímico, bases de datos biológicas y taxonómicas (Darwin Core, DwC).
 
-**Comunicación científica**
-Redacción y organización de literatura científica
+**Comunicación científica** Redacción y organización de literatura científica
 
-### Cursos y certificaciones
+## Cursos y certificaciones
+
 **Redacción científica en LaTeX e integración con R - Majuipal Solveris** \hfill [4 - 25 Feb 2025]{.cvfloat}\
 Aprendizaje en la redacción de texto académicos a través de LaTeX.
 
@@ -195,7 +200,8 @@ Aprendizaje en la redacción de texto académicos a través de LaTeX.
 
 **Preparación de materiales y equipos básicos para laboratorio químico - Servicio Nacional de Aprendizaje SENA - Huila. Centro de Desarrollo Agroempresarial y pecuario del Huila - Colombia** \hfill [13 Sept-13 Dic 2016]{.cvfloat}\
 
-### Asociaciones
+## Asociaciones
+
 **Grupo de Investigación en Microscopía y Análisis de Imágenes (GIMAI) - Investigador**\
 **Semillero de Biología del Desarrollo y Plasticidad Neural - Coordinador**\
 **Biosis Talks - Fundador**\
@@ -204,7 +210,7 @@ Aprendizaje en la redacción de texto académicos a través de LaTeX.
 **Asociación Colombiana de Botánica - Socio activo**\
 
 ::: print-only\
-### Referencias
+## Referencias
 
 Disponible a solicitud
 :::
