@@ -95,7 +95,7 @@ Determined the cytotoxicity & genotoxicity of aqueous and ethanolic extracts, si
 
 **III Colombian Congress of Developmental Biology**\hfill [Aug 1 – 14, 2026]{.cvfloat}\
 
--   **(Speaker)** Evolutionary divergence of 1,3β-glucan synthase and its impact on affinity for natural compounds with antifungal potential: An *in silico* approach
+-   **(Poster)** Evolutionary divergence of 1,3β-glucan synthase and its impact on affinity for natural compounds with antifungal potential: An *in silico* approach
 
 **Science in the Park – Cauca Research Council**\hfill [Sep 24 – 25, 2025]{.cvfloat}\
 
