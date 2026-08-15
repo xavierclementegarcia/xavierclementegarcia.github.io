@@ -1,0 +1,47 @@
+---
+# pagetitle: ""
+title: "Divergencia evolutiva de la 1,3 β glucano sintasa y su impacto en la afinidad sobre compuestos naturales con potencial antifúngico: Un abordaje *in silico*"
+# description: ""
+
+lang: es
+
+date: 2026-08-14
+
+image: image1.jpg
+
+citation: false
+
+categories: 
+  - 1,3-β-glucano sintasa
+  - acoplamiento molecular
+  - divergencia evolutiva
+  - compuestos naturales
+  - rate4site
+
+about:
+  id: research
+  template: jolla
+  image-shape: rectangle
+---
+
+::: {#research}
+:::
+
+::: {style="text-align: justify;"}
+Este trabajo fue presentado en el marco del III Congreso Colombiano de Biología del Desarrolllo en la ciudad de Cali, Valle del Cauca
+
+## Resumen
+
+Las infecciones fúngicas representan una creciente amenaza para la salud mundial, causando aproximadamente 1,5 millones de muertes anuales. La limitada disponibilidad de fármacos antifúngicos y la creciente resistencia en especies clínicamente relevantes como *Candida* y *Aspergillus* evidencian la necesidad urgente de nuevas estrategias terapéuticas. La enzima 1,3-β-glucano sintasa (FKS1) es un componente esencial de la síntesis de la pared celular fúngica y constituye un blanco farmacológico relevante. Estudios previos se han centrado exclusivamente en dominios canónicos como los hotspots HS1 y HS2, sitios objetivo de las equinocandinas. Los cambios ambientales y la resistencia farmacológica emergente podrían estar generando variaciones conformacionales que reducen la efectividad de los antifúngicos actuales. En este estudio evaluamos por primera vez un sitio no canónico en base a su potencial farmacológico del dominio FKS1 (300-409), que podría albergar residuos conservados con capacidad moduladora. Se analizaron diez especies fúngicas mediante alineamiento múltiple de secuencias, análisis filogenético de máxima verosimilitud, predicción estructural con AlphaFold3, variabilidad conformacional con SSSCPreds, tasas evolutivas con Rate4Site y acoplamiento molecular con AutoDock Vina. Rate4Site reportó residuos conservados en L385, V389, T390, P391, Y393, Q397 Y E399 y alta divergencia en V388. El acoplamiento molecular reveló diferencias significativas entre especies, con *S. cerevisiae* presentando mayores afinidades (−6,4 a −9,2 kcal/mol). Quercetina, luteolina, dihidrokaempferol y apigenina mostraron los mejores valores de afinidad, con interacciones específicas sobre los residuos conservados identificados. Estos hallazgos sugieren que la región 300-409 de FKS1 representa una diana alternativa viable para el desarrollo de antifúngicos con selectividad diferencial entre especies.
+
+**Palabras clave:** *1,3-β-glucano sintasa, acoplamiento molecular, divergencia evolutiva, compuestos naturales, rate4site*
+
+## Presentación
+
+```{=html}
+<iframe src="poster_iiiccb.pdf" width="100%" height="500px" style="border: none;">
+    <p>Tu navegador no soporta la visualización de PDFs. 
+    Puedes <a href="poster_iiiccb.pdf">hacer clic aquí para descargar el archivo PDF.</a></p>
+</iframe>
+```
+:::
