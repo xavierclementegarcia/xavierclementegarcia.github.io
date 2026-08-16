@@ -31,6 +31,8 @@ links:
 ::: {style="text-align: justify;"}
 **Para más información del curso puede revisar la página [XIII CCB](https://acb.org.co/xiiiccb2026/) o escribir al [e-mail](mailto:xgarcia@unicauca.edu.co?subject=Consulta%20sobre%20el%20curso).**
 
+Para acceder al contenido del curso [**clic aquí**](https://bioden.github.io/XIII_CCB_curso/)
+
 ![](images.jpg){fig-align="center" width="227"}
 
 ## Resumen del evento
